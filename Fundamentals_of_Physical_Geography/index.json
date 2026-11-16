@@ -1,0 +1,354 @@
+{
+  "book_metadata": {
+    "title": "Fundamentals of Physical Geography",
+    "subject": "Geography (Physical Geography)",
+    "class": "Class 11",
+    "board": "NCERT",
+    "edition": "2024-25 (Civilsdaily IAS Annotated NCERT Edition)",
+    "cover_image": "cover.png",
+    "highlight_guide": {
+      "Green": "Areas from where PYQs have been asked",
+      "Blue": "Other important areas from where questions are possible / extra attention",
+      "Pink": "Purely factual statements like year etc.",
+      "Peach": "Terms and their definitions given in NCERT",
+      "Yellow": "Statements which sound extreme but are true"
+    },
+    "total_chapters": 16,
+    "total_pdf_pages_with_covers": 150,
+    "total_content_pages": 134,
+    "total_reading_time_minutes": 329,
+    "pyq_summary": {
+      "chapters_with_dedicated_pyqs": [],
+      "chapters_with_handwritten_pyqs": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+      ],
+      "total_inline_callouts": 14
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "unit": "Unit I: Geography as a Discipline",
+      "title": "Geography as a Discipline",
+      "slug": "geography_as_a_discipline",
+      "pdf_file": "chapters/Chapter_01_Geography_as_a_Discipline.pdf",
+      "json_file": "chapters/Chapter_01_Geography_as_a_Discipline.json",
+      "total_pdf_pages": 12,
+      "book_page_range": "2–12",
+      "estimated_reading_time_minutes": 24,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_01_Geography_as_a_Discipline.pdf#page=10"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "unit": "Unit II: The Earth",
+      "title": "The Origin and Evolution of the Earth",
+      "slug": "the_origin_and_evolution_of_the_earth",
+      "pdf_file": "chapters/Chapter_02_The_Origin_and_Evolution_of_the_Earth.pdf",
+      "json_file": "chapters/Chapter_02_The_Origin_and_Evolution_of_the_Earth.json",
+      "total_pdf_pages": 8,
+      "book_page_range": "14–20",
+      "estimated_reading_time_minutes": 17,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_02_The_Origin_and_Evolution_of_the_Earth.pdf#page=7"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "unit": "Unit II: The Earth",
+      "title": "Interior of the Earth",
+      "slug": "interior_of_the_earth",
+      "pdf_file": "chapters/Chapter_03_Interior_of_the_Earth.pdf",
+      "json_file": "chapters/Chapter_03_Interior_of_the_Earth.json",
+      "total_pdf_pages": 10,
+      "book_page_range": "21–29",
+      "estimated_reading_time_minutes": 21,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=10"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "unit": "Unit II: The Earth",
+      "title": "Distribution of Oceans and Continents",
+      "slug": "distribution_of_oceans_and_continents",
+      "pdf_file": "chapters/Chapter_04_Distribution_of_Oceans_and_Continents.pdf",
+      "json_file": "chapters/Chapter_04_Distribution_of_Oceans_and_Continents.json",
+      "total_pdf_pages": 10,
+      "book_page_range": "30–38",
+      "estimated_reading_time_minutes": 22,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 5
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_04_Distribution_of_Oceans_and_Continents.pdf#page=10"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "unit": "Unit III: Landforms",
+      "title": "Minerals and Rocks",
+      "slug": "minerals_and_rocks",
+      "pdf_file": "chapters/Chapter_05_Minerals_and_Rocks.pdf",
+      "json_file": "chapters/Chapter_05_Minerals_and_Rocks.json",
+      "total_pdf_pages": 6,
+      "book_page_range": "40–44",
+      "estimated_reading_time_minutes": 13,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=6"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "unit": "Unit III: Landforms",
+      "title": "Geomorphic Processes",
+      "slug": "geomorphic_processes",
+      "pdf_file": "chapters/Chapter_06_Geomorphic_Processes.pdf",
+      "json_file": "chapters/Chapter_06_Geomorphic_Processes.json",
+      "total_pdf_pages": 14,
+      "book_page_range": "45–57",
+      "estimated_reading_time_minutes": 32,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=14"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch07",
+      "unit": "Unit III: Landforms",
+      "title": "Landforms and their Evolution",
+      "slug": "landforms_and_their_evolution",
+      "pdf_file": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf",
+      "json_file": "chapters/Chapter_07_Landforms_and_their_Evolution.json",
+      "total_pdf_pages": 18,
+      "book_page_range": "58–74",
+      "estimated_reading_time_minutes": 42,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=17"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch08",
+      "unit": "Unit IV: Climate",
+      "title": "Composition and Structure of Atmosphere",
+      "slug": "composition_and_structure_of_atmosphere",
+      "pdf_file": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf",
+      "json_file": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.json",
+      "total_pdf_pages": 4,
+      "book_page_range": "76–78",
+      "estimated_reading_time_minutes": 8,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=4"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_id": "ch09",
+      "unit": "Unit IV: Climate",
+      "title": "Solar Radiation, Heat Balance and Temperature",
+      "slug": "solar_radiation_heat_balance_and_temperature",
+      "pdf_file": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf",
+      "json_file": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.json",
+      "total_pdf_pages": 10,
+      "book_page_range": "79–87",
+      "estimated_reading_time_minutes": 22,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=8"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_id": "ch10",
+      "unit": "Unit IV: Climate",
+      "title": "Atmospheric Circulation and Weather Systems",
+      "slug": "atmospheric_circulation_and_weather_systems",
+      "pdf_file": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf",
+      "json_file": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.json",
+      "total_pdf_pages": 11,
+      "book_page_range": "88–97",
+      "estimated_reading_time_minutes": 25,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=10"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_id": "ch11",
+      "unit": "Unit IV: Climate",
+      "title": "Water in the Atmosphere",
+      "slug": "water_in_the_atmosphere",
+      "pdf_file": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf",
+      "json_file": "chapters/Chapter_11_Water_in_the_Atmosphere.json",
+      "total_pdf_pages": 6,
+      "book_page_range": "98–102",
+      "estimated_reading_time_minutes": 13,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=5"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_id": "ch12",
+      "unit": "Unit IV: Climate",
+      "title": "World Climate and Climate Change",
+      "slug": "world_climate_and_climate_change",
+      "pdf_file": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf",
+      "json_file": "chapters/Chapter_12_World_Climate_and_Climate_Change.json",
+      "total_pdf_pages": 9,
+      "book_page_range": "103–110",
+      "estimated_reading_time_minutes": 21,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=9"
+    },
+    {
+      "chapter_number": 13,
+      "chapter_id": "ch13",
+      "unit": "Unit V: Water (Oceans)",
+      "title": "Water (Oceans)",
+      "slug": "water_oceans",
+      "pdf_file": "chapters/Chapter_13_Water_Oceans.pdf",
+      "json_file": "chapters/Chapter_13_Water_Oceans.json",
+      "total_pdf_pages": 9,
+      "book_page_range": "112–119",
+      "estimated_reading_time_minutes": 20,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=8"
+    },
+    {
+      "chapter_number": 14,
+      "chapter_id": "ch14",
+      "unit": "Unit V: Water (Oceans)",
+      "title": "Movements of Ocean Water",
+      "slug": "movements_of_ocean_water",
+      "pdf_file": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf",
+      "json_file": "chapters/Chapter_14_Movements_of_Ocean_Water.json",
+      "total_pdf_pages": 7,
+      "book_page_range": "120–125",
+      "estimated_reading_time_minutes": 16,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=7"
+    },
+    {
+      "chapter_number": 15,
+      "chapter_id": "ch15",
+      "unit": "Unit VI: Life on the Earth",
+      "title": "Life on the Earth",
+      "slug": "life_on_the_earth",
+      "pdf_file": "chapters/Chapter_15_Life_on_the_Earth.pdf",
+      "json_file": "chapters/Chapter_15_Life_on_the_Earth.json",
+      "total_pdf_pages": 9,
+      "book_page_range": "127–134",
+      "estimated_reading_time_minutes": 19,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=8"
+    },
+    {
+      "chapter_number": 16,
+      "chapter_id": "ch16",
+      "unit": "Unit VI: Life on the Earth",
+      "title": "Biodiversity and Conservation",
+      "slug": "biodiversity_and_conservation",
+      "pdf_file": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf",
+      "json_file": "chapters/Chapter_16_Biodiversity_and_Conservation.json",
+      "total_pdf_pages": 7,
+      "book_page_range": "135–140",
+      "estimated_reading_time_minutes": 14,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=6"
+    }
+  ]
+}

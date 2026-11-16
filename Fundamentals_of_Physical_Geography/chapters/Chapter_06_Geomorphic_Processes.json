@@ -1,0 +1,168 @@
+{
+  "chapter_number": 6,
+  "chapter_id": "ch06",
+  "unit": "Unit III: Landforms",
+  "title": "Geomorphic Processes",
+  "slug": "geomorphic_processes",
+  "pdf_filename": "Chapter_06_Geomorphic_Processes.pdf",
+  "pdf_file": "chapters/Chapter_06_Geomorphic_Processes.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 14,
+    "content_pages": 13,
+    "cover_pdf_page": 1,
+    "book_page_range": "45–57",
+    "exercises_pdf_page": 14,
+    "exercises_pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=14",
+    "exercises_book_pages": "57",
+    "word_count": 5800,
+    "estimated_reading_time_minutes": 32
+  },
+  "learning_objectives": [
+    "Endogenic processes (diastrophism, orogeny, epeirogeny, volcanism) driven by internal Earth energy;",
+    "Exogenic denudational processes (weathering, mass movements, erosion, deposition);",
+    "Chemical, physical/mechanical, and biological weathering processes and exfoliation;",
+    "Slow and rapid mass movements (creep, solifluction, earthflow, mudflow, landslides); and",
+    "Soil formation (pedogenesis) and its five controlling factors."
+  ],
+  "sections": [
+    "Geomorphic Processes & Endogenic Forces",
+    "Exogenic Processes & Denudation",
+    "Chemical, Physical & Biological Weathering",
+    "Mass Movements (Slow, Rapid & Landslides)",
+    "Erosion and Deposition",
+    "Soil Formation & Five Controlling Factors"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Gradation",
+    "Diastrophism",
+    "Orogeny",
+    "Epeirogeny",
+    "Denudation",
+    "Carbonation",
+    "Hydration",
+    "Exfoliation Domes",
+    "Solifluction",
+    "Pedogenesis",
+    "Eluviation & Illuviation",
+    "Desilication"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Figure 6.1: Denudational processes and driving forces",
+      "pdf_page": 4,
+      "book_page": 47,
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=4"
+    },
+    {
+      "type": "Figure 6.2: Climatic regimes and weathering mantles",
+      "pdf_page": 5,
+      "book_page": 48,
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=5"
+    },
+    {
+      "type": "Figure 6.5: Mass movements relationships",
+      "pdf_page": 9,
+      "book_page": 52,
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=9"
+    },
+    {
+      "type": "Box: Landslides in Himalayas vs. Western Ghats",
+      "pdf_page": 11,
+      "book_page": 54,
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=11"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 45,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 46,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 47,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 48,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 49,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 50,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 51,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 52,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 53,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 54,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 55,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 56,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 57,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Geomorphic_Processes.pdf#page=14"
+    }
+  ]
+}

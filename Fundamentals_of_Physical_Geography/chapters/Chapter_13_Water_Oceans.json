@@ -1,0 +1,142 @@
+{
+  "chapter_number": 13,
+  "chapter_id": "ch13",
+  "unit": "Unit V: Water (Oceans)",
+  "title": "Water (Oceans)",
+  "slug": "water_oceans",
+  "pdf_filename": "Chapter_13_Water_Oceans.pdf",
+  "pdf_file": "chapters/Chapter_13_Water_Oceans.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 9,
+    "content_pages": 8,
+    "cover_pdf_page": 1,
+    "book_page_range": "112–119",
+    "exercises_pdf_page": 8,
+    "exercises_pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=8",
+    "exercises_book_pages": "118–119",
+    "word_count": 3600,
+    "estimated_reading_time_minutes": 20
+  },
+  "learning_objectives": [
+    "The hydrological cycle and global distribution of water across oceans, ice caps, groundwater, and atmosphere;",
+    "Major divisions of the ocean floor (continental shelf, slope, deep sea plain, oceanic deeps) and minor relief features;",
+    "Factors affecting ocean water temperature and the three-layer vertical thermal profile (thermocline); and",
+    "Factors controlling ocean salinity, horizontal surface salinity patterns, and vertical halocline stratification."
+  ],
+  "sections": [
+    "Hydrological Cycle & Water Distribution",
+    "Relief of the Ocean Floor (Major Divisions)",
+    "Minor Relief Features (Ridges, Seamounts, Guyots, Atolls)",
+    "Temperature of Ocean Waters & Thermocline",
+    "Salinity of Ocean Waters & Factors",
+    "Horizontal & Vertical Distribution of Salinity (Halocline)"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Hydrological Cycle",
+    "Continental Shelf",
+    "Continental Slope",
+    "Deep Sea Plain",
+    "Oceanic Deeps",
+    "Mid-Oceanic Ridge",
+    "Seamount & Guyot",
+    "Atoll",
+    "Thermocline",
+    "Salinity (ppt)",
+    "Halocline"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Figure 13.1 & Table 13.1–13.2: Hydrological Cycle",
+      "pdf_page": 2,
+      "book_page": 112,
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=2"
+    },
+    {
+      "type": "Figure 13.2: Relief features of ocean floors",
+      "pdf_page": 4,
+      "book_page": 114,
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=4"
+    },
+    {
+      "type": "Figure 13.3: Thermocline",
+      "pdf_page": 6,
+      "book_page": 116,
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=6"
+    },
+    {
+      "type": "Box & Table 13.4: Highest Salinity Bodies & Salts",
+      "pdf_page": 7,
+      "book_page": 117,
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=7"
+    },
+    {
+      "type": "Figure 13.5: Surface salinity of World's Oceans",
+      "pdf_page": 8,
+      "book_page": 118,
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=8"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 112,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 113,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 114,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 115,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 116,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 117,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 118,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 119,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_13_Water_Oceans.pdf#page=9"
+    }
+  ]
+}

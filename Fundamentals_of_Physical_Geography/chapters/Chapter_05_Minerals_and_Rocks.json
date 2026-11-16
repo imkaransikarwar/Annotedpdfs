@@ -1,0 +1,132 @@
+{
+  "chapter_number": 5,
+  "chapter_id": "ch05",
+  "unit": "Unit III: Landforms",
+  "title": "Minerals and Rocks",
+  "slug": "minerals_and_rocks",
+  "pdf_filename": "Chapter_05_Minerals_and_Rocks.pdf",
+  "pdf_file": "chapters/Chapter_05_Minerals_and_Rocks.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 6,
+    "content_pages": 5,
+    "cover_pdf_page": 1,
+    "book_page_range": "40–44",
+    "exercises_pdf_page": 6,
+    "exercises_pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=6",
+    "exercises_book_pages": "44",
+    "word_count": 2300,
+    "estimated_reading_time_minutes": 13
+  },
+  "learning_objectives": [
+    "Major elements of the Earth's crust and physical characteristics of minerals;",
+    "Properties of major rock-forming minerals (feldspar, quartz, pyroxene, amphibole, mica, olivine);",
+    "Classification of rocks by mode of formation: Igneous, Sedimentary, and Metamorphic; and",
+    "The continuous Rock Cycle transforming primary rocks into secondary and metamorphic forms."
+  ],
+  "sections": [
+    "Major Elements of Earth's Crust & Minerals",
+    "Physical Characteristics of Minerals",
+    "Major Minerals & Metallic/Non-Metallic Types",
+    "Igneous & Sedimentary Rocks (Lithification)",
+    "Metamorphic Rocks (Foliation & Banding)",
+    "The Rock Cycle"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": null,
+        "stage": "Mains",
+        "topic": "Characteristics and types of Primary (Igneous) rocks",
+        "book_page": 44,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=6"
+      }
+    ]
+  },
+  "key_terms": [
+    "Feldspar",
+    "Quartz",
+    "Pyroxene",
+    "Amphibole",
+    "Mica",
+    "Olivine",
+    "Petrology",
+    "Igneous Rocks",
+    "Lithification",
+    "Sedimentary Rocks",
+    "Metamorphism",
+    "Foliation",
+    "Rock Cycle"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Table 5.1: Major Elements of the Earth's Crust",
+      "pdf_page": 2,
+      "book_page": 40,
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=2"
+    },
+    {
+      "type": "Box: Physical Characteristics of Minerals",
+      "pdf_page": 2,
+      "book_page": 40,
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=2"
+    },
+    {
+      "type": "Box: Petrology",
+      "pdf_page": 4,
+      "book_page": 42,
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=4"
+    },
+    {
+      "type": "Figure 5.1: Rock Cycle",
+      "pdf_page": 5,
+      "book_page": 43,
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=5"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 40,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 41,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 42,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 43,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 44,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Minerals_and_Rocks.pdf#page=6"
+    }
+  ]
+}

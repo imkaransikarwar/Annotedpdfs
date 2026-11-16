@@ -1,0 +1,213 @@
+{
+  "chapter_number": 7,
+  "chapter_id": "ch07",
+  "unit": "Unit III: Landforms",
+  "title": "Landforms and their Evolution",
+  "slug": "landforms_and_their_evolution",
+  "pdf_filename": "Chapter_07_Landforms_and_their_Evolution.pdf",
+  "pdf_file": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 18,
+    "content_pages": 17,
+    "cover_pdf_page": 1,
+    "book_page_range": "58–74",
+    "exercises_pdf_page": 17,
+    "exercises_pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=17",
+    "exercises_book_pages": "73–74",
+    "word_count": 7600,
+    "estimated_reading_time_minutes": 42
+  },
+  "learning_objectives": [
+    "Erosional and depositional landforms shaped by running water across youth, mature, and old stages;",
+    "Groundwater (Karst topography) erosional features (sinkholes, lapies, caves) and stalactites/stalagmites;",
+    "Glacial erosional (cirques, horns, fjords) and depositional landforms (moraines, eskers, drumlins);",
+    "Coastal landforms along high rocky and low sedimentary coasts (cliffs, bars, spits, lagoons); and",
+    "Wind-carved desert landforms (pediments, pediplains, playas, mushroom rocks, barchans, seifs)."
+  ],
+  "sections": [
+    "Running Water: Youth, Mature & Old Stages",
+    "Fluvial Erosional & Depositional Landforms",
+    "Groundwater & Karst Topography",
+    "Glaciers: Cirques, Moraines, Eskers & Drumlins",
+    "Waves & Currents: Coastal Landforms",
+    "Winds: Desert Erosional & Sand Dune Landforms"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "stage": "Mains",
+        "topic": "How are fjords formed? (Glacial troughs)",
+        "book_page": 68,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=12"
+      }
+    ]
+  },
+  "key_terms": [
+    "Peneplain",
+    "Monadnocks",
+    "Gorge & Canyon",
+    "Incised Meanders",
+    "Ox-bow Lake",
+    "Karst Topography",
+    "Doline & Uvala",
+    "Stalactite & Stalagmite",
+    "Cirque & Arete",
+    "Fjord",
+    "Moraine",
+    "Esker",
+    "Drumlin",
+    "Pediment & Pediplain",
+    "Barchan & Seif"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Figure 7.3: Paired and unpaired river terraces",
+      "pdf_page": 5,
+      "book_page": 61,
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=5"
+    },
+    {
+      "type": "Figure 7.8: Meander growth and cut-off loops",
+      "pdf_page": 7,
+      "book_page": 63,
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=7"
+    },
+    {
+      "type": "Figure 7.10: Various karst features",
+      "pdf_page": 8,
+      "book_page": 64,
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=8"
+    },
+    {
+      "type": "Figure 7.13 & 7.14: Glacial erosional & depositional forms",
+      "pdf_page": 11,
+      "book_page": 67,
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=11"
+    },
+    {
+      "type": "Figure 7.16: Various types of sand dunes",
+      "pdf_page": 17,
+      "book_page": 73,
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=17"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 58,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 59,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 60,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 61,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 62,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 63,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 64,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 65,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 66,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 67,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 68,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 69,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 70,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 71,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 72,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 73,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 74,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_Landforms_and_their_Evolution.pdf#page=18"
+    }
+  ]
+}

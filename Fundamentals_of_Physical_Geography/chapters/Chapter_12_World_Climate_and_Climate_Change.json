@@ -1,0 +1,136 @@
+{
+  "chapter_number": 12,
+  "chapter_id": "ch12",
+  "unit": "Unit IV: Climate",
+  "title": "World Climate and Climate Change",
+  "slug": "world_climate_and_climate_change",
+  "pdf_filename": "Chapter_12_World_Climate_and_Climate_Change.pdf",
+  "pdf_file": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 9,
+    "content_pages": 8,
+    "cover_pdf_page": 1,
+    "book_page_range": "103–110",
+    "exercises_pdf_page": 9,
+    "exercises_pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=9",
+    "exercises_book_pages": "110",
+    "word_count": 3700,
+    "estimated_reading_time_minutes": 21
+  },
+  "learning_objectives": [
+    "Koeppen's empirical climate classification scheme (Groups A, B, C, D, E, H) and letter codes;",
+    "Characteristics and global distribution of tropical, dry, warm temperate, cold snow forest, and polar climates;",
+    "Geological and historical evidence of climate change and natural/astronomical causes (sunspots, Milankovitch); and",
+    "Greenhouse gases, ozone depletion, global warming trends, and international efforts like the Kyoto Protocol."
+  ],
+  "sections": [
+    "Koeppen's Scheme of Climate Classification",
+    "Group A (Tropical) & Group B (Dry) Climates",
+    "Group C (Warm Temperate) & Group D (Cold Snow Forest)",
+    "Group E (Polar) & Group H (Highland) Climates",
+    "Climate Change & Astronomical/Terrestrial Causes",
+    "Global Warming, Greenhouse Gases & Kyoto Protocol"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Koeppen Classification",
+    "Tropical Monsoon (Am)",
+    "Mediterranean (Cs)",
+    "Tundra (ET)",
+    "Ice Cap (EF)",
+    "Milankovitch Oscillations",
+    "Sunspots",
+    "Greenhouse Gases",
+    "Ozone Hole",
+    "Kyoto Protocol",
+    "Dust Bowl"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Table 12.1: Climatic Groups According to Koeppen",
+      "pdf_page": 2,
+      "book_page": 103,
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=2"
+    },
+    {
+      "type": "Table 12.2: Climatic Types According to Koeppen",
+      "pdf_page": 3,
+      "book_page": 104,
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=3"
+    },
+    {
+      "type": "Box: Greenhouse Analogy",
+      "pdf_page": 7,
+      "book_page": 108,
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=7"
+    },
+    {
+      "type": "Press Clippings: Global Warming & Gangotri Glacier",
+      "pdf_page": 8,
+      "book_page": 109,
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=8"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 103,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 104,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 105,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 106,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 107,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 108,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 109,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 110,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_12_World_Climate_and_Climate_Change.pdf#page=9"
+    }
+  ]
+}

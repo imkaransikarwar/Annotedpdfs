@@ -1,0 +1,136 @@
+{
+  "chapter_number": 15,
+  "chapter_id": "ch15",
+  "unit": "Unit VI: Life on the Earth",
+  "title": "Life on the Earth",
+  "slug": "life_on_the_earth",
+  "pdf_filename": "Chapter_15_Life_on_the_Earth.pdf",
+  "pdf_file": "chapters/Chapter_15_Life_on_the_Earth.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 9,
+    "content_pages": 8,
+    "cover_pdf_page": 1,
+    "book_page_range": "127–134",
+    "exercises_pdf_page": 8,
+    "exercises_pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=8",
+    "exercises_book_pages": "133–134",
+    "word_count": 3500,
+    "estimated_reading_time_minutes": 19
+  },
+  "learning_objectives": [
+    "The biosphere, ecology, ecological systems, and ecological adaptation;",
+    "Structure and functions of ecosystems: abiotic/biotic factors, food chains, food webs, and energy flow;",
+    "The five major world biomes (forest, desert, grassland, aquatic, altitudinal) and their characteristics;",
+    "Biogeochemical cycles: water, carbon, oxygen, nitrogen (fixation & denitrification), and mineral cycles; and",
+    "Ecological balance, natural succession, and human-induced ecological disturbances."
+  ],
+  "sections": [
+    "Biosphere & Ecology",
+    "Types, Structure & Functions of Ecosystems",
+    "Food Chains, Food Webs & Types of Biomes",
+    "Biogeochemical Cycles (Water, Carbon, Oxygen)",
+    "Nitrogen & Mineral Cycles",
+    "Ecological Balance & Succession"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Biosphere",
+    "Ecology (Oekologie)",
+    "Habitat",
+    "Ecological Adaptation",
+    "Biome",
+    "Food Chain & Food Web",
+    "Biogeochemical Cycles",
+    "Denitrification",
+    "Ecological Balance",
+    "Succession"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Box: Etymology of Ecology (Ernst Haeckel, 1869)",
+      "pdf_page": 2,
+      "book_page": 127,
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=2"
+    },
+    {
+      "type": "Figure 15.1: Structure and functions of ecosystems",
+      "pdf_page": 3,
+      "book_page": 128,
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=3"
+    },
+    {
+      "type": "Table 15.1: World Biomes",
+      "pdf_page": 5,
+      "book_page": 130,
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=5"
+    },
+    {
+      "type": "Figure 15.2 & 15.3: Carbon & Nitrogen Cycles",
+      "pdf_page": 6,
+      "book_page": 131,
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=6"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 127,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 128,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 129,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 130,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 131,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 132,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 133,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 134,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_15_Life_on_the_Earth.pdf#page=9"
+    }
+  ]
+}

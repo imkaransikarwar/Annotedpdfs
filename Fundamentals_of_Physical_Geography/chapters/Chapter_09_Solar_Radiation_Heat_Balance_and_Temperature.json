@@ -1,0 +1,170 @@
+{
+  "chapter_number": 9,
+  "chapter_id": "ch09",
+  "unit": "Unit IV: Climate",
+  "title": "Solar Radiation, Heat Balance and Temperature",
+  "slug": "solar_radiation_heat_balance_and_temperature",
+  "pdf_filename": "Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf",
+  "pdf_file": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 10,
+    "content_pages": 9,
+    "cover_pdf_page": 1,
+    "book_page_range": "79–87",
+    "exercises_pdf_page": 8,
+    "exercises_pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=8",
+    "exercises_book_pages": "85–87",
+    "word_count": 3900,
+    "estimated_reading_time_minutes": 22
+  },
+  "learning_objectives": [
+    "Insolation, aphelion/perihelion variations, and factors controlling spatial distribution of insolation;",
+    "Processes of atmospheric heating and cooling: conduction, convection, advection, and terrestrial radiation;",
+    "The Earth's heat budget (100 units incoming, 35 albedo, 65 absorbed/radiated) and latitudinal net radiation balance; and",
+    "Factors controlling temperature distribution and global January/July isotherm patterns."
+  ],
+  "sections": [
+    "Solar Radiation & Variability of Insolation",
+    "Passage of Solar Radiation & Scattering",
+    "Heating & Cooling (Conduction, Convection, Advection)",
+    "Terrestrial Radiation & Heat Budget of the Earth",
+    "Latitudinal Variation in Net Radiation Balance",
+    "Factors Controlling Temperature & Global Isotherms"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": null,
+        "stage": "Prelims",
+        "topic": "Length of day on Winter and Summer Solstices (Table 9.1)",
+        "book_page": 80,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=3"
+      },
+      {
+        "exam": "CSE",
+        "year": null,
+        "stage": "Prelims",
+        "topic": "Scattering of visible spectrum (red sun & blue sky)",
+        "book_page": 80,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=3"
+      }
+    ]
+  },
+  "key_terms": [
+    "Insolation",
+    "Aphelion",
+    "Perihelion",
+    "Conduction",
+    "Convection",
+    "Advection",
+    "Terrestrial Radiation",
+    "Albedo",
+    "Heat Budget",
+    "Normal Lapse Rate",
+    "Isotherm",
+    "Continentality"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Table 9.1: Length of Day on Solstices",
+      "pdf_page": 3,
+      "book_page": 80,
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=3"
+    },
+    {
+      "type": "Figure 9.1: Summer Solstice",
+      "pdf_page": 3,
+      "book_page": 80,
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=3"
+    },
+    {
+      "type": "Figure 9.2: Heat budget of the earth",
+      "pdf_page": 4,
+      "book_page": 81,
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=4"
+    },
+    {
+      "type": "Figure 9.3: Latitudinal variation in net radiation",
+      "pdf_page": 5,
+      "book_page": 82,
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=5"
+    },
+    {
+      "type": "Figure 9.4 & 9.5: January/July Isotherms & Range",
+      "pdf_page": 6,
+      "book_page": 83,
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=6"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 79,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 80,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 81,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 82,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 83,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 84,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 85,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 86,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 87,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_09_Solar_Radiation_Heat_Balance_and_Temperature.pdf#page=10"
+    }
+  ]
+}

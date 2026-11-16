@@ -1,0 +1,109 @@
+{
+  "chapter_number": 11,
+  "chapter_id": "ch11",
+  "unit": "Unit IV: Climate",
+  "title": "Water in the Atmosphere",
+  "slug": "water_in_the_atmosphere",
+  "pdf_filename": "Chapter_11_Water_in_the_Atmosphere.pdf",
+  "pdf_file": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 6,
+    "content_pages": 5,
+    "cover_pdf_page": 1,
+    "book_page_range": "98–102",
+    "exercises_pdf_page": 5,
+    "exercises_pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=5",
+    "exercises_book_pages": "101–102",
+    "word_count": 2300,
+    "estimated_reading_time_minutes": 13
+  },
+  "learning_objectives": [
+    "Humidity concepts: absolute humidity, relative humidity, saturation, and dew point;",
+    "Evaporation, latent heat of vapourisation, condensation, and sublimation;",
+    "Forms of condensation (dew, frost, fog, mist, smog) and the four basic cloud types; and",
+    "Forms of precipitation (rain, snow, sleet, hail), types of rainfall, and world rainfall distribution."
+  ],
+  "sections": [
+    "Humidity: Absolute, Relative & Dew Point",
+    "Evaporation and Condensation",
+    "Forms of Condensation (Dew, Frost, Fog & Mist)",
+    "Classification of Clouds (Cirrus, Cumulus, Stratus, Nimbus)",
+    "Precipitation & Types of Rainfall",
+    "World Distribution of Rainfall"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Absolute Humidity",
+    "Relative Humidity",
+    "Dew Point",
+    "Latent Heat",
+    "Sublimation",
+    "Dew & Frost",
+    "Smog",
+    "Cirrus",
+    "Cumulus",
+    "Stratus",
+    "Nimbus",
+    "Sleet & Hail",
+    "Orographic Rain",
+    "Rain-Shadow Area"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Figure 11.1 & 11.2: Cloud Types Activity",
+      "pdf_page": 4,
+      "book_page": 100,
+      "pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=4"
+    },
+    {
+      "type": "Project Work: Newspaper Extreme Rainfall Log",
+      "pdf_page": 6,
+      "book_page": 102,
+      "pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=6"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 98,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 99,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 100,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 101,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 102,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_11_Water_in_the_Atmosphere.pdf#page=6"
+    }
+  ]
+}

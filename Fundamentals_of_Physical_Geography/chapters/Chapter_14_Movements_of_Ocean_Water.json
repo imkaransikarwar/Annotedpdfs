@@ -1,0 +1,123 @@
+{
+  "chapter_number": 14,
+  "chapter_id": "ch14",
+  "unit": "Unit V: Water (Oceans)",
+  "title": "Movements of Ocean Water",
+  "slug": "movements_of_ocean_water",
+  "pdf_filename": "Chapter_14_Movements_of_Ocean_Water.pdf",
+  "pdf_file": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 7,
+    "content_pages": 6,
+    "cover_pdf_page": 1,
+    "book_page_range": "120–125",
+    "exercises_pdf_page": 7,
+    "exercises_pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=7",
+    "exercises_book_pages": "125",
+    "word_count": 2800,
+    "estimated_reading_time_minutes": 16
+  },
+  "learning_objectives": [
+    "Motion of ocean waves and wave characteristics (crest, trough, height, amplitude, period, wavelength, speed);",
+    "Tide-generating forces (gravitational and centrifugal), spring vs. neap tides, and perigee/apogee variations;",
+    "Primary and secondary forces driving ocean currents, gyres, and surface vs. deep water currents; and",
+    "Major warm and cold ocean currents in the Pacific, Atlantic, and Indian Oceans and their climatic/fishing effects."
+  ],
+  "sections": [
+    "Waves & Wave Characteristics",
+    "Tides: Forces & Tidal Bulges",
+    "Types & Importance of Tides",
+    "Ocean Currents & Driving Forces",
+    "Types & Major Ocean Currents of the World",
+    "Effects of Ocean Currents"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Wave Crest & Trough",
+    "Tidal Bulge",
+    "Spring Tide",
+    "Neap Tide",
+    "Perigee & Apogee",
+    "Perihelion & Aphelion",
+    "Ebb & Flood",
+    "Gyres",
+    "Drift",
+    "Warm & Cold Currents"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Box: Characteristics of Waves",
+      "pdf_page": 3,
+      "book_page": 121,
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=3"
+    },
+    {
+      "type": "Figure 14.2: Gravitational forces and tides",
+      "pdf_page": 3,
+      "book_page": 121,
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=3"
+    },
+    {
+      "type": "Box: Tides of Bay of Fundy, Canada",
+      "pdf_page": 4,
+      "book_page": 122,
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=4"
+    },
+    {
+      "type": "Figure 14.3: Major currents in Pacific, Atlantic & Indian Oceans",
+      "pdf_page": 6,
+      "book_page": 124,
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=6"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 120,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 121,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 122,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 123,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 124,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 125,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_14_Movements_of_Ocean_Water.pdf#page=7"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "chapter_number": 16,
+  "chapter_id": "ch16",
+  "unit": "Unit VI: Life on the Earth",
+  "title": "Biodiversity and Conservation",
+  "slug": "biodiversity_and_conservation",
+  "pdf_filename": "Chapter_16_Biodiversity_and_Conservation.pdf",
+  "pdf_file": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 7,
+    "content_pages": 6,
+    "cover_pdf_page": 1,
+    "book_page_range": "135–140",
+    "exercises_pdf_page": 6,
+    "exercises_pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=6",
+    "exercises_book_pages": "139–140",
+    "word_count": 2600,
+    "estimated_reading_time_minutes": 14
+  },
+  "learning_objectives": [
+    "Meaning of biodiversity and its three levels: genetic diversity, species diversity, and ecosystem diversity;",
+    "Ecological, economic, and scientific roles of biodiversity;",
+    "Causes of biodiversity loss and IUCN Red List categories (Endangered, Vulnerable, Rare species); and",
+    "Biodiversity conservation: Earth Summit (1992), Wild Life (Protection) Act 1972, mega-diversity centres, and hotspots."
+  ],
+  "sections": [
+    "Biodiversity & Levels (Genetic, Species, Ecosystem)",
+    "Importance of Biodiversity (Ecological, Economic, Scientific)",
+    "Loss of Biodiversity & Exotic Species",
+    "IUCN Threatened Categories (Endangered, Vulnerable, Rare)",
+    "Conservation of Biodiversity & Wild Life Act 1972",
+    "Mega Diversity Centres & Ecological Hotspots"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Biodiversity",
+    "Genetic Diversity",
+    "Species Diversity",
+    "Ecosystem Diversity",
+    "Exotic Species",
+    "IUCN Red List",
+    "Endangered Species",
+    "Vulnerable Species",
+    "Rare Species",
+    "Earth Summit (1992)",
+    "Mega Diversity Centres",
+    "Biodiversity Hotspots"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Box: Evolution & Extinction of Biodiversity",
+      "pdf_page": 2,
+      "book_page": 135,
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=2"
+    },
+    {
+      "type": "Figure 16.2–16.4: Red Panda, Zenkeria & Humbodtia",
+      "pdf_page": 4,
+      "book_page": 137,
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=4"
+    },
+    {
+      "type": "Figure 16.5: Ecological 'hotspots' in the world",
+      "pdf_page": 6,
+      "book_page": 139,
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=6"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 135,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 136,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 137,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 138,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 139,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 140,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_16_Biodiversity_and_Conservation.pdf#page=7"
+    }
+  ]
+}

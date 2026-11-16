@@ -1,0 +1,171 @@
+{
+  "chapter_number": 3,
+  "chapter_id": "ch03",
+  "unit": "Unit II: The Earth",
+  "title": "Interior of the Earth",
+  "slug": "interior_of_the_earth",
+  "pdf_filename": "Chapter_03_Interior_of_the_Earth.pdf",
+  "pdf_file": "chapters/Chapter_03_Interior_of_the_Earth.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 10,
+    "content_pages": 9,
+    "cover_pdf_page": 1,
+    "book_page_range": "21–29",
+    "exercises_pdf_page": 10,
+    "exercises_pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=10",
+    "exercises_book_pages": "29",
+    "word_count": 3800,
+    "estimated_reading_time_minutes": 21
+  },
+  "learning_objectives": [
+    "Direct and indirect sources of information about Earth's interior;",
+    "Earthquake mechanics, body waves (P and S), surface waves, shadow zones, and measurement scales;",
+    "Internal structure of the Earth: Crust, Mantle (Asthenosphere), and Core (Nife); and",
+    "Types of volcanoes and intrusive volcanic landforms (batholiths, laccoliths, lapoliths, phacoliths, sills, dykes)."
+  ],
+  "sections": [
+    "Sources of Information (Direct & Indirect)",
+    "Earthquakes, Body Waves & Surface Waves",
+    "Emergence of Shadow Zone & Measuring Earthquakes",
+    "Structure of the Earth (Crust, Mantle, Core)",
+    "Volcanoes: Shield, Composite, Caldera & Flood Basalt",
+    "Intrusive Volcanic Landforms"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "stage": "Prelims",
+        "topic": "Earthquake waves: P-waves, S-waves & shadow zones",
+        "book_page": 23,
+        "pdf_page": 4,
+        "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=4"
+      },
+      {
+        "exam": "CSE",
+        "year": 2024,
+        "stage": "Prelims",
+        "topic": "Shield volcanoes, basaltic lava & Deccan Traps",
+        "book_page": 27,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=8"
+      }
+    ]
+  },
+  "key_terms": [
+    "Focus / Hypocentre",
+    "Epicentre",
+    "P-waves & S-waves",
+    "Shadow Zone",
+    "Richter Scale",
+    "Mercalli Scale",
+    "Moho's Discontinuity",
+    "Asthenosphere",
+    "Nife Layer",
+    "Caldera",
+    "Batholith",
+    "Laccolith",
+    "Dyke & Sill"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Figure 3.1: Earthquake Waves",
+      "pdf_page": 4,
+      "book_page": 23,
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=4"
+    },
+    {
+      "type": "Figure 3.2: Earthquake Shadow Zones",
+      "pdf_page": 5,
+      "book_page": 24,
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=5"
+    },
+    {
+      "type": "Figure 3.4: The Interior of the Earth",
+      "pdf_page": 7,
+      "book_page": 26,
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=7"
+    },
+    {
+      "type": "Figure 3.5: Volcanic Landforms",
+      "pdf_page": 8,
+      "book_page": 27,
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=8"
+    },
+    {
+      "type": "Activity: Locating an Epicentre",
+      "pdf_page": 9,
+      "book_page": 28,
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=9"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 21,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 22,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 23,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 24,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 25,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 26,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 27,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 28,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 29,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Interior_of_the_Earth.pdf#page=10"
+    }
+  ]
+}

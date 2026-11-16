@@ -1,0 +1,104 @@
+{
+  "chapter_number": 8,
+  "chapter_id": "ch08",
+  "unit": "Unit IV: Climate",
+  "title": "Composition and Structure of Atmosphere",
+  "slug": "composition_and_structure_of_atmosphere",
+  "pdf_filename": "Chapter_08_Composition_and_Structure_of_Atmosphere.pdf",
+  "pdf_file": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 4,
+    "content_pages": 3,
+    "cover_pdf_page": 1,
+    "book_page_range": "76–78",
+    "exercises_pdf_page": 4,
+    "exercises_pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=4",
+    "exercises_book_pages": "78",
+    "word_count": 1350,
+    "estimated_reading_time_minutes": 8
+  },
+  "learning_objectives": [
+    "Composition of the atmosphere: permanent gases, carbon dioxide, ozone, water vapour, and dust particles;",
+    "The role of CO2 in the greenhouse effect and stratospheric ozone in absorbing UV radiation;",
+    "Vertical thermal structure of the atmosphere: Troposphere, Stratosphere, Mesosphere, Ionosphere, and Exosphere; and",
+    "Key elements of weather and climate."
+  ],
+  "sections": [
+    "Composition of the Atmosphere",
+    "Gases: Carbon Dioxide & Ozone",
+    "Water Vapour & Dust Particles (Hygroscopic Nuclei)",
+    "Structure of the Atmosphere",
+    "Troposphere, Stratosphere & Mesosphere",
+    "Ionosphere, Exosphere & Elements of Weather"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": null,
+        "stage": "Prelims",
+        "topic": "Permanent gases of the atmosphere (Table 8.1)",
+        "book_page": 76,
+        "pdf_page": 2,
+        "pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=2"
+      }
+    ]
+  },
+  "key_terms": [
+    "Greenhouse Effect",
+    "Ozone Layer",
+    "Hygroscopic Nuclei",
+    "Troposphere",
+    "Tropopause",
+    "Stratosphere",
+    "Mesosphere",
+    "Ionosphere",
+    "Exosphere"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Table 8.1: Permanent Gases of the Atmosphere",
+      "pdf_page": 2,
+      "book_page": 76,
+      "pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=2"
+    },
+    {
+      "type": "Figure 8.1: Structure of atmosphere",
+      "pdf_page": 3,
+      "book_page": 77,
+      "pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=3"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 76,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 77,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 78,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Composition_and_Structure_of_Atmosphere.pdf#page=4"
+    }
+  ]
+}

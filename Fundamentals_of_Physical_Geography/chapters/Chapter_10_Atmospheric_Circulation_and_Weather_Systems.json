@@ -1,0 +1,157 @@
+{
+  "chapter_number": 10,
+  "chapter_id": "ch10",
+  "unit": "Unit IV: Climate",
+  "title": "Atmospheric Circulation and Weather Systems",
+  "slug": "atmospheric_circulation_and_weather_systems",
+  "pdf_filename": "Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf",
+  "pdf_file": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 11,
+    "content_pages": 10,
+    "cover_pdf_page": 1,
+    "book_page_range": "88–97",
+    "exercises_pdf_page": 10,
+    "exercises_pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=10",
+    "exercises_book_pages": "96–97",
+    "word_count": 4500,
+    "estimated_reading_time_minutes": 25
+  },
+  "learning_objectives": [
+    "Vertical and horizontal distribution of atmospheric pressure, isobars, and world pressure belts;",
+    "Forces governing wind velocity and direction: pressure gradient, friction, and Coriolis force;",
+    "General circulation of the atmosphere (ITCZ, Hadley, Ferrel, and Polar cells) and ENSO;",
+    "Local winds (land/sea breezes, mountain/valley winds, katabatic winds) and air masses/fronts; and",
+    "Structure and origin of extra-tropical cyclones, tropical cyclones, thunderstorms, and tornadoes."
+  ],
+  "sections": [
+    "Atmospheric Pressure & World Pressure Belts",
+    "Forces Affecting Wind (PGF, Friction, Coriolis)",
+    "Geostrophic Wind & Cyclonic/Anticyclonic Circulation",
+    "General Circulation (Hadley, Ferrel, Polar Cells) & ENSO",
+    "Seasonal/Local Winds, Air Masses & Fronts",
+    "Extra-Tropical & Tropical Cyclones, Thunderstorms"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Isobar",
+    "ITCZ",
+    "Pressure Gradient Force",
+    "Coriolis Force",
+    "Geostrophic Wind",
+    "Hadley Cell",
+    "Ferrel Cell",
+    "El Nino / ENSO",
+    "Katabatic Wind",
+    "Frontogenesis",
+    "Extra-Tropical Cyclone",
+    "Tropical Cyclone",
+    "Eye of Cyclone"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Table 10.1: Standard Pressure and Temperature",
+      "pdf_page": 2,
+      "book_page": 88,
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=2"
+    },
+    {
+      "type": "Figure 10.2 & 10.3: January & July Pressure",
+      "pdf_page": 3,
+      "book_page": 89,
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=3"
+    },
+    {
+      "type": "Table 10.2: Wind Direction in Cyclones/Anticyclones",
+      "pdf_page": 5,
+      "book_page": 91,
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=5"
+    },
+    {
+      "type": "Figure 10.6: General circulation of atmosphere",
+      "pdf_page": 6,
+      "book_page": 92,
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=6"
+    },
+    {
+      "type": "Figure 10.10: Vertical section of tropical cyclone",
+      "pdf_page": 9,
+      "book_page": 95,
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=9"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 88,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 89,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 90,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 91,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 92,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 93,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 94,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 95,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 96,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 97,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_10_Atmospheric_Circulation_and_Weather_Systems.pdf#page=11"
+    }
+  ]
+}
