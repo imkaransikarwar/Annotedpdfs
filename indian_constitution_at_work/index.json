@@ -1,0 +1,363 @@
+{
+  "book_metadata": {
+    "title": "Indian Constitution at Work",
+    "subject": "Political Science (Indian Polity)",
+    "class": "Class 11",
+    "board": "NCERT",
+    "edition": "2024-25 (Annotated Edition with PYQs)",
+    "isbn": "81-7450-550-4",
+    "total_chapters": 10,
+    "total_pdf_pages_with_covers": 280,
+    "total_content_pages": 270,
+    "cover_image": "cover.png"
+  },
+  "folder_structure": {
+    "root": "Indian_Constitution_at_Work/",
+    "cover_image": "cover.png",
+    "master_index": "index.json",
+    "book_mapping": "book_mapping.json",
+    "chapters_directory": "chapters/"
+  },
+  "highlight_guide": {
+    "Green": "Areas from where PYQs have been asked",
+    "Blue": "Other important areas from where questions are possible / extra attention",
+    "Pink": "Purely factual statements like year etc.",
+    "Peach": "Terms and their definition given in NCERT",
+    "Yellow": "Statements which sound extreme but are true"
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Constitution: Why and How?",
+      "slug": "constitution-why-and-how",
+      "pdf_file": "chapters/Chapter_01_Constitution_Why_and_How.pdf",
+      "json_file": "chapters/Chapter_01_Constitution_Why_and_How.json",
+      "total_pdf_pages": 27,
+      "book_page_range": "1–25",
+      "estimated_reading_time_minutes": 44,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "CDS",
+          "CAPF"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 24,
+            "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=24"
+          }
+        ],
+        "inline_callout_count": 7
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=25"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Rights in the Indian Constitution",
+      "slug": "rights-in-the-indian-constitution",
+      "pdf_file": "chapters/Chapter_02_Rights_in_the_Indian_Constitution.pdf",
+      "json_file": "chapters/Chapter_02_Rights_in_the_Indian_Constitution.json",
+      "total_pdf_pages": 31,
+      "book_page_range": "26–50",
+      "estimated_reading_time_minutes": 43,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "CDS"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 25,
+            "pdf_anchor": "chapters/Chapter_02_Rights_in_the_Indian_Constitution.pdf#page=25"
+          },
+          {
+            "pdf_page": 26,
+            "pdf_anchor": "chapters/Chapter_02_Rights_in_the_Indian_Constitution.pdf#page=26"
+          },
+          {
+            "pdf_page": 27,
+            "pdf_anchor": "chapters/Chapter_02_Rights_in_the_Indian_Constitution.pdf#page=27"
+          },
+          {
+            "pdf_page": 28,
+            "pdf_anchor": "chapters/Chapter_02_Rights_in_the_Indian_Constitution.pdf#page=28"
+          },
+          {
+            "pdf_page": 29,
+            "pdf_anchor": "chapters/Chapter_02_Rights_in_the_Indian_Constitution.pdf#page=29"
+          }
+        ],
+        "inline_callout_count": 22
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_02_Rights_in_the_Indian_Constitution.pdf#page=30"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Election and Representation",
+      "slug": "election-and-representation",
+      "pdf_file": "chapters/Chapter_03_Election_and_Representation.pdf",
+      "json_file": "chapters/Chapter_03_Election_and_Representation.json",
+      "total_pdf_pages": 30,
+      "book_page_range": "51–77",
+      "estimated_reading_time_minutes": 47,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "CDS"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 27,
+            "pdf_anchor": "chapters/Chapter_03_Election_and_Representation.pdf#page=27"
+          },
+          {
+            "pdf_page": 28,
+            "pdf_anchor": "chapters/Chapter_03_Election_and_Representation.pdf#page=28"
+          }
+        ],
+        "inline_callout_count": 8
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_03_Election_and_Representation.pdf#page=29"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Executive",
+      "slug": "executive",
+      "pdf_file": "chapters/Chapter_04_Executive.pdf",
+      "json_file": "chapters/Chapter_04_Executive.json",
+      "total_pdf_pages": 25,
+      "book_page_range": "78–99",
+      "estimated_reading_time_minutes": 39,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "CDS",
+          "CAPF"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 22,
+            "pdf_anchor": "chapters/Chapter_04_Executive.pdf#page=22"
+          },
+          {
+            "pdf_page": 23,
+            "pdf_anchor": "chapters/Chapter_04_Executive.pdf#page=23"
+          }
+        ],
+        "inline_callout_count": 10
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_04_Executive.pdf#page=24"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Legislature",
+      "slug": "legislature",
+      "pdf_file": "chapters/Chapter_05_Legislature.pdf",
+      "json_file": "chapters/Chapter_05_Legislature.json",
+      "total_pdf_pages": 31,
+      "book_page_range": "100–123",
+      "estimated_reading_time_minutes": 39,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "CDS",
+          "CAPF"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 24,
+            "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=24"
+          },
+          {
+            "pdf_page": 25,
+            "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=25"
+          },
+          {
+            "pdf_page": 26,
+            "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=26"
+          },
+          {
+            "pdf_page": 27,
+            "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=27"
+          },
+          {
+            "pdf_page": 28,
+            "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=28"
+          },
+          {
+            "pdf_page": 29,
+            "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=29"
+          }
+        ],
+        "inline_callout_count": 28
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=30"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Judiciary",
+      "slug": "judiciary",
+      "pdf_file": "chapters/Chapter_06_Judiciary.pdf",
+      "json_file": "chapters/Chapter_06_Judiciary.json",
+      "total_pdf_pages": 31,
+      "book_page_range": "124–149",
+      "estimated_reading_time_minutes": 43,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "CDS",
+          "CAPF"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 23,
+            "pdf_anchor": "chapters/Chapter_06_Judiciary.pdf#page=23"
+          },
+          {
+            "pdf_page": 24,
+            "pdf_anchor": "chapters/Chapter_06_Judiciary.pdf#page=24"
+          },
+          {
+            "pdf_page": 25,
+            "pdf_anchor": "chapters/Chapter_06_Judiciary.pdf#page=25"
+          },
+          {
+            "pdf_page": 26,
+            "pdf_anchor": "chapters/Chapter_06_Judiciary.pdf#page=26"
+          }
+        ],
+        "inline_callout_count": 23
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_06_Judiciary.pdf#page=28"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch07",
+      "title": "Federalism",
+      "slug": "federalism",
+      "pdf_file": "chapters/Chapter_07_Federalism.pdf",
+      "json_file": "chapters/Chapter_07_Federalism.json",
+      "total_pdf_pages": 31,
+      "book_page_range": "150–175",
+      "estimated_reading_time_minutes": 41,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "CDS",
+          "CAPF"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 25,
+            "pdf_anchor": "chapters/Chapter_07_Federalism.pdf#page=25"
+          },
+          {
+            "pdf_page": 26,
+            "pdf_anchor": "chapters/Chapter_07_Federalism.pdf#page=26"
+          },
+          {
+            "pdf_page": 27,
+            "pdf_anchor": "chapters/Chapter_07_Federalism.pdf#page=27"
+          },
+          {
+            "pdf_page": 28,
+            "pdf_anchor": "chapters/Chapter_07_Federalism.pdf#page=28"
+          }
+        ],
+        "inline_callout_count": 22
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_07_Federalism.pdf#page=29"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch08",
+      "title": "Local Governments",
+      "slug": "local-governments",
+      "pdf_file": "chapters/Chapter_08_Local_Governments.pdf",
+      "json_file": "chapters/Chapter_08_Local_Governments.json",
+      "total_pdf_pages": 24,
+      "book_page_range": "176–195",
+      "estimated_reading_time_minutes": 33,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "CDS",
+          "CAPF"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 19,
+            "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=19"
+          },
+          {
+            "pdf_page": 20,
+            "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=20"
+          },
+          {
+            "pdf_page": 21,
+            "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=21"
+          }
+        ],
+        "inline_callout_count": 15
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=22"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_id": "ch09",
+      "title": "Constitution as a Living Document",
+      "slug": "constitution-as-a-living-document",
+      "pdf_file": "chapters/Chapter_09_Constitution_as_a_Living_Document.pdf",
+      "json_file": "chapters/Chapter_09_Constitution_as_a_Living_Document.json",
+      "total_pdf_pages": 26,
+      "book_page_range": "196–219",
+      "estimated_reading_time_minutes": 41,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 23,
+            "pdf_anchor": "chapters/Chapter_09_Constitution_as_a_Living_Document.pdf#page=23"
+          }
+        ],
+        "inline_callout_count": 3
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_09_Constitution_as_a_Living_Document.pdf#page=24"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_id": "ch10",
+      "title": "The Philosophy of the Constitution",
+      "slug": "the-philosophy-of-the-constitution",
+      "pdf_file": "chapters/Chapter_10_The_Philosophy_of_the_Constitution.pdf",
+      "json_file": "chapters/Chapter_10_The_Philosophy_of_the_Constitution.json",
+      "total_pdf_pages": 24,
+      "book_page_range": "220–242",
+      "estimated_reading_time_minutes": 41,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_10_The_Philosophy_of_the_Constitution.pdf#page=21"
+    }
+  ]
+}

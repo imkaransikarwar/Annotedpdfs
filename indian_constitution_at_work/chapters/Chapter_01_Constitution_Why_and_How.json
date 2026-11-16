@@ -1,0 +1,318 @@
+{
+  "chapter_number": 1,
+  "chapter_id": "ch01",
+  "title": "Constitution: Why and How?",
+  "slug": "constitution-why-and-how",
+  "pdf_filename": "Chapter_01_Constitution_Why_and_How.pdf",
+  "pdf_file": "chapters/Chapter_01_Constitution_Why_and_How.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 27,
+    "content_pages": 26,
+    "cover_pdf_page": 1,
+    "book_page_range": "1–25",
+    "exercises_pdf_page": 25,
+    "exercises_pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=25",
+    "exercises_book_pages": "23-25",
+    "word_count": 7874,
+    "estimated_reading_time_minutes": 44
+  },
+  "learning_objectives": [
+    "What a constitution means;",
+    "What a constitution does to the society;",
+    "How constitutions govern the allocation of power in society; and",
+    "What was the way in which the Constitution of India was made."
+  ],
+  "sections": [
+    "Why Do We Need a Constitution?",
+    "The Authority of a Constitution",
+    "How was the Indian Constitution made?",
+    "Composition of the Constituent Assembly",
+    "Inheritance of the Nationalist Movement",
+    "Institutional Arrangements & Borrowed Provisions"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE",
+      "CDS",
+      "CAPF"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 24,
+        "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=24"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Constitution as a limit on government",
+        "book_page": 6,
+        "pdf_page": 7,
+        "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=7"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Provisions for Economic Justice",
+        "book_page": 8,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=9"
+      },
+      {
+        "exam": "CDS",
+        "year": 2014,
+        "topic": "Cabinet Mission, 1946",
+        "book_page": 15,
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=16"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Members of Constitent Assembly from Provinces",
+        "book_page": 15,
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=16"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Constitutional status on 26th Jan 1950",
+        "book_page": 16,
+        "pdf_page": 17,
+        "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=17"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2016,
+        "topic": "Features of Constituent Assembly",
+        "book_page": 16,
+        "pdf_page": 17,
+        "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=17"
+      },
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "Implication of equality",
+        "book_page": 19,
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=20"
+      }
+    ]
+  },
+  "key_constitutional_articles": [],
+  "boxes_and_activities": [
+    {
+      "type": "Activity",
+      "pdf_page": 4,
+      "book_page": 3,
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=4"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 6,
+      "book_page": 5,
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=6"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 8,
+      "book_page": 7,
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=8"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 10,
+      "book_page": 9,
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=10"
+    },
+    {
+      "type": "Check Your Progress",
+      "pdf_page": 11,
+      "book_page": 10,
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=11"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 15,
+      "book_page": 14,
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=15"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 19,
+      "book_page": 18,
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=19"
+    }
+  ],
+  "external_links": [
+    "http://164.100.47.194/loksabha/constituent/facts.html",
+    "https://bit.ly/AccessCDNotes"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 1,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 2,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 3,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 4,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 5,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 6,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 7,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 8,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 9,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 10,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 11,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 12,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 13,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 14,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 15,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 16,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 17,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 18,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 19,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 20,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 21,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 22,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 23,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 24,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 25,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_01_Constitution_Why_and_How.pdf#page=27"
+    }
+  ]
+}
