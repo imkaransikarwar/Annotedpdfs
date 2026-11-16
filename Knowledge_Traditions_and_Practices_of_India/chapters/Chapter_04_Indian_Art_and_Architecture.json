@@ -1,0 +1,277 @@
+{
+  "chapter_number": 4,
+  "chapter_id": "ch04",
+  "title": "Indian Art and Architecture",
+  "slug": "indian_art_and_architecture",
+  "pdf_filename": "Chapter_04_Indian_Art_and_Architecture.pdf",
+  "pdf_file": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 19,
+    "content_pages": 18,
+    "cover_pdf_page": 1,
+    "book_page_range": "61–78",
+    "exercises_pdf_page": 19,
+    "exercises_pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=19",
+    "exercises_book_pages": "78",
+    "word_count": 5789,
+    "estimated_reading_time_minutes": 32
+  },
+  "learning_objectives": [
+    "Early textual canons of Indian art and architecture (Viṣṇudharmottara Purāṇa, Śilpaśāstra, Samarāṅgaṇasūtradhāra);",
+    "Prehistoric rock-shelter paintings, Buddhist and regional mural traditions (Ajanta, Bagh, Sittanavasal), and palm-leaf manuscripts;",
+    "Indus Valley urban planning, Mauryan pillars, Stūpa architecture, and Buddhist/Hindu/Jaina bronze sculptures; and",
+    "Rock-cut cave architecture and the Nagara and Drāviḍa styles of Indian temple architecture."
+  ],
+  "sections": [
+    "Early Texts & Canons of Indian Art (Śilpaśāstra)",
+    "Rock-Shelter, Mural & Palm-Leaf Paintings",
+    "Indus Valley Urbanism & Mauryan Sculpture",
+    "Stūpa Architecture & Kushan/Gupta Art",
+    "Indian Bronze Sculptures & Rock-Cut Caves",
+    "Nagara & Drāviḍa Temple Architecture"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Śilpaśāstra",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=2"
+    },
+    {
+      "term": "Vāstuvidyā",
+      "first_pdf_page": 3,
+      "book_page": 62,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=3"
+    },
+    {
+      "term": "Sanchi",
+      "first_pdf_page": 3,
+      "book_page": 62,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=3"
+    },
+    {
+      "term": "Drāviḍa",
+      "first_pdf_page": 3,
+      "book_page": 62,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=3"
+    },
+    {
+      "term": "Ajanta",
+      "first_pdf_page": 5,
+      "book_page": 64,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=5"
+    },
+    {
+      "term": "Sittanavasal",
+      "first_pdf_page": 5,
+      "book_page": 64,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=5"
+    },
+    {
+      "term": "Vimāna",
+      "first_pdf_page": 6,
+      "book_page": 65,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=6"
+    },
+    {
+      "term": "Dholavira",
+      "first_pdf_page": 7,
+      "book_page": 66,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=7"
+    },
+    {
+      "term": "Mohenjodaro",
+      "first_pdf_page": 7,
+      "book_page": 66,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=7"
+    },
+    {
+      "term": "Ashokan Pillars",
+      "first_pdf_page": 9,
+      "book_page": 68,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=9"
+    },
+    {
+      "term": "Stūpa",
+      "first_pdf_page": 9,
+      "book_page": 68,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=9"
+    },
+    {
+      "term": "Amaravati",
+      "first_pdf_page": 13,
+      "book_page": 72,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=13"
+    },
+    {
+      "term": "Nagara",
+      "first_pdf_page": 16,
+      "book_page": 75,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=16"
+    },
+    {
+      "term": "Śikhara",
+      "first_pdf_page": 16,
+      "book_page": 75,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=16"
+    },
+    {
+      "term": "Gopuram",
+      "first_pdf_page": 18,
+      "book_page": 77,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=18"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Activity",
+      "pdf_page": 3,
+      "book_page": 62,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=3"
+    },
+    {
+      "type": "Bibliography",
+      "pdf_page": 19,
+      "book_page": 78,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=19"
+    },
+    {
+      "type": "Suggested Readings",
+      "pdf_page": 19,
+      "book_page": 78,
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=19"
+    }
+  ],
+  "external_links": [
+    "http://ccrtindia.gov.in",
+    "http://nationalmuseumindia.gov.in",
+    "http://ncert.nic.in/textbook/textbook.htm?kefa1=0-8",
+    "http://ncert.nic.in/textbook/textbook.htm?kehc1=0-10",
+    "http://ncert.nic.in/textbook/textbook.htm?lehc1=0-9",
+    "http://ncert.nic.in/textbook/textbook.htm?mehc1=0-10",
+    "http://ngmaindia.gov.in",
+    "https://nroer.gov.in"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 62,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 63,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 64,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 65,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 66,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 67,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 68,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 69,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 70,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 71,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 72,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 73,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 74,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 75,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 76,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 77,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 78,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf#page=19"
+    }
+  ]
+}

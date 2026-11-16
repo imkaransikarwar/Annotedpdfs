@@ -1,0 +1,242 @@
+{
+  "chapter_number": 9,
+  "chapter_id": "ch09",
+  "title": "Yoga",
+  "slug": "yoga",
+  "pdf_filename": "Chapter_09_Yoga.pdf",
+  "pdf_file": "chapters/Chapter_09_Yoga.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 16,
+    "content_pages": 15,
+    "cover_pdf_page": 1,
+    "book_page_range": "155–169",
+    "exercises_pdf_page": 15,
+    "exercises_pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=15",
+    "exercises_book_pages": "168",
+    "word_count": 4618,
+    "estimated_reading_time_minutes": 26
+  },
+  "learning_objectives": [
+    "The etymology of Yoga (Sanskrit root Yuj) and its historical evolution from Pre-Vedic, Vedic, and Classical to Modern periods;",
+    "Major schools and streams of Yoga including Bhakti Yoga (Navadhā Bhakti), Haṭha Yoga, Karma, and Dhyāna Yoga;",
+    "The Pañcakośa model of human existence and holistic physical, emotional, social, and spiritual health; and",
+    "Practical yogic disciplines: Kriyā, Sūrya Namaskāra, Āsana, Prāṇāyāma, and Dhāraṇā/Dhyāna."
+  ],
+  "sections": [
+    "Etymology & Meaning of Yoga",
+    "History & Development (Pre-Vedic to Modern)",
+    "Bhakti Yoga & Haṭha Yoga Traditions",
+    "Pañcakośa Model & Holistic Health",
+    "Application of Yogic Practices (Kriyā & Sūrya Namaskāra)",
+    "Āsana, Prāṇāyāma & Dhyāna"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Yuj",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=2"
+    },
+    {
+      "term": "Āsana",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=2"
+    },
+    {
+      "term": "Prāṇāyāma",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=2"
+    },
+    {
+      "term": "Dhāraṇā",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=2"
+    },
+    {
+      "term": "Dhyāna",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=2"
+    },
+    {
+      "term": "Patañjali",
+      "first_pdf_page": 5,
+      "book_page": 158,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=5"
+    },
+    {
+      "term": "Yoga Sūtra",
+      "first_pdf_page": 5,
+      "book_page": 158,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=5"
+    },
+    {
+      "term": "Haṭha Yoga",
+      "first_pdf_page": 6,
+      "book_page": 159,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=6"
+    },
+    {
+      "term": "Bhakti Yoga",
+      "first_pdf_page": 8,
+      "book_page": 161,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=8"
+    },
+    {
+      "term": "Navadhā Bhakti",
+      "first_pdf_page": 8,
+      "book_page": 161,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=8"
+    },
+    {
+      "term": "Kriyā",
+      "first_pdf_page": 9,
+      "book_page": 162,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=9"
+    },
+    {
+      "term": "Sūrya Namaskāra",
+      "first_pdf_page": 13,
+      "book_page": 166,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=13"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Activities",
+      "pdf_page": 12,
+      "book_page": 165,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=12"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 15,
+      "book_page": 168,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=15"
+    },
+    {
+      "type": "Bibliography",
+      "pdf_page": 16,
+      "book_page": 169,
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=16"
+    }
+  ],
+  "external_links": [
+    "http://eddy-gonzales.de/wp-content/uploads/",
+    "http://veda.wdfiles",
+    "https://encrypted-",
+    "https://i.pinimg.com/originals/ac/e4/39/",
+    "https://n1.sdlcdn.com/imgs/c/u/k/Srimad_Bhagavad_Gita_",
+    "https://www.hindujagruti",
+    "https://www.yogajournal.com/",
+    "https://www.yogatoday.com/",
+    "https://www.yogitimes.com/"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 156,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 157,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 158,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 159,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 160,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 161,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 162,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 163,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 164,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 165,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 166,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 167,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 168,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 169,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_09_Yoga.pdf#page=16"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "chapter_number": 6,
+  "chapter_id": "ch06",
+  "title": "Mathematics in India",
+  "slug": "mathematics_in_india",
+  "pdf_filename": "Chapter_06_Mathematics_in_India.pdf",
+  "pdf_file": "chapters/Chapter_06_Mathematics_in_India.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 19,
+    "content_pages": 18,
+    "cover_pdf_page": 1,
+    "book_page_range": "99–116",
+    "exercises_pdf_page": 17,
+    "exercises_pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=17",
+    "exercises_book_pages": "114",
+    "word_count": 6189,
+    "estimated_reading_time_minutes": 34
+  },
+  "learning_objectives": [
+    "Ancient Indian decimal place-value system, invention of zero, and numeral traditions from Harappan and Vedic periods;",
+    "Classical arithmetical operations on the Pāṭī: addition, subtraction, multiplication (Kapaṭa-sandhi), division, and fractions;",
+    "Methods for computing squares (Varga), square-roots (Mūla), plane geometry, and Sulbasūtra constructions; and",
+    "Foundations of Indian algebra (Bījagaṇita) and trigonometry by Āryabhaṭa I, Brahmagupta, and Bhāskara II."
+  ],
+  "sections": [
+    "Glimpse of Ancient India & Decimal Numerals",
+    "Discovery of Zero & Classical Treatises",
+    "Arithmetic: Addition, Subtraction & Multiplication",
+    "Long Division, Fractions, Squares & Square-Roots",
+    "Plane Geometry & Sulbasūtras",
+    "Algebra (Bījagaṇita) & Trigonometry"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Gaṇita",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=2"
+    },
+    {
+      "term": "Brahmasphuṭasiddhānta",
+      "first_pdf_page": 4,
+      "book_page": 101,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=4"
+    },
+    {
+      "term": "Śūnya",
+      "first_pdf_page": 4,
+      "book_page": 101,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=4"
+    },
+    {
+      "term": "Kapaṭa-sandhi",
+      "first_pdf_page": 8,
+      "book_page": 105,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=8"
+    },
+    {
+      "term": "Varga",
+      "first_pdf_page": 11,
+      "book_page": 108,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=11"
+    },
+    {
+      "term": "Sulbasūtra",
+      "first_pdf_page": 11,
+      "book_page": 108,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=11"
+    },
+    {
+      "term": "Mūla",
+      "first_pdf_page": 13,
+      "book_page": 110,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=13"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Bibliography",
+      "pdf_page": 17,
+      "book_page": 114,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=17"
+    },
+    {
+      "type": "Glossary",
+      "pdf_page": 19,
+      "book_page": 116,
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=19"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 100,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 101,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 102,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 103,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 104,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 105,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 106,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 107,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 108,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 109,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 110,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 111,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 112,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 113,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 114,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 115,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 116,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Mathematics_in_India.pdf#page=19"
+    }
+  ]
+}

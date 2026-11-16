@@ -1,0 +1,336 @@
+{
+  "chapter_number": 5,
+  "chapter_id": "ch05",
+  "title": "Astronomy in India",
+  "slug": "astronomy_in_india",
+  "pdf_filename": "Chapter_05_Astronomy_in_India.pdf",
+  "pdf_file": "chapters/Chapter_05_Astronomy_in_India.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 22,
+    "content_pages": 21,
+    "cover_pdf_page": 1,
+    "book_page_range": "79–98",
+    "exercises_pdf_page": 18,
+    "exercises_pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=18",
+    "exercises_book_pages": "95–96",
+    "word_count": 7014,
+    "estimated_reading_time_minutes": 39
+  },
+  "learning_objectives": [
+    "The development of Indian lunisolar calendars, Nakṣatras, solar/lunar months, and Adhimāsa;",
+    "Scientific explanations of solar and lunar eclipses, Uttarāyaṇa, and Dakṣiṇāyana;",
+    "Contributions of Āryabhaṭa, Varāhamihira, Bhāskara I, Brahmagupta, and the Kerala School of Astronomy; and",
+    "Modern Indian astronomical observatories including GMRT, Ooty Radio Telescope, HCT Hanle, and ARIES Devasthal."
+  ],
+  "sections": [
+    "Astronomical Practices & Indian Calendar",
+    "Nakṣatras, Solar Months & Adhimāsa",
+    "Solar & Lunar Eclipses, Uttarāyaṇa & Dakṣiṇāyana",
+    "Classical Astronomers (Āryabhaṭa to Brahmagupta)",
+    "Kerala School of Astronomy",
+    "Astronomy in Modern India & Observatories"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=19"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2012,
+        "topic": "Scientific developments in India; sine series etc.",
+        "book_page": 88,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=11"
+      }
+    ]
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Nakṣatra",
+      "first_pdf_page": 4,
+      "book_page": 81,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=4"
+    },
+    {
+      "term": "Ecliptic",
+      "first_pdf_page": 4,
+      "book_page": 81,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=4"
+    },
+    {
+      "term": "Uttarāyaṇa",
+      "first_pdf_page": 9,
+      "book_page": 86,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=9"
+    },
+    {
+      "term": "Dakṣiṇāyana",
+      "first_pdf_page": 9,
+      "book_page": 86,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=9"
+    },
+    {
+      "term": "Varāhamihira",
+      "first_pdf_page": 11,
+      "book_page": 88,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=11"
+    },
+    {
+      "term": "Sūryasiddhānta",
+      "first_pdf_page": 11,
+      "book_page": 88,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=11"
+    },
+    {
+      "term": "Bhāskara I",
+      "first_pdf_page": 11,
+      "book_page": 88,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=11"
+    },
+    {
+      "term": "Brahmagupta",
+      "first_pdf_page": 12,
+      "book_page": 89,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=12"
+    },
+    {
+      "term": "Kerala School",
+      "first_pdf_page": 13,
+      "book_page": 90,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=13"
+    },
+    {
+      "term": "Jantar Mantar",
+      "first_pdf_page": 13,
+      "book_page": 90,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=13"
+    },
+    {
+      "term": "GMRT",
+      "first_pdf_page": 14,
+      "book_page": 91,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=14"
+    },
+    {
+      "term": "Ooty Radio Telescope",
+      "first_pdf_page": 14,
+      "book_page": 91,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=14"
+    },
+    {
+      "term": "Devasthal",
+      "first_pdf_page": 16,
+      "book_page": 93,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=16"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Activity",
+      "pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=2"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 3,
+      "book_page": 80,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=3"
+    },
+    {
+      "type": "Activity",
+      "pdf_page": 9,
+      "book_page": 86,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=9"
+    },
+    {
+      "type": "Activity",
+      "pdf_page": 10,
+      "book_page": 87,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=10"
+    },
+    {
+      "type": "Project Ideas",
+      "pdf_page": 18,
+      "book_page": 95,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=18"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 20,
+      "book_page": 96,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=20"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 21,
+      "book_page": 97,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=21"
+    },
+    {
+      "type": "Suggested Readings",
+      "pdf_page": 21,
+      "book_page": 97,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=21"
+    },
+    {
+      "type": "Glossary",
+      "pdf_page": 22,
+      "book_page": 98,
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=22"
+    }
+  ],
+  "external_links": [
+    "http://galileo.phys.virginia.edu/classes109N/lectures/greek_",
+    "http://jantarmantar.org",
+    "http://outreach.as.utexas.edu/marykay/highschool/hs.html",
+    "https://nptel.ac.in/courses/121104006/",
+    "https://www.aries.res.in",
+    "https://www.icts.res.in/program/AS2012",
+    "https://www.iiap.res.in",
+    "https://www.ncra.tifr.res.in",
+    "https://www.youtube.com/watch?v=n-oITe1dsdU"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 80,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 81,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 82,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 83,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 84,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 85,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 86,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 87,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 88,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 89,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 90,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 91,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 92,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 93,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 94,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 95,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 96,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 97,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 98,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Astronomy_in_India.pdf#page=22"
+    }
+  ]
+}

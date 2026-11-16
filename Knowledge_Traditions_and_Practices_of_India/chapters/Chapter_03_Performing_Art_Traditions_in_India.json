@@ -1,0 +1,390 @@
+{
+  "chapter_number": 3,
+  "chapter_id": "ch03",
+  "title": "Performing Art Traditions in India",
+  "slug": "performing_art_traditions_in_india",
+  "pdf_filename": "Chapter_03_Performing_Art_Traditions_in_India.pdf",
+  "pdf_file": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 26,
+    "content_pages": 25,
+    "cover_pdf_page": 1,
+    "book_page_range": "37–60",
+    "exercises_pdf_page": 23,
+    "exercises_pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=23",
+    "exercises_book_pages": "58",
+    "word_count": 8058,
+    "estimated_reading_time_minutes": 45
+  },
+  "learning_objectives": [
+    "The evolution of Indian music (Bhāratīya Saṅgīta) from Sāmagāna and Gāndharva to Hindustani and Carnatic traditions;",
+    "Classical musical forms (Dhrupad, Khayāl, Tarānā) and the Guru-Śiṣya Paramparā;",
+    "The origins of Indian theatre in Bharata's Nāṭyaśāstra, Sanskrit plays, and regional folk theatre; and",
+    "Tribal, folk, and classical dance forms of India (Bharatanāṭyam, Kathak, Kuchipudi, Sattriya, Manipuri) and puppetry."
+  ],
+  "sections": [
+    "Music in India & Classification of Instruments",
+    "Medieval & Modern Development of Musical Forms",
+    "Origin of Indian Theatre & Sanskrit Drama",
+    "Regional, Folk & Modern Theatre Traditions",
+    "Essential Elements & Evolution of Indian Dance",
+    "Classical Dances, Folk Forms & Shadow Puppetry"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 24,
+        "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=24"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2019,
+        "topic": "Tansen",
+        "book_page": 41,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=6"
+      },
+      {
+        "exam": "CSE",
+        "year": 2012,
+        "topic": "Dhrupad",
+        "book_page": 42,
+        "pdf_page": 7,
+        "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=7"
+      },
+      {
+        "exam": "CSE",
+        "year": 2012,
+        "topic": "Kuchipudi Features",
+        "book_page": 47,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=12"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Dance forms; Yakshagana etc.",
+        "book_page": 48,
+        "pdf_page": 13,
+        "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=13"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Sattriya Dance features",
+        "book_page": 54,
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=19"
+      }
+    ]
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Sāmagāna",
+      "first_pdf_page": 3,
+      "book_page": 38,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=3"
+    },
+    {
+      "term": "Nāṭyaśāstra",
+      "first_pdf_page": 4,
+      "book_page": 39,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=4"
+    },
+    {
+      "term": "Guru-Śiṣya Paramparā",
+      "first_pdf_page": 5,
+      "book_page": 40,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=5"
+    },
+    {
+      "term": "Śāraṅgadeva",
+      "first_pdf_page": 6,
+      "book_page": 41,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=6"
+    },
+    {
+      "term": "Dhrupada",
+      "first_pdf_page": 7,
+      "book_page": 42,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=7"
+    },
+    {
+      "term": "Khayāl",
+      "first_pdf_page": 7,
+      "book_page": 42,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=7"
+    },
+    {
+      "term": "Kuchipudi",
+      "first_pdf_page": 12,
+      "book_page": 47,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=12"
+    },
+    {
+      "term": "Kathak",
+      "first_pdf_page": 12,
+      "book_page": 47,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=12"
+    },
+    {
+      "term": "Yakṣagaṇa",
+      "first_pdf_page": 12,
+      "book_page": 47,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=12"
+    },
+    {
+      "term": "Bhavai",
+      "first_pdf_page": 14,
+      "book_page": 49,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=14"
+    },
+    {
+      "term": "Nautanki",
+      "first_pdf_page": 14,
+      "book_page": 49,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=14"
+    },
+    {
+      "term": "Kalbelia",
+      "first_pdf_page": 16,
+      "book_page": 51,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=16"
+    },
+    {
+      "term": "Bharatanāṭyam",
+      "first_pdf_page": 17,
+      "book_page": 52,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=17"
+    },
+    {
+      "term": "Sattriya",
+      "first_pdf_page": 17,
+      "book_page": 52,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=17"
+    },
+    {
+      "term": "Manipuri",
+      "first_pdf_page": 17,
+      "book_page": 52,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=17"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Activities",
+      "pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=2"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 14,
+      "book_page": 49,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=14"
+    },
+    {
+      "type": "Suggested Readings",
+      "pdf_page": 23,
+      "book_page": 58,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=23"
+    },
+    {
+      "type": "Activity",
+      "pdf_page": 25,
+      "book_page": 59,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=25"
+    },
+    {
+      "type": "Bibliography",
+      "pdf_page": 26,
+      "book_page": 60,
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=26"
+    }
+  ],
+  "external_links": [
+    "http://www.indiaprofile.com/religion-culture/jatras.htm",
+    "https://ich.unesco.org/en/RL/kutiyattam-sanskrit-",
+    "https://nroer.gov.in",
+    "https://nroer.gov.in/",
+    "https://nroer.gov.in/55ab34ff81fccb4f1d806025/",
+    "https://www.indianetzone.com/1/tamasha.htm",
+    "https://www.youtube.com/watch?v=2ORe29IRGQU",
+    "https://www.youtube.com/watch?v=Hqpxk4QG1RQ",
+    "https://www.youtube.com/watch?v=KyFVrJK0WEM",
+    "https://www.youtube.com/watch?v=P6f0MinVE_E",
+    "https://www.youtube.com/watch?v=TJb26K2X104",
+    "https://www.youtube.com/watch?v=Tvx8zmV4HJo",
+    "https://www.youtube.com/watch?v=UYT-IHNg9AM",
+    "https://www.youtube.com/watch?v=eWJdP_TTrfw",
+    "https://www.youtube.com/watch?v=q9AT8l9NttU",
+    "https://www.youtube.com/watch?v=rw2zmaV0xOU",
+    "https://www.youtube.com/watch?v=shsZ7JpNAUo",
+    "https://www.youtube.com/watch?v=skkSuyQHsus",
+    "https://www.youtube.com/watch?v=ulIuuirC-vI"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 38,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 39,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 40,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 41,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 42,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 43,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 44,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 45,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 46,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 47,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 48,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 49,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 50,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 51,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 52,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 53,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 54,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 55,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 56,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 57,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 58,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 59,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 60,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf#page=26"
+    }
+  ]
+}

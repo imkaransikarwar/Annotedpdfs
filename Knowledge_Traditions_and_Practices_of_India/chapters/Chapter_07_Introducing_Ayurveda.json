@@ -1,0 +1,299 @@
+{
+  "chapter_number": 7,
+  "chapter_id": "ch07",
+  "title": "Introducing Ayurveda: The Science of Health and Disease",
+  "slug": "introducing_ayurveda",
+  "pdf_filename": "Chapter_07_Introducing_Ayurveda.pdf",
+  "pdf_file": "chapters/Chapter_07_Introducing_Ayurveda.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 21,
+    "content_pages": 20,
+    "cover_pdf_page": 1,
+    "book_page_range": "117–136",
+    "exercises_pdf_page": 18,
+    "exercises_pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=18",
+    "exercises_book_pages": "133",
+    "word_count": 7585,
+    "estimated_reading_time_minutes": 42
+  },
+  "learning_objectives": [
+    "The historical roots of Āyurveda, its eight clinical branches (Aṣṭāṅga Āyurveda), and Manuṣya/Veterinary treatises;",
+    "Philosophical foundations from the Darśanas and the Tridoṣa theory (Vāta, Pitta, Kapha);",
+    "Āyurvedic approach to balanced diet, lifestyle, and pharmacology (Dravyaguṇa); and",
+    "Connections between Āyurveda, systems biology, ecological health, and modern pharmacopoeia standards."
+  ],
+  "sections": [
+    "Brief History & Aṣṭāṅga Āyurveda",
+    "Manuṣya & Veterinary Āyurvedic Literature",
+    "Role of Darśanas & Tridoṣa Theory (VPK)",
+    "Clinical Approach, Diet & Lifestyle",
+    "Āyurvedic Pharmacology & Systems Biology",
+    "Ecological Health & Disease Prevention"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Āyurveda",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=2"
+    },
+    {
+      "term": "Vāta",
+      "first_pdf_page": 3,
+      "book_page": 118,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=3"
+    },
+    {
+      "term": "Pitta",
+      "first_pdf_page": 3,
+      "book_page": 118,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=3"
+    },
+    {
+      "term": "Kapha",
+      "first_pdf_page": 3,
+      "book_page": 118,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=3"
+    },
+    {
+      "term": "Caraka Saṁhitā",
+      "first_pdf_page": 4,
+      "book_page": 119,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=4"
+    },
+    {
+      "term": "Suśruta Saṁhitā",
+      "first_pdf_page": 4,
+      "book_page": 119,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=4"
+    },
+    {
+      "term": "Darśana",
+      "first_pdf_page": 4,
+      "book_page": 119,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=4"
+    },
+    {
+      "term": "Śālihotra",
+      "first_pdf_page": 6,
+      "book_page": 121,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=6"
+    },
+    {
+      "term": "Tridoṣa",
+      "first_pdf_page": 8,
+      "book_page": 123,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=8"
+    },
+    {
+      "term": "BAMS",
+      "first_pdf_page": 17,
+      "book_page": 132,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=17"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Activities",
+      "pdf_page": 3,
+      "book_page": 118,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=3"
+    },
+    {
+      "type": "Activity",
+      "pdf_page": 11,
+      "book_page": 126,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=11"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 11,
+      "book_page": 126,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=11"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 12,
+      "book_page": 127,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=12"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 13,
+      "book_page": 128,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=13"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 17,
+      "book_page": 132,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=17"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 18,
+      "book_page": 133,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=18"
+    },
+    {
+      "type": "Suggested Readings",
+      "pdf_page": 18,
+      "book_page": 133,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=18"
+    },
+    {
+      "type": "Bibliography",
+      "pdf_page": 19,
+      "book_page": 134,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=19"
+    },
+    {
+      "type": "Glossary",
+      "pdf_page": 21,
+      "book_page": 136,
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=21"
+    }
+  ],
+  "external_links": [
+    "http://ayush.gov.in",
+    "http://www.iranicaonline.org/articles/jivakapustaka",
+    "https://drclaudiawelch.com/the",
+    "https://plato.stanford.edu/entries/reduction‑",
+    "https://www.academia.edu/38178368/_Ayūrvedic_or_Traditional",
+    "https://www.samw.ch"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 118,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 119,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 120,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 121,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 122,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 123,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 124,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 125,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 126,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 127,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 128,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 129,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 130,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 131,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 132,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 133,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 134,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 135,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 136,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_Introducing_Ayurveda.pdf#page=21"
+    }
+  ]
+}

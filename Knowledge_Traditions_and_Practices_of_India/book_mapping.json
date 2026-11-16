@@ -1,0 +1,227 @@
+{
+  "book_title": "Knowledge Traditions and Practices of India — Part I",
+  "source_pdfs": {
+    "Part1": {
+      "filename": "Knowledge Traditions Class 11_NCERT_Part1.pdf",
+      "total_pages": 60,
+      "page_dimensions_pt": "612.0 x 900.0"
+    },
+    "Part2": {
+      "filename": "Knowledge Traditions Class 11_NCERT_Part2.pdf",
+      "total_pages": 29,
+      "page_dimensions_pt": "612.0 x 900.0"
+    },
+    "Part3": {
+      "filename": "Knowledge Traditions Class 11_NCERT_Part3.pdf",
+      "total_pages": 87,
+      "page_dimensions_pt": "612.0 x 900.0"
+    },
+    "Part4": {
+      "filename": "Knowledge Traditions Class 11_NCERT_Part4.pdf",
+      "total_pages": 16,
+      "page_dimensions_pt": "612.0 x 900.0"
+    }
+  },
+  "preliminaries": {
+    "source_part": "Part1",
+    "source_pdf_pages": "1-16",
+    "page_count": 16,
+    "contents": [
+      "Book Cover (p. 1 -> cover.png)",
+      "Editor's Note & Highlight Guide (pp. 2-3)",
+      "ISBN / Copyright, Foreword, Introduction, Development Team, Acknowledgements (pp. 4-12)",
+      "Romanisation of Indian Sounds (pp. 13-14)",
+      "Contents & Motto (pp. 15-16)"
+    ]
+  },
+  "back_cover": {
+    "source_part": "Part4",
+    "source_pdf_pages": "16-16",
+    "page_count": 1
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Language and Literature of India",
+      "output_pdf": "chapters/Chapter_01_Language_and_Literature_of_India.pdf",
+      "output_json": "chapters/Chapter_01_Language_and_Literature_of_India.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-21",
+      "book_page_range": "1–18",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part1.pdf",
+          "source_pdf_pages": "17-36",
+          "page_count": 20
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Indian Philosophical Systems",
+      "output_pdf": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf",
+      "output_json": "chapters/Chapter_02_Indian_Philosophical_Systems.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-20",
+      "book_page_range": "19–36",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part1.pdf",
+          "source_pdf_pages": "37-55",
+          "page_count": 19
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Performing Art Traditions in India",
+      "output_pdf": "chapters/Chapter_03_Performing_Art_Traditions_in_India.pdf",
+      "output_json": "chapters/Chapter_03_Performing_Art_Traditions_in_India.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-26",
+      "book_page_range": "37–60",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part1.pdf",
+          "source_pdf_pages": "56-60",
+          "page_count": 5
+        },
+        {
+          "source_part": "Part2",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part2.pdf",
+          "source_pdf_pages": "1-20",
+          "page_count": 20
+        }
+      ],
+      "stitched_across_parts": true
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Indian Art and Architecture",
+      "output_pdf": "chapters/Chapter_04_Indian_Art_and_Architecture.pdf",
+      "output_json": "chapters/Chapter_04_Indian_Art_and_Architecture.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-19",
+      "book_page_range": "61–78",
+      "source_segments": [
+        {
+          "source_part": "Part2",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part2.pdf",
+          "source_pdf_pages": "21-29",
+          "page_count": 9
+        },
+        {
+          "source_part": "Part3",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part3.pdf",
+          "source_pdf_pages": "1-9",
+          "page_count": 9
+        }
+      ],
+      "stitched_across_parts": true
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Astronomy in India",
+      "output_pdf": "chapters/Chapter_05_Astronomy_in_India.pdf",
+      "output_json": "chapters/Chapter_05_Astronomy_in_India.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-22",
+      "book_page_range": "79–98",
+      "source_segments": [
+        {
+          "source_part": "Part3",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part3.pdf",
+          "source_pdf_pages": "10-30",
+          "page_count": 21
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Mathematics in India",
+      "output_pdf": "chapters/Chapter_06_Mathematics_in_India.pdf",
+      "output_json": "chapters/Chapter_06_Mathematics_in_India.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-19",
+      "book_page_range": "99–116",
+      "source_segments": [
+        {
+          "source_part": "Part3",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part3.pdf",
+          "source_pdf_pages": "31-48",
+          "page_count": 18
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch07",
+      "title": "Introducing Ayurveda: The Science of Health and Disease",
+      "output_pdf": "chapters/Chapter_07_Introducing_Ayurveda.pdf",
+      "output_json": "chapters/Chapter_07_Introducing_Ayurveda.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-21",
+      "book_page_range": "117–136",
+      "source_segments": [
+        {
+          "source_part": "Part3",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part3.pdf",
+          "source_pdf_pages": "49-68",
+          "page_count": 20
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch08",
+      "title": "Chemistry and Metallurgy in India",
+      "output_pdf": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf",
+      "output_json": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-20",
+      "book_page_range": "137–154",
+      "source_segments": [
+        {
+          "source_part": "Part3",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part3.pdf",
+          "source_pdf_pages": "69-87",
+          "page_count": 19
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 9,
+      "chapter_id": "ch09",
+      "title": "Yoga",
+      "output_pdf": "chapters/Chapter_09_Yoga.pdf",
+      "output_json": "chapters/Chapter_09_Yoga.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-16",
+      "book_page_range": "155–169",
+      "source_segments": [
+        {
+          "source_part": "Part4",
+          "source_filename": "Knowledge Traditions Class 11_NCERT_Part4.pdf",
+          "source_pdf_pages": "1-15",
+          "page_count": 15
+        }
+      ],
+      "stitched_across_parts": false
+    }
+  ]
+}

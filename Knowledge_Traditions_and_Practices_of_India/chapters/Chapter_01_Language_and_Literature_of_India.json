@@ -1,0 +1,341 @@
+{
+  "chapter_number": 1,
+  "chapter_id": "ch01",
+  "title": "Language and Literature of India",
+  "slug": "language_and_literature_of_india",
+  "pdf_filename": "Chapter_01_Language_and_Literature_of_India.pdf",
+  "pdf_file": "chapters/Chapter_01_Language_and_Literature_of_India.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 21,
+    "content_pages": 20,
+    "cover_pdf_page": 1,
+    "book_page_range": "1–18",
+    "exercises_pdf_page": 18,
+    "exercises_pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=18",
+    "exercises_book_pages": "17–18",
+    "word_count": 6298,
+    "estimated_reading_time_minutes": 35
+  },
+  "learning_objectives": [
+    "The role of language in human life, culture, and social co-existence;",
+    "The scientific foundations of Indian linguistics, Pāṇini's grammar, and India's five language families;",
+    "The evolution of Indian literature across Vedic, Classical Sanskrit, Tamil Sangam, Pāli, Prākṛt, and Apabhraṁśa traditions; and",
+    "Key literary works including the Mahābhārata, Rāmāyaṇa, Jātaka Tales, Hitopadeśa, and Bhakti poetry."
+  ],
+  "sections": [
+    "Language and Human Life",
+    "Language and Its Science & Five Language Families",
+    "Mosaic of Indian Literature (Vedic, Post-Vedic & Classical)",
+    "Prākṛt, Pāli, Apabhraṁśa & Ancient Kannada",
+    "The Epics (Mahābhārata & Rāmāyaṇa)",
+    "Jātaka Tales, Hitopadeśa & Bhakti Movement"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=20"
+      },
+      {
+        "pdf_page": 21,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=21"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2020,
+        "topic": "Scholars/Litterateurs",
+        "book_page": 4,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2024,
+        "topic": "Upanishads",
+        "book_page": 7,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2024,
+        "topic": "Works of Bhasa",
+        "book_page": 8,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Sangam Literature",
+        "book_page": 9,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=10"
+      },
+      {
+        "exam": "CSE",
+        "year": 2024,
+        "topic": "Classical Languages of India; 71st CAA",
+        "book_page": 11,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=12"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Guru Nanak - Time period",
+        "book_page": 15,
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=16"
+      },
+      {
+        "exam": "CSE",
+        "year": 2012,
+        "topic": "Sufi Mystics",
+        "book_page": 15,
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=16"
+      },
+      {
+        "exam": "CSE",
+        "year": 2019,
+        "topic": "Saints and their contemporaries",
+        "book_page": 16,
+        "pdf_page": 17,
+        "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=17"
+      }
+    ]
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Kuruntokai",
+      "first_pdf_page": 7,
+      "book_page": 6,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=7"
+    },
+    {
+      "term": "Mahābhārata",
+      "first_pdf_page": 8,
+      "book_page": 7,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=8"
+    },
+    {
+      "term": "Rāmāyaṇa",
+      "first_pdf_page": 8,
+      "book_page": 7,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=8"
+    },
+    {
+      "term": "Jātaka",
+      "first_pdf_page": 8,
+      "book_page": 7,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=8"
+    },
+    {
+      "term": "Sangam",
+      "first_pdf_page": 10,
+      "book_page": 9,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=10"
+    },
+    {
+      "term": "Prākṛt",
+      "first_pdf_page": 10,
+      "book_page": 9,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=10"
+    },
+    {
+      "term": "Pāli",
+      "first_pdf_page": 10,
+      "book_page": 9,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=10"
+    },
+    {
+      "term": "Bhakti",
+      "first_pdf_page": 11,
+      "book_page": 10,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=11"
+    },
+    {
+      "term": "Kavirājamārgam",
+      "first_pdf_page": 11,
+      "book_page": 10,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=11"
+    },
+    {
+      "term": "Classical Languages",
+      "first_pdf_page": 12,
+      "book_page": 11,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=12"
+    },
+    {
+      "term": "Hitopadeśa",
+      "first_pdf_page": 15,
+      "book_page": 14,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=15"
+    },
+    {
+      "term": "Eighth Schedule",
+      "first_pdf_page": 21,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=21"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Project Work",
+      "pdf_page": 18,
+      "book_page": 17,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=18"
+    },
+    {
+      "type": "Activity",
+      "pdf_page": 19,
+      "book_page": 18,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=19"
+    },
+    {
+      "type": "Bibliography",
+      "pdf_page": 19,
+      "book_page": 18,
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=19"
+    }
+  ],
+  "external_links": [
+    "http://gretil.sub.uni-goettingen.de/gretil_elib/",
+    "https://search.creativecommons.org/photos/fdf30c26-6fee-467b-8fc5-"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 1,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 2,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 3,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 4,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 5,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 6,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 7,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 8,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 9,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 10,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 11,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 12,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 13,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 14,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 15,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 16,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 17,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 18,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_01_Language_and_Literature_of_India.pdf#page=21"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "chapter_number": 8,
+  "chapter_id": "ch08",
+  "title": "Chemistry and Metallurgy in India",
+  "slug": "chemistry_and_metallurgy_in_india",
+  "pdf_filename": "Chapter_08_Chemistry_and_Metallurgy_in_India.pdf",
+  "pdf_file": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 20,
+    "content_pages": 19,
+    "cover_pdf_page": 1,
+    "book_page_range": "137–154",
+    "exercises_pdf_page": 17,
+    "exercises_pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=17",
+    "exercises_book_pages": "152",
+    "word_count": 6853,
+    "estimated_reading_time_minutes": 38
+  },
+  "learning_objectives": [
+    "The transition from Rasāyana Śāstra (Indian alchemy and iatrochemistry) to chemistry;",
+    "Harappan pottery, glazing, glass making, paints, dyes, perfumes, cosmetics, and paper/ink making;",
+    "Ancient chemical knowledge in Caraka Saṁhitā, Suśruta Saṁhitā, and Rasavidyā texts (Bhasma); and",
+    "Indian metallurgical mastery in copper, rust-resistant iron (Delhi Iron Pillar), Wootz steel, and zinc distillation."
+  ],
+  "sections": [
+    "From Alchemy (Rasāyana Śāstra) to Chemistry",
+    "Harappan Crafts, Glass, Paints & Dyes",
+    "Perfumes, Cosmetics, Paper & Ink Making",
+    "Chemicals in Ancient Texts & Āyurvedic Bhasmas",
+    "Metallurgy: Copper, Iron & Delhi Iron Pillar",
+    "Zinc Distillation & Gold Recovery"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=18"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Literary Works and Authors",
+        "book_page": 142,
+        "pdf_page": 7,
+        "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=7"
+      }
+    ]
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Iatrochemistry",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=2"
+    },
+    {
+      "term": "Rasāyana Śāstra",
+      "first_pdf_page": 3,
+      "book_page": 138,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=3"
+    },
+    {
+      "term": "Rasavidyā",
+      "first_pdf_page": 3,
+      "book_page": 138,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=3"
+    },
+    {
+      "term": "Northern Black Polished Ware",
+      "first_pdf_page": 4,
+      "book_page": 139,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=4"
+    },
+    {
+      "term": "Arthaśāstra",
+      "first_pdf_page": 5,
+      "book_page": 140,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=5"
+    },
+    {
+      "term": "Saraswati Mahal",
+      "first_pdf_page": 7,
+      "book_page": 142,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=7"
+    },
+    {
+      "term": "Zinc",
+      "first_pdf_page": 7,
+      "book_page": 142,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=7"
+    },
+    {
+      "term": "Alkalies",
+      "first_pdf_page": 7,
+      "book_page": 142,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=7"
+    },
+    {
+      "term": "Bhasma",
+      "first_pdf_page": 10,
+      "book_page": 145,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=10"
+    },
+    {
+      "term": "Wootz Steel",
+      "first_pdf_page": 13,
+      "book_page": 148,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=13"
+    },
+    {
+      "term": "Zawar",
+      "first_pdf_page": 15,
+      "book_page": 150,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=15"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Activity",
+      "pdf_page": 12,
+      "book_page": 147,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=12"
+    },
+    {
+      "type": "Activities",
+      "pdf_page": 17,
+      "book_page": 152,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=17"
+    },
+    {
+      "type": "Bibliography",
+      "pdf_page": 17,
+      "book_page": 152,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=17"
+    },
+    {
+      "type": "Glossary",
+      "pdf_page": 20,
+      "book_page": 154,
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=20"
+    }
+  ],
+  "external_links": [
+    "http://www.chm.bris.ac.uk/webprojects2002/crabb/history.html",
+    "http://www.infinityfoundation.com/mandala/t_es_agraw_",
+    "https://www.insa.nic.in/writereaddata/"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 138,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 139,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 140,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 141,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 142,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 143,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 144,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 145,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 146,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 147,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 148,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 149,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 150,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 151,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 152,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 153,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 154,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Chemistry_and_Metallurgy_in_India.pdf#page=20"
+    }
+  ]
+}

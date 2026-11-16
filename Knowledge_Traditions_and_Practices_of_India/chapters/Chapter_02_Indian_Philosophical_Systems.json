@@ -1,0 +1,316 @@
+{
+  "chapter_number": 2,
+  "chapter_id": "ch02",
+  "title": "Indian Philosophical Systems",
+  "slug": "indian_philosophical_systems",
+  "pdf_filename": "Chapter_02_Indian_Philosophical_Systems.pdf",
+  "pdf_file": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 20,
+    "content_pages": 19,
+    "cover_pdf_page": 1,
+    "book_page_range": "19–36",
+    "exercises_pdf_page": 17,
+    "exercises_pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=17",
+    "exercises_book_pages": "34–35",
+    "word_count": 6989,
+    "estimated_reading_time_minutes": 39
+  },
+  "learning_objectives": [
+    "The meaning of Darśana, Prameya (objects of knowledge), and Pramāṇa (means of valid knowledge);",
+    "The Nāstika (heterodox) schools: Cārvāka, Jaina, and Bauddha (Buddhist) philosophies;",
+    "The Āstika (orthodox) Ṣaḍ-Darśana: Sāṅkhya, Yoga, Nyāya, Vaiśeṣika, Pūrva Mīmāṁsā, and Uttara Mīmāṁsā (Vedānta); and",
+    "Core ethical doctrines including Anekāntavāda, Four Noble Truths, Eightfold Path, and Advaita Vedānta."
+  ],
+  "sections": [
+    "Meaning of Darśana, Prameya & Pramāṇa",
+    "Nāstika Schools: Cārvāka Philosophy",
+    "Jaina Philosophy & Ethics (Anekāntavāda)",
+    "Buddhist Philosophy (Tipiṭaka & Eightfold Path)",
+    "Āstika Ṣaḍ-Darśana: Sāṅkhya & Yoga",
+    "Nyāya, Vaiśeṣika, Pūrva & Uttara Mīmāṁsā"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=18"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Arthasashtra content",
+        "book_page": 22,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Features of Jaina philosophy",
+        "book_page": 23,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=6"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Philosophical Schools",
+        "book_page": 27,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=10"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Samkya school of philosophy",
+        "book_page": 27,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=10"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Ramunuja's philosophy",
+        "book_page": 33,
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=16"
+      }
+    ]
+  },
+  "key_terms_and_concepts": [
+    {
+      "term": "Darśana",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=2"
+    },
+    {
+      "term": "Pramāṇa",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=2"
+    },
+    {
+      "term": "Prameya",
+      "first_pdf_page": 2,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=2"
+    },
+    {
+      "term": "Cārvāka",
+      "first_pdf_page": 3,
+      "book_page": 20,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=3"
+    },
+    {
+      "term": "Jaina",
+      "first_pdf_page": 3,
+      "book_page": 20,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=3"
+    },
+    {
+      "term": "Sāṅkhya",
+      "first_pdf_page": 3,
+      "book_page": 20,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=3"
+    },
+    {
+      "term": "Nyāya",
+      "first_pdf_page": 3,
+      "book_page": 20,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=3"
+    },
+    {
+      "term": "Vaiśeṣika",
+      "first_pdf_page": 3,
+      "book_page": 20,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=3"
+    },
+    {
+      "term": "Arthaśāstra",
+      "first_pdf_page": 5,
+      "book_page": 22,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=5"
+    },
+    {
+      "term": "Anekāntavāda",
+      "first_pdf_page": 6,
+      "book_page": 23,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=6"
+    },
+    {
+      "term": "Tipiṭaka",
+      "first_pdf_page": 8,
+      "book_page": 25,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=8"
+    },
+    {
+      "term": "Ṣaḍ-Darśana",
+      "first_pdf_page": 10,
+      "book_page": 27,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=10"
+    },
+    {
+      "term": "Patañjali",
+      "first_pdf_page": 10,
+      "book_page": 27,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=10"
+    },
+    {
+      "term": "Advaita",
+      "first_pdf_page": 16,
+      "book_page": 33,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=16"
+    },
+    {
+      "term": "Ādi Śaṅkara",
+      "first_pdf_page": 16,
+      "book_page": 33,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=16"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Activity",
+      "pdf_page": 11,
+      "book_page": 28,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=11"
+    },
+    {
+      "type": "Glossary",
+      "pdf_page": 20,
+      "book_page": 36,
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=20"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 20,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 21,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 22,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 23,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 24,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 25,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 26,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 27,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 28,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 29,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 30,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 31,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 32,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 33,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 34,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 35,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 36,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Indian_Philosophical_Systems.pdf#page=20"
+    }
+  ]
+}
