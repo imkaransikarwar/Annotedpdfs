@@ -1,0 +1,353 @@
+{
+  "chapter_number": 8,
+  "chapter_id": "ch08",
+  "title": "Local Governments",
+  "slug": "local-governments",
+  "pdf_filename": "Chapter_08_Local_Governments.pdf",
+  "pdf_file": "chapters/Chapter_08_Local_Governments.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 24,
+    "content_pages": 23,
+    "cover_pdf_page": 1,
+    "book_page_range": "176–195",
+    "exercises_pdf_page": 22,
+    "exercises_pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=22",
+    "exercises_book_pages": "193-195",
+    "word_count": 5959,
+    "estimated_reading_time_minutes": 33
+  },
+  "learning_objectives": [
+    "The importance of local government bodies;",
+    "The provisions made by the 73rd and 74th amendments; and",
+    "Functions and responsibilities of the local government bodies."
+  ],
+  "sections": [
+    "Why Local Governments?",
+    "Growth of Local Government in India",
+    "73rd Constitutional Amendment (Panchayati Raj Institutions)",
+    "State Election & Finance Commissions, PESA Act 1996",
+    "74th Constitutional Amendment (Nagarpalikas)",
+    "Implementation & Challenges of Decentralisation"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE",
+      "CDS",
+      "CAPF"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=19"
+      },
+      {
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=20"
+      },
+      {
+        "pdf_page": 21,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=21"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CDS",
+        "year": 2014,
+        "topic": "73rd and 74th CAA",
+        "book_page": 177,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=3"
+      },
+      {
+        "exam": "CSE",
+        "year": 2015,
+        "topic": "Objective of FR",
+        "book_page": 178,
+        "pdf_page": 4,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=4"
+      },
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "Local self government implicates",
+        "book_page": 179,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=5"
+      },
+      {
+        "exam": "CDS",
+        "year": 2017,
+        "topic": "Specifics of 73rd and 74th CAA",
+        "book_page": 182,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=8"
+      },
+      {
+        "exam": "CDS",
+        "year": 2017,
+        "topic": "Elections and Bodies in Panchayat",
+        "book_page": 183,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Role of Gram Sabha",
+        "book_page": 183,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=9"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2014,
+        "topic": "Panchayat Elections",
+        "book_page": 183,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=9"
+      },
+      {
+        "exam": "CDS",
+        "year": 2017,
+        "topic": null,
+        "book_page": 184,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=10"
+      },
+      {
+        "exam": "CDS",
+        "year": 2021,
+        "topic": "Reservation for Women",
+        "book_page": 184,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=10"
+      },
+      {
+        "exam": "CDS",
+        "year": 2020,
+        "topic": "Reservation in Panchayats",
+        "book_page": 184,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=10"
+      },
+      {
+        "exam": "CDS",
+        "year": 2020,
+        "topic": "11th Schedule",
+        "book_page": 184,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=10"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "PESA",
+        "book_page": 186,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=12"
+      },
+      {
+        "exam": "CDS",
+        "year": 2021,
+        "topic": "SEC",
+        "book_page": 186,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=12"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2012,
+        "topic": "29 subjects transferred to local governments",
+        "book_page": 191,
+        "pdf_page": 17,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=17"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2018,
+        "topic": "Revenue Powers of Panchayat",
+        "book_page": 192,
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=18"
+      }
+    ]
+  },
+  "key_constitutional_articles": [
+    {
+      "article": "Article 243G",
+      "first_pdf_page": 11,
+      "book_page": 185,
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=11"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Check Your Progress",
+      "pdf_page": 5,
+      "book_page": 179,
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=5"
+    },
+    {
+      "type": "Check Your Progress",
+      "pdf_page": 8,
+      "book_page": 182,
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=8"
+    },
+    {
+      "type": "Activity",
+      "pdf_page": 13,
+      "book_page": 187,
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=13"
+    }
+  ],
+  "external_links": [
+    "https://bit.ly/AccessCDNotes"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 176,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 177,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 178,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 179,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 180,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 181,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 182,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 183,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 184,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 185,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 186,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 187,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 188,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 189,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 190,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 191,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 192,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 193,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 194,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 195,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Local_Governments.pdf#page=24"
+    }
+  ]
+}

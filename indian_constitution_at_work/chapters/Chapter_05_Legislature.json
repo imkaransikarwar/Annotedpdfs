@@ -1,0 +1,543 @@
+{
+  "chapter_number": 5,
+  "chapter_id": "ch05",
+  "title": "Legislature",
+  "slug": "legislature",
+  "pdf_filename": "Chapter_05_Legislature.pdf",
+  "pdf_file": "chapters/Chapter_05_Legislature.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 31,
+    "content_pages": 30,
+    "cover_pdf_page": 1,
+    "book_page_range": "100–123",
+    "exercises_pdf_page": 30,
+    "exercises_pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=30",
+    "exercises_book_pages": "122-123",
+    "word_count": 7082,
+    "estimated_reading_time_minutes": 39
+  },
+  "learning_objectives": [
+    "The importance of the legislature;",
+    "The functions and powers of the Parliament of India;",
+    "The law making procedure;",
+    "How the Parliament controls the executive; and",
+    "How the Parliament regulates itself."
+  ],
+  "sections": [
+    "Why Do We Need a Parliament? & Bicameralism",
+    "Rajya Sabha and Lok Sabha",
+    "Functions and Powers of Parliament",
+    "How Does the Parliament Make Laws?",
+    "Instruments of Parliamentary Control & Committees",
+    "How Does the Parliament Regulate Itself? (Anti-Defection Law)"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE",
+      "CDS",
+      "CAPF"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 24,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=24"
+      },
+      {
+        "pdf_page": 25,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=25"
+      },
+      {
+        "pdf_page": 26,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=26"
+      },
+      {
+        "pdf_page": 27,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=27"
+      },
+      {
+        "pdf_page": 28,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=28"
+      },
+      {
+        "pdf_page": 29,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=29"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CDS",
+        "year": 2022,
+        "topic": "Bicameral Legislature States",
+        "book_page": 102,
+        "pdf_page": 4,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=4"
+      },
+      {
+        "exam": "CDS",
+        "year": 2016,
+        "topic": "Rajya Sabha and State legislature elections",
+        "book_page": 104,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=6"
+      },
+      {
+        "exam": "CDS",
+        "year": 2017,
+        "topic": "4th Schedule",
+        "book_page": 105,
+        "pdf_page": 7,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=7"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2014,
+        "topic": "Election in Rajya Sabha",
+        "book_page": 105,
+        "pdf_page": 7,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=7"
+      },
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "Democracy's virtue",
+        "book_page": 108,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=10"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2016,
+        "topic": "Constitution Amendment Bill",
+        "book_page": 109,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=11"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2011,
+        "topic": "Removal of SC Judge",
+        "book_page": 109,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=11"
+      },
+      {
+        "exam": "CDS",
+        "year": 2013,
+        "topic": "Special Powers of Rajya Sabha",
+        "book_page": 109,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=11"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Powers of Lok Sabha",
+        "book_page": 109,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=11"
+      },
+      {
+        "exam": "CDS",
+        "year": 2019,
+        "topic": "Rajya Sabha exlcusive jurisdiction",
+        "book_page": 110,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=12"
+      },
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Money Bill and Parliament",
+        "book_page": 110,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=12"
+      },
+      {
+        "exam": "CDS",
+        "year": 2017,
+        "topic": "Money Bill and Rajya Sabha",
+        "book_page": 110,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=12"
+      },
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "Private Member Bill",
+        "book_page": 112,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=14"
+      },
+      {
+        "exam": "CDS",
+        "year": 2014,
+        "topic": "President's assent",
+        "book_page": 114,
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=16"
+      },
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "Control over Council of Ministers",
+        "book_page": 115,
+        "pdf_page": 17,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=17"
+      },
+      {
+        "exam": "CDS",
+        "year": 2017,
+        "topic": "Annual Financial Statement",
+        "book_page": 116,
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=18"
+      },
+      {
+        "exam": "CSE",
+        "year": 2024,
+        "topic": "Annual Financial Statement",
+        "book_page": 116,
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=18"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2021,
+        "topic": "Terms of Public Accounts Committe e",
+        "book_page": 117,
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=19"
+      },
+      {
+        "exam": "CDS",
+        "year": 2021,
+        "topic": "No- confidenc e motion moved against",
+        "book_page": 117,
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=19"
+      },
+      {
+        "exam": "CDS",
+        "year": 2014,
+        "topic": "Public Accounts Committee",
+        "book_page": 117,
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=19"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "No- confidence motion",
+        "book_page": 117,
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=19"
+      },
+      {
+        "exam": "CDS",
+        "year": 2021,
+        "topic": "Committee Workings",
+        "book_page": 118,
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=20"
+      },
+      {
+        "exam": "CSE",
+        "year": 2018,
+        "topic": "Committee on Subordinate Legislation",
+        "book_page": 118,
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=20"
+      },
+      {
+        "exam": "CDS",
+        "year": 2020,
+        "topic": "Appointment of Parliamentary Committee",
+        "book_page": 118,
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=20"
+      },
+      {
+        "exam": "CAPF",
+        "year": 2019,
+        "topic": "10th Schedule",
+        "book_page": 120,
+        "pdf_page": 22,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=22"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "ADL Features",
+        "book_page": 120,
+        "pdf_page": 22,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=22"
+      },
+      {
+        "exam": "CDS",
+        "year": 2009,
+        "topic": "52nd CAA",
+        "book_page": 120,
+        "pdf_page": 22,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=22"
+      },
+      {
+        "exam": "CDS",
+        "year": 2018,
+        "topic": "91st CAA",
+        "book_page": 120,
+        "pdf_page": 22,
+        "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=22"
+      }
+    ]
+  },
+  "key_constitutional_articles": [
+    {
+      "article": "Article 109",
+      "first_pdf_page": 16,
+      "book_page": 114,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=16"
+    }
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Activity",
+      "pdf_page": 3,
+      "book_page": 101,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=3"
+    },
+    {
+      "type": "Activity",
+      "pdf_page": 8,
+      "book_page": 106,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=8"
+    },
+    {
+      "type": "Check Your Progress",
+      "pdf_page": 9,
+      "book_page": 107,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=9"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 10,
+      "book_page": 108,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=10"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 15,
+      "book_page": 113,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=15"
+    },
+    {
+      "type": "Activity",
+      "pdf_page": 19,
+      "book_page": 117,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=19"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 20,
+      "book_page": 118,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=20"
+    },
+    {
+      "type": "Read A Cartoon",
+      "pdf_page": 22,
+      "book_page": 120,
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=22"
+    }
+  ],
+  "external_links": [
+    "https://bit.ly/AccessCDNotes"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 100,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 101,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 102,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 103,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 104,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 105,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 106,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 107,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 108,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 109,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 110,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 111,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 112,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 113,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 114,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 115,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 116,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 117,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 118,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 119,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 120,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 121,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=27"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=28"
+    },
+    {
+      "pdf_page": 29,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=29"
+    },
+    {
+      "pdf_page": 30,
+      "book_page": 122,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=30"
+    },
+    {
+      "pdf_page": 31,
+      "book_page": 123,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Legislature.pdf#page=31"
+    }
+  ]
+}
