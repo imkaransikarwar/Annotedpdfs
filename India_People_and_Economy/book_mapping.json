@@ -1,0 +1,203 @@
+{
+  "book_title": "India: People and Economy",
+  "source_pdfs": {
+    "Part1": {
+      "filename": "India & People and Economy.pdf",
+      "total_pages": 128,
+      "page_dimensions_pt": "612.0 x 820.8"
+    }
+  },
+  "preliminaries": {
+    "source_part": "Part1",
+    "source_pdf_pages": "11-20",
+    "page_count": 10,
+    "contents": [
+      "Book Title Cover (p. 11 -> cover.png)",
+      "ISBN, Foreword & Rationalisation of Content (pp. 12-16)",
+      "Committee, Acknowledgements & Contents (pp. 17-19)",
+      "School Bhuvan-NCERT Portal Info (p. 20)"
+    ]
+  },
+  "back_matter": {
+    "appendices_and_glossary": {
+      "source_part": "Part1",
+      "source_pdf_pages": "1-10",
+      "book_pages": "106-115",
+      "page_count": 10,
+      "note": "Placed at PDF pp. 1-10 in source file"
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Population: Distribution, Density, Growth and Composition",
+      "output_pdf": "chapters/Chapter_01_Population_Distribution_Density_Growth_and_Composition.pdf",
+      "output_json": "chapters/Chapter_01_Population_Distribution_Density_Growth_and_Composition.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-15",
+      "book_page_range": "1–14",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "21-34",
+          "page_count": 14
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Human Settlements",
+      "output_pdf": "chapters/Chapter_02_Human_Settlements.pdf",
+      "output_json": "chapters/Chapter_02_Human_Settlements.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-7",
+      "book_page_range": "15–20",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "35-40",
+          "page_count": 6
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Land Resources and Agriculture",
+      "output_pdf": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf",
+      "output_json": "chapters/Chapter_03_Land_Resources_and_Agriculture.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-21",
+      "book_page_range": "21–40",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "41-60",
+          "page_count": 20
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Water Resources",
+      "output_pdf": "chapters/Chapter_04_Water_Resources.pdf",
+      "output_json": "chapters/Chapter_04_Water_Resources.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-14",
+      "book_page_range": "41–52",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "61-73",
+          "page_count": 13
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Mineral and Energy Resources",
+      "output_pdf": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf",
+      "output_json": "chapters/Chapter_05_Mineral_and_Energy_Resources.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-15",
+      "book_page_range": "53–65",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "74-87",
+          "page_count": 14
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Planning and Sustainable Development in Indian Context",
+      "output_pdf": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf",
+      "output_json": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-10",
+      "book_page_range": "66–74",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "88-96",
+          "page_count": 9
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch07",
+      "title": "Transport and Communication",
+      "output_pdf": "chapters/Chapter_07_Transport_and_Communication.pdf",
+      "output_json": "chapters/Chapter_07_Transport_and_Communication.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-12",
+      "book_page_range": "75–85",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "97-107",
+          "page_count": 11
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch08",
+      "title": "International Trade",
+      "output_pdf": "chapters/Chapter_08_International_Trade.pdf",
+      "output_json": "chapters/Chapter_08_International_Trade.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-11",
+      "book_page_range": "86–94",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "108-117",
+          "page_count": 10
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 9,
+      "chapter_id": "ch09",
+      "title": "Geographical Perspective on Selected Issues and Problems",
+      "output_pdf": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf",
+      "output_json": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-12",
+      "book_page_range": "95–105",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India & People and Economy.pdf",
+          "source_pdf_pages": "118-128",
+          "page_count": 11
+        }
+      ],
+      "stitched_across_parts": false
+    }
+  ]
+}

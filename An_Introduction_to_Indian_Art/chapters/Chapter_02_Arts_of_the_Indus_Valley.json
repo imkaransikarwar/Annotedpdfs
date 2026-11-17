@@ -1,0 +1,152 @@
+{
+  "chapter_number": 2,
+  "chapter_id": "ch02",
+  "title": "Arts of the Indus Valley",
+  "slug": "arts_of_the_indus_valley",
+  "pdf_filename": "Chapter_02_Arts_of_the_Indus_Valley.pdf",
+  "pdf_file": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 11,
+    "content_pages": 10,
+    "cover_pdf_page": 1,
+    "book_page_range": "9–18",
+    "exercises_pdf_page": 9,
+    "exercises_pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=9",
+    "exercises_book_pages": "15",
+    "word_count": 2511,
+    "estimated_reading_time_minutes": 19
+  },
+  "learning_objectives": [
+    "Stone, bronze, and terracotta sculptural traditions at Harappa, Mohenjodaro, Chanhudaro, and Lothal;",
+    "Lost-wax (cire-perdue) bronze casting technique exemplified by the Dancing Girl and Daimabad/Mohenjodaro bull;",
+    "Steatite seals (Pashupati, Unicorn), pictographic script, and standard weight systems; and",
+    "Painted Red-and-Black pottery, bead-making factories (Chanhudaro, Lothal), and ornaments."
+  ],
+  "sections": [
+    "Stone Statues: Bearded Priest & Male Torso",
+    "Bronze Casting: Dancing Girl & Bull",
+    "Terracotta Figures & Mother Goddess",
+    "Seals (Pashupati, Unicorn) & Script",
+    "Pottery, Beads, Ornaments & Textiles",
+    "Exercises & Artefact Profiles"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2019,
+        "topic": "Harappan Sites Map",
+        "book_page": 9,
+        "pdf_page": 2,
+        "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=2"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Indus Valley Civilisation",
+        "book_page": 10,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=3"
+      }
+    ]
+  },
+  "key_terms": [
+    "Lost-wax (Cire-perdue)",
+    "Bearded Priest",
+    "Dancing Girl",
+    "Pashupati Seal",
+    "Steatite",
+    "Faience",
+    "Chanhudaro",
+    "Lothal",
+    "Mother Goddess"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Map: Indus Valley Sites",
+      "pdf_page": 2,
+      "book_page": 9,
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=2"
+    },
+    {
+      "type": "Artefact Profiles (pp. 16–18)",
+      "pdf_page": 9,
+      "book_page": 16,
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=9"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 9,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 10,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 11,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 12,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 13,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 14,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 15,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 16,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 17,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 18,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=11"
+    }
+  ]
+}

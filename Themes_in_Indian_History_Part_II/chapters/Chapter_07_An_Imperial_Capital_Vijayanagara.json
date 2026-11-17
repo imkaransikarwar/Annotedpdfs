@@ -1,0 +1,250 @@
+{
+  "chapter_number": 7,
+  "chapter_id": "ch07",
+  "title": "An Imperial Capital: Vijayanagara",
+  "slug": "an_imperial_capital_vijayanagara",
+  "pdf_filename": "Chapter_07_An_Imperial_Capital_Vijayanagara.pdf",
+  "pdf_file": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 27,
+    "content_pages": 26,
+    "cover_pdf_page": 1,
+    "book_page_range": "170–195",
+    "exercises_pdf_page": 26,
+    "exercises_pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=26",
+    "exercises_book_pages": "194–195",
+    "word_count": 7954,
+    "estimated_reading_time_minutes": 51
+  },
+  "learning_objectives": [
+    "Discovery of Hampi by Colin Mackenzie (1800) and the four dynasties (Sangama, Saluva, Tuluva, Aravidu);",
+    "Krishnadeva Raya's reign, Amara-nayaka military-administrative system, and Battle of Talikota (1565);",
+    "Urban layout: Tungabhadra waterworks (Hiriya canal, Kamalapuram tank), fortification walls, and Royal Centre (Mahanavami Dibba, Lotus Mahal); and",
+    "Sacred Centre: Virupaksha and Vitthala temples, raya gopurams, and kalyana mandapas."
+  ],
+  "sections": [
+    "Discovery of Hampi & Rayas, Nayakas",
+    "Krishnadeva Raya & Amara-Nayaka System",
+    "Water Resources & Fortifications",
+    "The Royal Centre (Mahanavami Dibba, Lotus Mahal)",
+    "The Sacred Centre (Virupaksha & Vitthala Temples)",
+    "Timeline & Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2003,
+        "topic": "Krishnadeva Raya & Vijayanagara",
+        "book_page": 173,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Vijayanagara Water Resources",
+        "book_page": 177,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Foreign Travellers & Bazaars",
+        "book_page": 191,
+        "pdf_page": 23,
+        "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=23"
+      }
+    ]
+  },
+  "key_terms": [
+    "Colin Mackenzie",
+    "Amara-nayaka",
+    "Krishnadeva Raya",
+    "Amuktamalyada",
+    "Mahanavami Dibba",
+    "Lotus Mahal",
+    "Hazara Rama Temple",
+    "Gopuram",
+    "Vitthala Temple"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Timelines 1–2 (pp. 192–193)",
+      "pdf_page": 24,
+      "book_page": 192,
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=24"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 170,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 171,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 172,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 173,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 174,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 175,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 176,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 177,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 178,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 179,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 180,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 181,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 182,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 183,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 184,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 185,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 186,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 187,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 188,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 189,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 190,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 191,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 192,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 193,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 194,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 195,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_An_Imperial_Capital_Vijayanagara.pdf#page=27"
+    }
+  ]
+}

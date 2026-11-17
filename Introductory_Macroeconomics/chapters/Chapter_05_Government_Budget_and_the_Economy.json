@@ -1,0 +1,347 @@
+{
+  "chapter_number": 5,
+  "chapter_id": "ch05",
+  "title": "Government Budget and the Economy",
+  "slug": "government_budget_and_the_economy",
+  "pdf_filename": "Chapter_05_Government_Budget_and_the_Economy.pdf",
+  "pdf_file": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 22,
+    "content_pages": 21,
+    "cover_pdf_page": 1,
+    "book_page_range": "66–84",
+    "exercises_pdf_page": 19,
+    "exercises_pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=19",
+    "exercises_book_pages": "83–84",
+    "word_count": 9172,
+    "estimated_reading_time_minutes": 51
+  },
+  "learning_objectives": [
+    "Constitutional mandate (Article 112), objectives of the Government Budget (Allocation, Redistribution, Stabilisation), and public vs. private goods;",
+    "Classification of receipts (Revenue vs. Capital) and expenditure (Revenue vs. Capital, Plan vs. Non-Plan);",
+    "Measures of government deficit (Revenue Deficit, Fiscal Deficit, Primary Deficit) and public debt (Ricardian Equivalence, Crowding Out); and",
+    "Fiscal policy multipliers (spending, tax, balanced budget), automatic stabilisers, FRBM Act 2003, and GST."
+  ],
+  "sections": [
+    "Government Budget & Objectives (Public Goods)",
+    "Classification of Receipts & Expenditure",
+    "Balanced, Surplus & Deficit Budgets (Table 5.1)",
+    "Revenue, Fiscal & Primary Deficits",
+    "Fiscal Policy Multipliers & Automatic Stabilisers",
+    "Government Debt, Ricardian Equivalence, FRBMA & GST"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=20"
+      },
+      {
+        "pdf_page": 21,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=21"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2010,
+        "topic": "Preparation of Annual Financial Statement",
+        "book_page": 66,
+        "pdf_page": 2,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=2"
+      },
+      {
+        "exam": "CSE",
+        "year": 2018,
+        "topic": "Free commodity to the public",
+        "book_page": 67,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=3"
+      },
+      {
+        "exam": "CSE",
+        "year": 2016,
+        "topic": "Capital Budget constitutes",
+        "book_page": 69,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Non-plan expenditure",
+        "book_page": 69,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Capital Expenditure",
+        "book_page": 70,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=6"
+      },
+      {
+        "exam": "CSE",
+        "year": 2015,
+        "topic": "Deficit Budget Reasons",
+        "book_page": 72,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Deficit Financing",
+        "book_page": 78,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=14"
+      },
+      {
+        "exam": "CSE",
+        "year": 2020,
+        "topic": "Non-financial debt",
+        "book_page": 78,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=14"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Debt and Savings in Indian economy",
+        "book_page": 78,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=14"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Indian govt bond yields influenced by",
+        "book_page": 79,
+        "pdf_page": 15,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=15"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Financing budget deficit and Inflation",
+        "book_page": 79,
+        "pdf_page": 15,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=15"
+      },
+      {
+        "exam": "CSE",
+        "year": 2020,
+        "topic": "FRBM Basics",
+        "book_page": 80,
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=16"
+      },
+      {
+        "exam": "CSE",
+        "year": 2018,
+        "topic": "FRBM Conditions",
+        "book_page": 80,
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=16"
+      },
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "GST",
+        "book_page": 82,
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=18"
+      }
+    ]
+  },
+  "key_terms": [
+    "Annual Financial Statement (Art. 112)",
+    "Public Goods (Non-rivalrous, Non-excludable)",
+    "Revenue & Capital Receipts",
+    "Revenue & Capital Expenditure",
+    "Revenue Deficit",
+    "Fiscal Deficit",
+    "Primary Deficit",
+    "Balanced Budget Multiplier",
+    "Automatic Stabiliser",
+    "Ricardian Equivalence",
+    "Crowding Out",
+    "FRBMA 2003",
+    "GST (Art. 246A)"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Chart 1: Components of the Government Budget",
+      "pdf_page": 5,
+      "book_page": 69,
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=5"
+    },
+    {
+      "type": "Table 5.1: Receipts & Expenditures (2022–23 B.E.)",
+      "pdf_page": 7,
+      "book_page": 71,
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=7"
+    },
+    {
+      "type": "Box 5.1: Fiscal Policy & Examples 5.1–5.3",
+      "pdf_page": 8,
+      "book_page": 72,
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=8"
+    },
+    {
+      "type": "Box 5.2: FRBM Act, 2003",
+      "pdf_page": 17,
+      "book_page": 81,
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=17"
+    },
+    {
+      "type": "Box 5.3: GST — One Nation, One Tax, One Market",
+      "pdf_page": 18,
+      "book_page": 82,
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=18"
+    }
+  ],
+  "external_links": [
+    "https://www.gst.gov.in"
+  ],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 66,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 67,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 68,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 69,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 70,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 71,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 72,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 73,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 74,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 75,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 76,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 77,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 78,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 79,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 80,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 81,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 82,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 83,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 84,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf#page=22"
+    }
+  ]
+}

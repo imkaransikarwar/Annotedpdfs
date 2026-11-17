@@ -1,0 +1,353 @@
+{
+  "chapter_number": 6,
+  "chapter_id": "ch06",
+  "title": "Temple Architecture and Sculpture",
+  "slug": "temple_architecture_and_sculpture",
+  "pdf_filename": "Chapter_06_Temple_Architecture_and_Sculpture.pdf",
+  "pdf_file": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 39,
+    "content_pages": 38,
+    "cover_pdf_page": 1,
+    "book_page_range": "68–102",
+    "exercises_pdf_page": 37,
+    "exercises_pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=37",
+    "exercises_book_pages": "102",
+    "word_count": 10109,
+    "estimated_reading_time_minutes": 74
+  },
+  "learning_objectives": [
+    "Basic anatomical parts of Hindu temples (garbhagriha, mandapa, shikhara/vimana, amalaka, kalasha);",
+    "Nagara style sub-types (Latina, Phamsana, Valabhi) across Central India, Odisha, Gujarat, and the Himalayas;",
+    "Dravida style evolution under Pallavas and Cholas (Mahabalipuram, Kailasanatha, Brihadisvara) and Vesara hybrids (Chalukya, Hoysala); and",
+    "Buddhist and Jain architectural centres (Nalanda, Vikramsila, Odisha monasteries, Shravanabelagola, Dilwara)."
+  ],
+  "sections": [
+    "Basic Form of the Hindu Temple",
+    "Nagara Style: Central India, West & East (Odisha)",
+    "Dravida Style: Pallavas, Cholas & Gopurams",
+    "Vesara Style: Chalukyas & Hoysalas (Halebidu)",
+    "Buddhist & Jain Architectural Traditions",
+    "Case Studies (Mahabalipuram, Ellora, Khajuraho) & PYQs"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE",
+      "NDA"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=3"
+      },
+      {
+        "pdf_page": 38,
+        "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=38"
+      },
+      {
+        "pdf_page": 39,
+        "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=39"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Lepakshi & Ajanta",
+        "book_page": 68,
+        "pdf_page": 2,
+        "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=2"
+      },
+      {
+        "exam": "CSE",
+        "year": 2012,
+        "topic": "Nagara Temple Components",
+        "book_page": 70,
+        "pdf_page": 4,
+        "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=4"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Chausath Yogini Temple",
+        "book_page": 75,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2024,
+        "topic": "Hoysala & Temple Pairs",
+        "book_page": 89,
+        "pdf_page": 23,
+        "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=23"
+      }
+    ]
+  },
+  "key_terms": [
+    "Garbhagriha",
+    "Shikhara",
+    "Vimana",
+    "Amalaka",
+    "Nagara",
+    "Dravida",
+    "Vesara",
+    "Panchayatana",
+    "Gopuram",
+    "Hoysaleswara",
+    "Ravana Shaking Kailasha",
+    "Chausath Yogini"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Map: Temple Architecture Sites",
+      "pdf_page": 2,
+      "book_page": 68,
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=2"
+    },
+    {
+      "type": "Case Studies (pp. 96–101)",
+      "pdf_page": 30,
+      "book_page": 96,
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=30"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 68,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 69,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 70,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 71,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 72,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 73,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 74,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 75,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 76,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 77,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 78,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 79,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 80,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 81,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 82,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 83,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 84,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 85,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 86,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 87,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 88,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 89,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 90,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 91,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 92,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=27"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 93,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=28"
+    },
+    {
+      "pdf_page": 29,
+      "book_page": 94,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=29"
+    },
+    {
+      "pdf_page": 30,
+      "book_page": 95,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=30"
+    },
+    {
+      "pdf_page": 31,
+      "book_page": 96,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=31"
+    },
+    {
+      "pdf_page": 32,
+      "book_page": 97,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=32"
+    },
+    {
+      "pdf_page": 33,
+      "book_page": 98,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=33"
+    },
+    {
+      "pdf_page": 34,
+      "book_page": 99,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=34"
+    },
+    {
+      "pdf_page": 35,
+      "book_page": 100,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=35"
+    },
+    {
+      "pdf_page": 36,
+      "book_page": 101,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=36"
+    },
+    {
+      "pdf_page": 37,
+      "book_page": 102,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=37"
+    },
+    {
+      "pdf_page": 38,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=38"
+    },
+    {
+      "pdf_page": 39,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=39"
+    }
+  ]
+}

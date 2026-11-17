@@ -1,0 +1,126 @@
+{
+  "chapter_number": 2,
+  "chapter_id": "ch02",
+  "title": "Structure and Physiography",
+  "slug": "structure_and_physiography",
+  "pdf_filename": "Chapter_02_Structure_and_Physiography.pdf",
+  "pdf_file": "chapters/Chapter_02_Structure_and_Physiography.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 11,
+    "content_pages": 10,
+    "cover_pdf_page": 1,
+    "book_page_range": "7–16",
+    "exercises_pdf_page": 11,
+    "exercises_pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=11",
+    "exercises_book_pages": "16",
+    "word_count": 3756,
+    "estimated_reading_time_minutes": 21
+  },
+  "learning_objectives": [
+    "Three major geological divisions: Peninsular Block, Himalayas & Peninsular Mountains, and Indo-Ganga-Brahmaputra Plain;",
+    "Six physiographic divisions of India and regional sub-divisions of the Himalayas (Kashmir, Himachal, Darjiling, Arunachal, Eastern Hills);",
+    "Northern Plains (Bhabar, Tarai, Bhangar, Khadar) and Peninsular Plateau (Deccan, Central Highlands, North-East); and",
+    "Indian Desert (Marusthali), Coastal Plains (Western vs. Eastern), and Island groups (Andaman & Nicobar, Lakshadweep)."
+  ],
+  "sections": [
+    "Geological Structure (Peninsular, Himalayan, Plains)",
+    "The Northern & North-Eastern Mountains",
+    "The Northern Plains (Bhabar, Tarai, Alluvial)",
+    "The Peninsular Plateau & Indian Desert",
+    "Coastal Plains & Islands (Andaman, Lakshadweep)",
+    "Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Karewas",
+    "Duns",
+    "Bhabar & Tarai",
+    "Bhangar & Khadar",
+    "Deccan Trap",
+    "Malwa Plateau",
+    "Kayals",
+    "Ten Degree Channel"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Map: India Physical Divisions",
+      "pdf_page": 5,
+      "book_page": 10,
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=5"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 7,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 8,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 9,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 10,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 11,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 12,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 13,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 14,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 15,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 16,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=11"
+    }
+  ]
+}

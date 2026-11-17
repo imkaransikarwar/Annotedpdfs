@@ -1,0 +1,145 @@
+{
+  "book_title": "India: Physical Environment",
+  "source_pdfs": {
+    "Part1": {
+      "filename": "India-Physical Environment_Class 11_NCERT.pdf",
+      "total_pages": 85,
+      "page_dimensions_pt": "630.0 x 820.8"
+    }
+  },
+  "preliminaries": {
+    "source_part": "Part1",
+    "source_pdf_pages": "1-12",
+    "page_count": 12,
+    "contents": [
+      "Book Cover (p. 1 -> cover.png)",
+      "Title, Copyright, Foreword & Rationalisation (pp. 2-8)",
+      "Committee, Acknowledgements & Contents (pp. 9-11)",
+      "Constitution of India: Part III Fundamental Rights (p. 12)"
+    ]
+  },
+  "back_matter": {
+    "glossary_and_notes": {
+      "source_part": "Part1",
+      "source_pdf_pages": "83-85",
+      "book_pages": "70-72",
+      "page_count": 3
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "India — Location",
+      "output_pdf": "chapters/Chapter_01_India_Location.pdf",
+      "output_json": "chapters/Chapter_01_India_Location.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-7",
+      "book_page_range": "1–6",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India-Physical Environment_Class 11_NCERT.pdf",
+          "source_pdf_pages": "13-18",
+          "page_count": 6
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Structure and Physiography",
+      "output_pdf": "chapters/Chapter_02_Structure_and_Physiography.pdf",
+      "output_json": "chapters/Chapter_02_Structure_and_Physiography.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-11",
+      "book_page_range": "7–16",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India-Physical Environment_Class 11_NCERT.pdf",
+          "source_pdf_pages": "19-28",
+          "page_count": 10
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Drainage System",
+      "output_pdf": "chapters/Chapter_03_Drainage_System.pdf",
+      "output_json": "chapters/Chapter_03_Drainage_System.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-12",
+      "book_page_range": "17–26",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India-Physical Environment_Class 11_NCERT.pdf",
+          "source_pdf_pages": "29-39",
+          "page_count": 11
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Climate",
+      "output_pdf": "chapters/Chapter_04_Climate.pdf",
+      "output_json": "chapters/Chapter_04_Climate.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-16",
+      "book_page_range": "27–41",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India-Physical Environment_Class 11_NCERT.pdf",
+          "source_pdf_pages": "40-54",
+          "page_count": 15
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Natural Vegetation",
+      "output_pdf": "chapters/Chapter_05_Natural_Vegetation.pdf",
+      "output_json": "chapters/Chapter_05_Natural_Vegetation.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-11",
+      "book_page_range": "42–51",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India-Physical Environment_Class 11_NCERT.pdf",
+          "source_pdf_pages": "55-64",
+          "page_count": 10
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Natural Hazards and Disasters",
+      "output_pdf": "chapters/Chapter_06_Natural_Hazards_and_Disasters.pdf",
+      "output_json": "chapters/Chapter_06_Natural_Hazards_and_Disasters.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-19",
+      "book_page_range": "52–69",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "India-Physical Environment_Class 11_NCERT.pdf",
+          "source_pdf_pages": "65-82",
+          "page_count": 18
+        }
+      ],
+      "stitched_across_parts": false
+    }
+  ]
+}

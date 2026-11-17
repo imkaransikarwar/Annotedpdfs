@@ -1,0 +1,183 @@
+{
+  "book_title": "Political Theory",
+  "source_pdfs": {
+    "Part1": {
+      "filename": "Political Theory_NCERT.pdf",
+      "total_pages": 149,
+      "page_dimensions_pt": "612.0 x 900.0"
+    }
+  },
+  "preliminaries": {
+    "source_part": "Part1",
+    "source_pdf_pages": "1-15",
+    "page_count": 15,
+    "contents": [
+      "Book Cover (p. 1 -> cover.png)",
+      "CivilsDaily Editor's Note & Highlight Guide (pp. 2-3)",
+      "Title, Copyright, Foreword & Rationalisation (pp. 4-9)",
+      "Preface, Committee & Acknowledgements (pp. 10-13)",
+      "Contents (pp. 14-15)"
+    ]
+  },
+  "back_matter": {
+    "back_cover": {
+      "source_part": "Part1",
+      "source_pdf_pages": "149-149",
+      "page_count": 1
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Political Theory: An Introduction",
+      "output_pdf": "chapters/Chapter_01_Political_Theory_An_Introduction.pdf",
+      "output_json": "chapters/Chapter_01_Political_Theory_An_Introduction.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-17",
+      "book_page_range": "1–16",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Political Theory_NCERT.pdf",
+          "source_pdf_pages": "16-31",
+          "page_count": 16
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Freedom",
+      "output_pdf": "chapters/Chapter_02_Freedom.pdf",
+      "output_json": "chapters/Chapter_02_Freedom.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-16",
+      "book_page_range": "17–30",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Political Theory_NCERT.pdf",
+          "source_pdf_pages": "32-46",
+          "page_count": 15
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Equality",
+      "output_pdf": "chapters/Chapter_03_Equality.pdf",
+      "output_json": "chapters/Chapter_03_Equality.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-24",
+      "book_page_range": "31–52",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Political Theory_NCERT.pdf",
+          "source_pdf_pages": "47-69",
+          "page_count": 23
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Social Justice",
+      "output_pdf": "chapters/Chapter_04_Social_Justice.pdf",
+      "output_json": "chapters/Chapter_04_Social_Justice.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-15",
+      "book_page_range": "53–66",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Political Theory_NCERT.pdf",
+          "source_pdf_pages": "70-83",
+          "page_count": 14
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Rights",
+      "output_pdf": "chapters/Chapter_05_Rights.pdf",
+      "output_json": "chapters/Chapter_05_Rights.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-14",
+      "book_page_range": "67–78",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Political Theory_NCERT.pdf",
+          "source_pdf_pages": "84-96",
+          "page_count": 13
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Citizenship",
+      "output_pdf": "chapters/Chapter_06_Citizenship.pdf",
+      "output_json": "chapters/Chapter_06_Citizenship.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-20",
+      "book_page_range": "79–96",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Political Theory_NCERT.pdf",
+          "source_pdf_pages": "97-115",
+          "page_count": 19
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch07",
+      "title": "Nationalism",
+      "output_pdf": "chapters/Chapter_07_Nationalism.pdf",
+      "output_json": "chapters/Chapter_07_Nationalism.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-15",
+      "book_page_range": "97–110",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Political Theory_NCERT.pdf",
+          "source_pdf_pages": "116-129",
+          "page_count": 14
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch08",
+      "title": "Secularism",
+      "output_pdf": "chapters/Chapter_08_Secularism.pdf",
+      "output_json": "chapters/Chapter_08_Secularism.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-20",
+      "book_page_range": "111–128",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Political Theory_NCERT.pdf",
+          "source_pdf_pages": "130-148",
+          "page_count": 19
+        }
+      ],
+      "stitched_across_parts": false
+    }
+  ]
+}

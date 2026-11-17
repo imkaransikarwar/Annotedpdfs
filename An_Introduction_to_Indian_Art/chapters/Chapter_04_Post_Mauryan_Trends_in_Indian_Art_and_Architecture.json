@@ -1,0 +1,321 @@
+{
+  "chapter_number": 4,
+  "chapter_id": "ch04",
+  "title": "Post-Mauryan Trends in Indian Art and Architecture",
+  "slug": "post_mauryan_trends",
+  "pdf_filename": "Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf",
+  "pdf_file": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 36,
+    "content_pages": 35,
+    "cover_pdf_page": 1,
+    "book_page_range": "27–60",
+    "exercises_pdf_page": 20,
+    "exercises_pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=20",
+    "exercises_book_pages": "45",
+    "word_count": 8469,
+    "estimated_reading_time_minutes": 68
+  },
+  "learning_objectives": [
+    "Narrative relief sculpture and stupa architecture at Bharhut, Sanchi, Amaravati, and Nagarjunakonda;",
+    "Evolution of Buddha iconography across Gandhara, Mathura, and Sarnath schools;",
+    "Western Deccan rock-cut chaitya halls and viharas (Bhaja, Karla, Kanheri, Nasik, Ajanta, Ellora); and",
+    "Mural paintings of Ajanta (Caves 1, 2, 16, 17) and early Hindu cave traditions (Udayagiri, Elephanta)."
+  ],
+  "sections": [
+    "Bharhut, Sanchi & Bodh Gaya Stupas",
+    "Mathura, Gandhara & Sarnath Schools",
+    "Buddhist Monuments of South India (Amaravati)",
+    "Rock-Cut Caves: Karla, Bhaja, Ajanta & Ellora",
+    "Ajanta Murals & Jataka Narratives",
+    "Elephanta Maheshmurti & UPSC PYQs"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE",
+      "NDA"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 35,
+        "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=35"
+      },
+      {
+        "pdf_page": 36,
+        "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=36"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "NDA",
+        "year": 2024,
+        "topic": "Amaravati Stupa",
+        "book_page": 33,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2010,
+        "topic": "Buddhist Cave Architecture",
+        "book_page": 34,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2016,
+        "topic": "Ajanta Caves",
+        "book_page": 36,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=11"
+      }
+    ]
+  },
+  "key_terms": [
+    "Gandhara School",
+    "Mathura School",
+    "Sarnath School",
+    "Sanchi Stupa-I",
+    "Torana",
+    "Amaravati",
+    "Chaitya-griha",
+    "Padmapani Bodhisattva",
+    "Mara Vijaya",
+    "Maheshmurti"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Artefact Profiles (pp. 46–59)",
+      "pdf_page": 21,
+      "book_page": 46,
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=21"
+    },
+    {
+      "type": "UPSC PYQs (Ajanta & Mahabalipuram)",
+      "pdf_page": 34,
+      "book_page": null,
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=34"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 27,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 28,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 29,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 30,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 31,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 32,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 33,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 34,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 35,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 36,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 37,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 38,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 39,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 40,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 41,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 42,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 43,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 44,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 45,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 46,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 47,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 48,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 49,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 50,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 51,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 52,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=27"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 53,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=28"
+    },
+    {
+      "pdf_page": 29,
+      "book_page": 54,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=29"
+    },
+    {
+      "pdf_page": 30,
+      "book_page": 55,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=30"
+    },
+    {
+      "pdf_page": 31,
+      "book_page": 56,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=31"
+    },
+    {
+      "pdf_page": 32,
+      "book_page": 57,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=32"
+    },
+    {
+      "pdf_page": 33,
+      "book_page": 58,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=33"
+    },
+    {
+      "pdf_page": 34,
+      "book_page": 59,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=34"
+    },
+    {
+      "pdf_page": 35,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=35"
+    },
+    {
+      "pdf_page": 36,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=36"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "chapter_number": 3,
+  "chapter_id": "ch03",
+  "title": "Money and Banking",
+  "slug": "money_and_banking",
+  "pdf_filename": "Chapter_03_Money_and_Banking.pdf",
+  "pdf_file": "chapters/Chapter_03_Money_and_Banking.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 21,
+    "content_pages": 20,
+    "cover_pdf_page": 1,
+    "book_page_range": "36–52",
+    "exercises_pdf_page": 16,
+    "exercises_pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=16",
+    "exercises_book_pages": "50",
+    "word_count": 8414,
+    "estimated_reading_time_minutes": 47
+  },
+  "learning_objectives": [
+    "Limitations of barter exchange and the functions of money (medium of exchange, unit of account, store of value);",
+    "Transaction and speculative motives for holding money, bond pricing, and the liquidity trap;",
+    "Credit creation by commercial banks, balance sheet mechanics, CRR, SLR, and the money multiplier; and",
+    "RBI monetary policy tools (OMO, Repo/Reverse Repo, Bank Rate) and legal definitions of money supply (M1–M4)."
+  ],
+  "sections": [
+    "Functions of Money & Financial Inclusion",
+    "Demand for Money (Transaction & Speculative)",
+    "Supply of Money: RBI & Commercial Banks",
+    "Credit Creation, CRR, SLR & Money Multiplier",
+    "RBI Policy Tools (Lender of Last Resort, OMO, Repo)",
+    "Fiat Money, Legal Tenders, M1–M4 & Demonetisation"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 17,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=17"
+      },
+      {
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=18"
+      },
+      {
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=19"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "UPI, NPCI",
+        "book_page": 37,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=3"
+      },
+      {
+        "exam": "CSE",
+        "year": 2018,
+        "topic": "BHIM",
+        "book_page": 37,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=3"
+      },
+      {
+        "exam": "CSE",
+        "year": 2018,
+        "topic": "ATMs",
+        "book_page": 37,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=3"
+      },
+      {
+        "exam": "CSE",
+        "year": 2010,
+        "topic": "SLR",
+        "book_page": 40,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=6"
+      },
+      {
+        "exam": "CSE",
+        "year": 2015,
+        "topic": "SLR and its impact",
+        "book_page": 40,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=6"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "RBI - Powers and its origins",
+        "book_page": 42,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Lender of last resort",
+        "book_page": 42,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2012,
+        "topic": "Banker's Bank",
+        "book_page": 42,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "RBI - functions",
+        "book_page": 42,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Open Market Operations",
+        "book_page": 42,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Sterilization",
+        "book_page": 42,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Monetary Policy and Pandemic",
+        "book_page": 43,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2011,
+        "topic": "Bank Rate",
+        "book_page": 43,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Bank Rate and Monetary Policy",
+        "book_page": 43,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2018,
+        "topic": "Legal Tender",
+        "book_page": 48,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=14"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Order of Liquidity",
+        "book_page": 48,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=14"
+      },
+      {
+        "exam": "CSE",
+        "year": 1998,
+        "topic": "Broad Money",
+        "book_page": 48,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=14"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Marginal Standing Facility Rate, NDTL",
+        "book_page": 48,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=14"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Money Multiplier",
+        "book_page": 48,
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=14"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Black Money",
+        "book_page": 49,
+        "pdf_page": 15,
+        "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=15"
+      }
+    ]
+  },
+  "key_terms": [
+    "Barter Exchange",
+    "Double Coincidence of Wants",
+    "High-Powered Money",
+    "Cash Reserve Ratio (CRR)",
+    "Statutory Liquidity Ratio (SLR)",
+    "Money Multiplier",
+    "Lender of Last Resort",
+    "Open Market Operations (OMO)",
+    "Repo & Reverse Repo",
+    "Bank Rate",
+    "Liquidity Trap",
+    "Fiat Money",
+    "Legal Tender",
+    "M1, M2, M3, M4"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Table 3.1–3.3: Bank Balance Sheet & Money Multiplier",
+      "pdf_page": 6,
+      "book_page": 40,
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=6"
+    },
+    {
+      "type": "Box 3.1: Demand and Supply for Money (Detailed)",
+      "pdf_page": 9,
+      "book_page": 43,
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=9"
+    },
+    {
+      "type": "Box 3.2: Demonetisation",
+      "pdf_page": 15,
+      "book_page": 49,
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=15"
+    },
+    {
+      "type": "Appendix 3.1–3.3 (Tables 3.4–3.5: M1, M3 & Monetary Base)",
+      "pdf_page": 19,
+      "book_page": 51,
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=19"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 36,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 37,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 38,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 39,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 40,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 41,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 42,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 43,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 44,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 45,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 46,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 47,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 48,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 49,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 50,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 51,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 52,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Money_and_Banking.pdf#page=21"
+    }
+  ]
+}

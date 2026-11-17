@@ -1,0 +1,119 @@
+{
+  "chapter_number": 6,
+  "chapter_id": "ch06",
+  "title": "Planning and Sustainable Development in Indian Context",
+  "slug": "planning_sustainable_development",
+  "pdf_filename": "Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf",
+  "pdf_file": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 10,
+    "content_pages": 9,
+    "cover_pdf_page": 1,
+    "book_page_range": "66–74",
+    "exercises_pdf_page": 10,
+    "exercises_pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=10",
+    "exercises_book_pages": "74",
+    "word_count": 3150,
+    "estimated_reading_time_minutes": 18
+  },
+  "learning_objectives": [
+    "Sectoral vs. regional planning approaches and NITI Aayog's role in India;",
+    "Target Area Planning: Hill Area Development Programme and Drought Prone Area Programme (DPAP);",
+    "Case studies: Integrated Tribal Development Project (Bharmaur, HP) and Indira Gandhi Canal Command Area; and",
+    "Sustainable development principles (Brundtland Report) and ecological restoration."
+  ],
+  "sections": [
+    "Approaches to Planning & NITI Aayog",
+    "Target Area & Hill Area Programmes",
+    "Case Study: Bharmaur Tribal Region",
+    "Sustainable Development & Brundtland Report",
+    "Case Study: Indira Gandhi Canal Command Area",
+    "Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Sectoral Planning",
+    "Target Area Planning",
+    "DPAP",
+    "ITDP Bharmaur",
+    "Gaddi Tribe",
+    "Indira Gandhi Canal",
+    "Brundtland Report"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Case Studies: Bharmaur & Indira Gandhi Canal",
+      "pdf_page": 3,
+      "book_page": 68,
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=3"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 66,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 67,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 68,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 69,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 70,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 71,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 72,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 73,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 74,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Planning_and_Sustainable_Development_in_Indian_Context.pdf#page=10"
+    }
+  ]
+}

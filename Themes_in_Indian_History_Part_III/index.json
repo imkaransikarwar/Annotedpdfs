@@ -1,0 +1,108 @@
+{
+  "book_metadata": {
+    "title": "Themes in Indian History — Part III",
+    "subject": "History (Modern India)",
+    "class": "Class 12",
+    "board": "NCERT",
+    "edition": "2024-25 (Civilsdaily IAS Annotated NCERT Edition)",
+    "isbn": "81-7450-770-1",
+    "cover_image": "cover.png",
+    "highlight_guide": {
+      "Green": "Areas from where PYQs have been asked",
+      "Blue": "Other important areas from where questions are possible / extra attention",
+      "Pink": "Purely factual statements like year, site, or ruler",
+      "Peach": "Terms and their definitions given in NCERT",
+      "Yellow": "Statements which sound extreme but are true"
+    },
+    "total_chapters": 4,
+    "total_pdf_pages_with_covers": 120,
+    "total_content_pages": 116,
+    "total_reading_time_minutes": 258,
+    "pyq_summary": {
+      "chapters_with_dedicated_pyqs": [],
+      "total_inline_callouts": 8
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 9,
+      "chapter_id": "ch09",
+      "title": "Colonialism and the Countryside: Exploring Official Archives",
+      "slug": "colonialism_and_the_countryside",
+      "pdf_file": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf",
+      "json_file": "chapters/Chapter_09_Colonialism_and_the_Countryside.json",
+      "total_pdf_pages": 32,
+      "book_page_range": "227–257",
+      "estimated_reading_time_minutes": 66,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=32"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_id": "ch10",
+      "title": "Rebels and the Raj: The Revolt of 1857 and Its Representations",
+      "slug": "rebels_and_the_raj",
+      "pdf_file": "chapters/Chapter_10_Rebels_and_the_Raj.pdf",
+      "json_file": "chapters/Chapter_10_Rebels_and_the_Raj.json",
+      "total_pdf_pages": 29,
+      "book_page_range": "258–285",
+      "estimated_reading_time_minutes": 61,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 3
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=28"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_id": "ch11",
+      "title": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
+      "slug": "mahatma_gandhi_nationalist_movement",
+      "pdf_file": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf",
+      "json_file": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.json",
+      "total_pdf_pages": 31,
+      "book_page_range": "286–315",
+      "estimated_reading_time_minutes": 70,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=30"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_id": "ch12",
+      "title": "Framing the Constitution: The Beginning of a New Era",
+      "slug": "framing_the_constitution",
+      "pdf_file": "chapters/Chapter_12_Framing_the_Constitution.pdf",
+      "json_file": "chapters/Chapter_12_Framing_the_Constitution.json",
+      "total_pdf_pages": 28,
+      "book_page_range": "316–342",
+      "estimated_reading_time_minutes": 61,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_12_Framing_the_Constitution.pdf#page=28"
+    }
+  ]
+}

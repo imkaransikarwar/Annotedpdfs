@@ -1,0 +1,159 @@
+{
+  "chapter_number": 5,
+  "chapter_id": "ch05",
+  "title": "Rights",
+  "slug": "rights",
+  "pdf_filename": "Chapter_05_Rights.pdf",
+  "pdf_file": "chapters/Chapter_05_Rights.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 14,
+    "content_pages": 13,
+    "cover_pdf_page": 1,
+    "book_page_range": "67–78",
+    "exercises_pdf_page": 13,
+    "exercises_pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=13",
+    "exercises_book_pages": "78",
+    "word_count": 4346,
+    "estimated_reading_time_minutes": 25
+  },
+  "learning_objectives": [
+    "Meaning of rights as justified claims necessary for dignity, well-being, and self-respect;",
+    "Origins of rights: Natural Rights theory, Kant's human dignity, and Universal Declaration of Human Rights (1948);",
+    "Legal rights vs. moral rights and categories of rights (political, economic, cultural); and",
+    "Correlation between rights and responsibilities (common good, environmental duty, vigilance)."
+  ],
+  "sections": [
+    "What Are Rights?",
+    "Where Do Rights Come From? (Natural & Human Rights)",
+    "Legal Rights and the State",
+    "Kinds of Rights (Political, Economic, Cultural)",
+    "Rights and Responsibilities",
+    "Exercises & UPSC PYQs"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=14"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Rights & Duties",
+        "book_page": 71,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=6"
+      },
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Legal & Constitutional Rights",
+        "book_page": 72,
+        "pdf_page": 7,
+        "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=7"
+      }
+    ]
+  },
+  "key_terms": [
+    "Natural Rights",
+    "Human Rights (UDHR 1948)",
+    "Immanuel Kant",
+    "Legal Rights",
+    "Right to Livelihood",
+    "Civic Responsibilities"
+  ],
+  "boxes_and_activities": [],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 67,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 68,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 69,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 70,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 71,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 72,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 73,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 74,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 75,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 76,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 77,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 78,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=14"
+    }
+  ]
+}

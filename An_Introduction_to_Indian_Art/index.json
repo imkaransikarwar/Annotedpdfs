@@ -1,0 +1,227 @@
+{
+  "book_metadata": {
+    "title": "An Introduction to Indian Art (Part I)",
+    "subject": "Fine Arts / Indian Art & Culture",
+    "class": "Class 11",
+    "board": "NCERT",
+    "edition": "2024-25 (Civilsdaily IAS Annotated NCERT Edition)",
+    "isbn": "978-93-5007-187-8",
+    "cover_image": "cover.png",
+    "highlight_guide": {
+      "Green": "Areas from where PYQs have been asked",
+      "Blue": "Other important areas from where questions are possible / extra attention",
+      "Pink": "Purely factual statements like year, site, or ruler",
+      "Peach": "Terms and their definitions given in NCERT",
+      "Yellow": "Statements which sound extreme but are true"
+    },
+    "total_chapters": 8,
+    "total_pdf_pages_with_covers": 141,
+    "total_content_pages": 133,
+    "total_reading_time_minutes": 259,
+    "pyq_summary": {
+      "chapters_with_dedicated_pyqs": [
+        3,
+        4,
+        6,
+        7
+      ],
+      "total_inline_callouts": 14
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Prehistoric Rock Paintings",
+      "slug": "prehistoric_rock_paintings",
+      "pdf_file": "chapters/Chapter_01_Prehistoric_Rock_Paintings.pdf",
+      "json_file": "chapters/Chapter_01_Prehistoric_Rock_Paintings.json",
+      "total_pdf_pages": 9,
+      "book_page_range": "1–8",
+      "estimated_reading_time_minutes": 16,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_01_Prehistoric_Rock_Paintings.pdf#page=9"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Arts of the Indus Valley",
+      "slug": "arts_of_the_indus_valley",
+      "pdf_file": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf",
+      "json_file": "chapters/Chapter_02_Arts_of_the_Indus_Valley.json",
+      "total_pdf_pages": 11,
+      "book_page_range": "9–18",
+      "estimated_reading_time_minutes": 19,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf#page=9"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Arts of the Mauryan Period",
+      "slug": "arts_of_the_mauryan_period",
+      "pdf_file": "chapters/Chapter_03_Arts_of_the_Mauryan_Period.pdf",
+      "json_file": "chapters/Chapter_03_Arts_of_the_Mauryan_Period.json",
+      "total_pdf_pages": 12,
+      "book_page_range": "19–26",
+      "estimated_reading_time_minutes": 21,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 3,
+            "pdf_anchor": "chapters/Chapter_03_Arts_of_the_Mauryan_Period.pdf#page=3"
+          },
+          {
+            "pdf_page": 12,
+            "pdf_anchor": "chapters/Chapter_03_Arts_of_the_Mauryan_Period.pdf#page=12"
+          }
+        ],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_03_Arts_of_the_Mauryan_Period.pdf#page=11"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Post-Mauryan Trends in Indian Art and Architecture",
+      "slug": "post_mauryan_trends",
+      "pdf_file": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf",
+      "json_file": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.json",
+      "total_pdf_pages": 36,
+      "book_page_range": "27–60",
+      "estimated_reading_time_minutes": 68,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "NDA"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 35,
+            "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=35"
+          },
+          {
+            "pdf_page": 36,
+            "pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=36"
+          }
+        ],
+        "inline_callout_count": 3
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf#page=20"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Later Mural Traditions",
+      "slug": "later_mural_traditions",
+      "pdf_file": "chapters/Chapter_05_Later_Mural_Traditions.pdf",
+      "json_file": "chapters/Chapter_05_Later_Mural_Traditions.json",
+      "total_pdf_pages": 8,
+      "book_page_range": "61–67",
+      "estimated_reading_time_minutes": 14,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_05_Later_Mural_Traditions.pdf#page=8"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Temple Architecture and Sculpture",
+      "slug": "temple_architecture_and_sculpture",
+      "pdf_file": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf",
+      "json_file": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.json",
+      "total_pdf_pages": 39,
+      "book_page_range": "68–102",
+      "estimated_reading_time_minutes": 74,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "NDA"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 3,
+            "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=3"
+          },
+          {
+            "pdf_page": 38,
+            "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=38"
+          },
+          {
+            "pdf_page": 39,
+            "pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=39"
+          }
+        ],
+        "inline_callout_count": 4
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf#page=37"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch07",
+      "title": "Indian Bronze Sculpture",
+      "slug": "indian_bronze_sculpture",
+      "pdf_file": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf",
+      "json_file": "chapters/Chapter_07_Indian_Bronze_Sculpture.json",
+      "total_pdf_pages": 8,
+      "book_page_range": "103–108",
+      "estimated_reading_time_minutes": 14,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 8,
+            "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=8"
+          }
+        ],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=7"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch08",
+      "title": "Some Aspects of Indo-Islamic Architecture",
+      "slug": "indo_islamic_architecture",
+      "pdf_file": "chapters/Chapter_08_Some_Aspects_of_Indo_Islamic_Architecture.pdf",
+      "json_file": "chapters/Chapter_08_Some_Aspects_of_Indo_Islamic_Architecture.json",
+      "total_pdf_pages": 18,
+      "book_page_range": "109–125",
+      "estimated_reading_time_minutes": 33,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_08_Some_Aspects_of_Indo_Islamic_Architecture.pdf#page=18"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "chapter_number": 5,
+  "chapter_id": "ch05",
+  "title": "Natural Vegetation",
+  "slug": "natural_vegetation",
+  "pdf_filename": "Chapter_05_Natural_Vegetation.pdf",
+  "pdf_file": "chapters/Chapter_05_Natural_Vegetation.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 11,
+    "content_pages": 10,
+    "cover_pdf_page": 1,
+    "book_page_range": "42–51",
+    "exercises_pdf_page": 11,
+    "exercises_pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=11",
+    "exercises_book_pages": "51",
+    "word_count": 3635,
+    "estimated_reading_time_minutes": 20
+  },
+  "learning_objectives": [
+    "Five major forest types of India: Tropical Evergreen/Semi-Evergreen, Tropical Deciduous (Moist & Dry), Tropical Thorn, Montane, and Littoral/Swamp;",
+    "Forest cover distribution and India's National Forest Policy (1988) objectives;",
+    "Social forestry, farm forestry, and Wildlife Protection Act (1972); and",
+    "Project Tiger (1973), Project Elephant (1992), and India's Biosphere Reserves (Nilgiri, Nanda Devi, Sundarbans, Gulf of Mannar)."
+  ],
+  "sections": [
+    "Tropical Evergreen & Deciduous Forests",
+    "Tropical Thorn, Montane & Mangrove Forests",
+    "Forest Conservation & Social Forestry",
+    "Wildlife Conservation (Project Tiger & Elephant)",
+    "Biosphere Reserves of India",
+    "Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 1992,
+        "topic": "Social Forestry & Biosphere Reserves",
+        "book_page": 50,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=9"
+      }
+    ]
+  },
+  "key_terms": [
+    "Tropical Evergreen",
+    "Moist & Dry Deciduous",
+    "Sholas",
+    "Mangroves (Sundari)",
+    "Social Forestry",
+    "Biosphere Reserve",
+    "Project Tiger"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Table: Biosphere Reserves of India",
+      "pdf_page": 9,
+      "book_page": 50,
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=9"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 42,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 43,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 44,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 45,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 46,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 47,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 48,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 49,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 50,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 51,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=11"
+    }
+  ]
+}

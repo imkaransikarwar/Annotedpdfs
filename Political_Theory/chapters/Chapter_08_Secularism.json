@@ -1,0 +1,187 @@
+{
+  "chapter_number": 8,
+  "chapter_id": "ch08",
+  "title": "Secularism",
+  "slug": "secularism",
+  "pdf_filename": "Chapter_08_Secularism.pdf",
+  "pdf_file": "chapters/Chapter_08_Secularism.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 20,
+    "content_pages": 19,
+    "cover_pdf_page": 1,
+    "book_page_range": "111–128",
+    "exercises_pdf_page": 18,
+    "exercises_pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=18",
+    "exercises_book_pages": "127–128",
+    "word_count": 6029,
+    "estimated_reading_time_minutes": 37
+  },
+  "learning_objectives": [
+    "Secularism as opposition to both inter-religious and intra-religious domination;",
+    "Secular state vs. theocratic state and religion-state separation;",
+    "Western model (strict mutual exclusion) vs. Indian model (principled distance, state-supported religious reform, minority rights); and",
+    "Criticisms of Indian secularism (anti-religious, Western import, minoritism, vote-bank politics) and responses."
+  ],
+  "sections": [
+    "What is Secularism? (Inter- & Intra-Religious Domination)",
+    "Secular State & Mutual Exclusion",
+    "The Western Model of Secularism",
+    "The Indian Model of Secularism (Principled Distance)",
+    "Criticisms of Indian Secularism",
+    "Exercises & CSE Mains PYQ"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE Mains"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=20"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Indian Secularism & Principled Distance",
+        "book_page": 117,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=8"
+      }
+    ]
+  },
+  "key_terms": [
+    "Inter-religious Domination",
+    "Intra-religious Domination",
+    "Theocratic State",
+    "Mutual Exclusion",
+    "Principled Distance",
+    "Minority Rights"
+  ],
+  "boxes_and_activities": [],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 111,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 112,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 113,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 114,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 115,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 116,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 117,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 118,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 119,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 120,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 121,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 122,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 123,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 124,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 125,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 126,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 127,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 128,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=20"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "book_title": "An Introduction to Indian Art (Part I)",
+  "source_pdfs": {
+    "Part1": {
+      "filename": "Art_n_Cult Class 11_NCERT_Part1.pdf",
+      "total_pages": 74,
+      "page_dimensions_pt": "594.0 x 864.0"
+    },
+    "Part2": {
+      "filename": "Art_n_Cult Class 11_NCERT_Part2.pdf",
+      "total_pages": 79,
+      "page_dimensions_pt": "594.0 x 864.0"
+    }
+  },
+  "preliminaries": {
+    "source_part": "Part1",
+    "source_pdf_pages": "1-14",
+    "page_count": 14,
+    "contents": [
+      "Book Cover (p. 1 -> cover.png)",
+      "CivilsDaily Editor's Note & Highlight Guide (pp. 2-3)",
+      "Title, Copyright, Foreword, Preface & Talisman (pp. 4-11)",
+      "Textbook Development Committee & Acknowledgements (pp. 12-13)",
+      "Contents (p. 14)"
+    ]
+  },
+  "back_matter": {
+    "glossary": {
+      "source_part": "Part2",
+      "source_pdf_pages": "74-78",
+      "book_pages": "126-130",
+      "page_count": 5
+    },
+    "back_cover": {
+      "source_part": "Part2",
+      "source_pdf_pages": "79-79",
+      "page_count": 1
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Prehistoric Rock Paintings",
+      "output_pdf": "chapters/Chapter_01_Prehistoric_Rock_Paintings.pdf",
+      "output_json": "chapters/Chapter_01_Prehistoric_Rock_Paintings.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-9",
+      "book_page_range": "1–8",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part1.pdf",
+          "source_pdf_pages": "15-22",
+          "page_count": 8
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Arts of the Indus Valley",
+      "output_pdf": "chapters/Chapter_02_Arts_of_the_Indus_Valley.pdf",
+      "output_json": "chapters/Chapter_02_Arts_of_the_Indus_Valley.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-11",
+      "book_page_range": "9–18",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part1.pdf",
+          "source_pdf_pages": "23-32",
+          "page_count": 10
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Arts of the Mauryan Period",
+      "output_pdf": "chapters/Chapter_03_Arts_of_the_Mauryan_Period.pdf",
+      "output_json": "chapters/Chapter_03_Arts_of_the_Mauryan_Period.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-12",
+      "book_page_range": "19–26",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part1.pdf",
+          "source_pdf_pages": "33-43",
+          "page_count": 11
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Post-Mauryan Trends in Indian Art and Architecture",
+      "output_pdf": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.pdf",
+      "output_json": "chapters/Chapter_04_Post_Mauryan_Trends_in_Indian_Art_and_Architecture.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-36",
+      "book_page_range": "27–60",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part1.pdf",
+          "source_pdf_pages": "44-74",
+          "page_count": 31
+        },
+        {
+          "source_part": "Part2",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part2.pdf",
+          "source_pdf_pages": "1-4",
+          "page_count": 4
+        }
+      ],
+      "stitched_across_parts": true
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Later Mural Traditions",
+      "output_pdf": "chapters/Chapter_05_Later_Mural_Traditions.pdf",
+      "output_json": "chapters/Chapter_05_Later_Mural_Traditions.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-8",
+      "book_page_range": "61–67",
+      "source_segments": [
+        {
+          "source_part": "Part2",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part2.pdf",
+          "source_pdf_pages": "5-11",
+          "page_count": 7
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Temple Architecture and Sculpture",
+      "output_pdf": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.pdf",
+      "output_json": "chapters/Chapter_06_Temple_Architecture_and_Sculpture.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-39",
+      "book_page_range": "68–102",
+      "source_segments": [
+        {
+          "source_part": "Part2",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part2.pdf",
+          "source_pdf_pages": "12-49",
+          "page_count": 38
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch07",
+      "title": "Indian Bronze Sculpture",
+      "output_pdf": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf",
+      "output_json": "chapters/Chapter_07_Indian_Bronze_Sculpture.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-8",
+      "book_page_range": "103–108",
+      "source_segments": [
+        {
+          "source_part": "Part2",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part2.pdf",
+          "source_pdf_pages": "50-56",
+          "page_count": 7
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch08",
+      "title": "Some Aspects of Indo-Islamic Architecture",
+      "output_pdf": "chapters/Chapter_08_Some_Aspects_of_Indo_Islamic_Architecture.pdf",
+      "output_json": "chapters/Chapter_08_Some_Aspects_of_Indo_Islamic_Architecture.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-18",
+      "book_page_range": "109–125",
+      "source_segments": [
+        {
+          "source_part": "Part2",
+          "source_filename": "Art_n_Cult Class 11_NCERT_Part2.pdf",
+          "source_pdf_pages": "57-73",
+          "page_count": 17
+        }
+      ],
+      "stitched_across_parts": false
+    }
+  ]
+}

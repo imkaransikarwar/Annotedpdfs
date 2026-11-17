@@ -1,0 +1,332 @@
+{
+  "chapter_number": 6,
+  "chapter_id": "ch06",
+  "title": "Open Economy Macroeconomics",
+  "slug": "open_economy_macroeconomics",
+  "pdf_filename": "Chapter_06_Open_Economy_Macroeconomics.pdf",
+  "pdf_file": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 19,
+    "content_pages": 18,
+    "cover_pdf_page": 1,
+    "book_page_range": "85–99",
+    "exercises_pdf_page": 16,
+    "exercises_pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=16",
+    "exercises_book_pages": "96",
+    "word_count": 6514,
+    "estimated_reading_time_minutes": 36
+  },
+  "learning_objectives": [
+    "Open economy linkages (output, financial, and labour markets) and foreign trade as leakage vs. injection;",
+    "Structure of the Balance of Payments (BoP): Current Account (BOT & Invisibles), Capital Account (FDI, FII, ECBs), and Autonomous vs. Accommodating transactions;",
+    "Foreign exchange rate determination under Flexible (Depreciation/Appreciation), Fixed (Devaluation/Revaluation), and Managed Floating regimes; and",
+    "Purchasing Power Parity (PPP), NEER/REER, and equilibrium income & open economy multiplier."
+  ],
+  "sections": [
+    "Open Economy Linkages & Foreign Trade",
+    "Balance of Payments: Current & Capital Accounts",
+    "BoP Surplus/Deficit & Autonomous vs. Accommodating",
+    "Foreign Exchange Market & Flexible Exchange Rates",
+    "Fixed Exchange Rates, Devaluation & Managed Floating",
+    "Appendix 6.1: Open Economy Income & Multiplier"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 13,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=13"
+      },
+      {
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=14"
+      },
+      {
+        "pdf_page": 15,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=15"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2020,
+        "topic": "Current Account Deficit",
+        "book_page": 87,
+        "pdf_page": 4,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=4"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Balance of Payments",
+        "book_page": 87,
+        "pdf_page": 4,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=4"
+      },
+      {
+        "exam": "CSE",
+        "year": 2011,
+        "topic": "Reducing Current Account Deficits",
+        "book_page": 87,
+        "pdf_page": 4,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=4"
+      },
+      {
+        "exam": "CSE",
+        "year": 2020,
+        "topic": "Current Account Convertibility and Global Financial Crisis",
+        "book_page": 88,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Capital Account Components",
+        "book_page": 88,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2011,
+        "topic": "FDI and FII",
+        "book_page": 88,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2012,
+        "topic": "FDI",
+        "book_page": 88,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2020,
+        "topic": "FDI and its nature",
+        "book_page": 88,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "FDI Types",
+        "book_page": 88,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2019,
+        "topic": "External Debt of India",
+        "book_page": 88,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "NEER and REER",
+        "book_page": 91,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Depreciation and International Exchange",
+        "book_page": 92,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2019,
+        "topic": "RBI and Depreciation",
+        "book_page": 92,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "US Federal Reserve and Currency Devaluation",
+        "book_page": 94,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=11"
+      },
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Effect of Currency Devaluation",
+        "book_page": 94,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=11"
+      }
+    ]
+  },
+  "key_terms": [
+    "Open Economy",
+    "Balance of Payments (BoP)",
+    "Balance of Trade (BOT)",
+    "Current & Capital Account",
+    "FDI & FII",
+    "Official Reserve Sale",
+    "Autonomous & Accommodating Transactions",
+    "Depreciation & Appreciation",
+    "Devaluation & Revaluation",
+    "Purchasing Power Parity (PPP)",
+    "Managed Floating (Dirty Floating)",
+    "Open Economy Multiplier"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Figure 6.1: Components of Current Account",
+      "pdf_page": 4,
+      "book_page": 87,
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=4"
+    },
+    {
+      "type": "Figure 6.2: Components of Capital Account",
+      "pdf_page": 5,
+      "book_page": 88,
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+    },
+    {
+      "type": "Box 6.1 & Table 6.1: BPM6 & Balance of Payments for India",
+      "pdf_page": 7,
+      "book_page": 90,
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=7"
+    },
+    {
+      "type": "Appendix 6.1: Determination of Equilibrium Income in Open Economy",
+      "pdf_page": 17,
+      "book_page": 97,
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=17"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 85,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 86,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 87,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 88,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 89,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 90,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 91,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 92,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 93,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 94,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 95,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 96,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 97,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 98,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 99,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf#page=19"
+    }
+  ]
+}

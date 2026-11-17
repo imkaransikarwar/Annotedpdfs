@@ -1,0 +1,132 @@
+{
+  "chapter_number": 8,
+  "chapter_id": "ch08",
+  "title": "International Trade",
+  "slug": "international_trade",
+  "pdf_filename": "Chapter_08_International_Trade.pdf",
+  "pdf_file": "chapters/Chapter_08_International_Trade.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 11,
+    "content_pages": 10,
+    "cover_pdf_page": 1,
+    "book_page_range": "86–94",
+    "exercises_pdf_page": 10,
+    "exercises_pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=10",
+    "exercises_book_pages": "94",
+    "word_count": 2800,
+    "estimated_reading_time_minutes": 19
+  },
+  "learning_objectives": [
+    "Changing composition of India's exports (manufactured goods, engineering, services) and imports (crude, capital goods);",
+    "Direction of India's foreign trade across Asia, Europe, and North America;",
+    "Major seaports on the West Coast (Kandla, Mumbai, JNPT, Mormugao, New Mangalore, Kochi) and East Coast (Kolkata, Haldia, Paradip, Visakhapatnam, Chennai, Ennore, Tuticorin); and",
+    "Role of international airports in high-value perishable and electronics trade."
+  ],
+  "sections": [
+    "Changing Pattern of India's Foreign Trade",
+    "Composition of Exports & Imports",
+    "Direction of Trade",
+    "Major Sea Ports (West & East Coasts)",
+    "Airports & Hinterlands",
+    "Exercises & UPSC PYQs"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=11"
+      }
+    ],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Balance of Trade",
+    "Entrepot",
+    "Deendayal (Kandla) Port",
+    "JNPT",
+    "Mormugao",
+    "Paradip",
+    "Ennore (Kamarajar)"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Map: Major Ports & Sea Routes",
+      "pdf_page": 6,
+      "book_page": 91,
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=6"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 86,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 87,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 88,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 89,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 90,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 91,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 92,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 93,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 94,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_08_International_Trade.pdf#page=11"
+    }
+  ]
+}

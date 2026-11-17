@@ -1,0 +1,258 @@
+{
+  "chapter_number": 2,
+  "chapter_id": "ch02",
+  "title": "Kings, Farmers and Towns: Early States and Economies",
+  "slug": "kings_farmers_and_towns",
+  "pdf_filename": "Chapter_02_Kings_Farmers_and_Towns.pdf",
+  "pdf_file": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 26,
+    "content_pages": 25,
+    "cover_pdf_page": 1,
+    "book_page_range": "28–52",
+    "exercises_pdf_page": 25,
+    "exercises_pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=25",
+    "exercises_book_pages": "51–52",
+    "word_count": 8556,
+    "estimated_reading_time_minutes": 49
+  },
+  "learning_objectives": [
+    "Sixteen Mahajanapadas, rise of Magadha, and decipherment of Brahmi and Kharosthi by James Prinsep;",
+    "Mauryan Empire administration, Ashoka's Dhamma, and Megasthenes's Indica;",
+    "New notions of kingship (Cholas, Cheras, Pandyas, Kushanas, Guptas) and Prayaga Prashasti; and",
+    "Rural changes (agrahara land grants), urban centres, guilds (shrenis), coinage, and limitations of epigraphy."
+  ],
+  "sections": [
+    "Prinsep, Piyadassi & Sixteen Mahajanapadas",
+    "An Early Empire: The Mauryas",
+    "New Notions of Kingship (Chiefs & Divine Kings)",
+    "Changing Countryside & Land Grants",
+    "Towns, Trade, Guilds & Coinage",
+    "Deciphering Inscriptions, Timelines & Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2016,
+        "topic": "James Prinsep & Brahmi/Kharosthi",
+        "book_page": 28,
+        "pdf_page": 2,
+        "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=2"
+      },
+      {
+        "exam": "CSE",
+        "year": 2019,
+        "topic": "Ashokan Inscriptions",
+        "book_page": 29,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=3"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Mauryan Empire & Arthashastra",
+        "book_page": 32,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=6"
+      },
+      {
+        "exam": "CSE",
+        "year": 2012,
+        "topic": "Guilds (Shrenis) & Trade",
+        "book_page": 43,
+        "pdf_page": 17,
+        "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=17"
+      }
+    ]
+  },
+  "key_terms": [
+    "James Prinsep",
+    "Mahajanapadas",
+    "Dhamma Mahamatta",
+    "Prayaga Prashasti",
+    "Agrahara",
+    "Gahapati",
+    "Vellalar",
+    "Shrenis",
+    "Punch-marked Coins"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Map: Mahajanapadas & Asokan Inscriptions",
+      "pdf_page": 4,
+      "book_page": 30,
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=4"
+    },
+    {
+      "type": "Timelines 1–2 (pp. 50–51)",
+      "pdf_page": 24,
+      "book_page": 50,
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=24"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 28,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 29,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 30,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 31,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 32,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 33,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 34,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 35,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 36,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 37,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 38,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 39,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 40,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 41,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 42,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 43,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 44,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 45,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 46,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 47,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 48,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 49,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 50,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 51,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 52,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=26"
+    }
+  ]
+}

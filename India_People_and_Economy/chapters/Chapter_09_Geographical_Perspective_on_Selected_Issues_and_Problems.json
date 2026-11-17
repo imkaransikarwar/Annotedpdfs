@@ -1,0 +1,130 @@
+{
+  "chapter_number": 9,
+  "chapter_id": "ch09",
+  "title": "Geographical Perspective on Selected Issues and Problems",
+  "slug": "geographical_perspective_issues",
+  "pdf_filename": "Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf",
+  "pdf_file": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 12,
+    "content_pages": 11,
+    "cover_pdf_page": 1,
+    "book_page_range": "95–105",
+    "exercises_pdf_page": 12,
+    "exercises_pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=12",
+    "exercises_book_pages": "105",
+    "word_count": 4212,
+    "estimated_reading_time_minutes": 23
+  },
+  "learning_objectives": [
+    "Sources and spatial impacts of environmental pollution (water, air, noise) and Namami Gange;",
+    "Urban waste disposal challenges and rural-urban migration pressures;",
+    "Problems of urban slums (Dharavi case study) and informal settlements; and",
+    "Land degradation types and watershed-based community restoration (Jhabua, Daurala case studies)."
+  ],
+  "sections": [
+    "Environmental Pollution (Water, Air, Noise)",
+    "Urban Waste Disposal & Swachh Bharat",
+    "Rural-Urban Migration",
+    "Problems of Slums (Dharavi Case Study)",
+    "Land Degradation (Jhabua Case Study)",
+    "Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Namami Gange",
+    "BOD / COD",
+    "Solid Waste Management",
+    "Dharavi",
+    "Land Degradation",
+    "Jhabua Watershed"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Case Studies: Daurala, Dharavi & Jhabua",
+      "pdf_page": 4,
+      "book_page": 97,
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=4"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 95,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 96,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 97,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 98,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 99,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 100,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 101,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 102,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 103,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 104,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 105,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_09_Geographical_Perspective_on_Selected_Issues_and_Problems.pdf#page=12"
+    }
+  ]
+}

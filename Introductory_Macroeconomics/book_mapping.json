@@ -1,0 +1,161 @@
+{
+  "book_title": "Introductory Macroeconomics",
+  "source_pdfs": {
+    "Part1": {
+      "filename": "Economy Class 12_NCERT_Part1.pdf",
+      "total_pages": 101,
+      "page_dimensions_pt": "612.0 x 900.0"
+    },
+    "Part2": {
+      "filename": "Economy Class 12_NCERT_Part2.pdf",
+      "total_pages": 27,
+      "page_dimensions_pt": "612.0 x 900.0"
+    }
+  },
+  "preliminaries": {
+    "source_part": "Part1",
+    "source_pdf_pages": "1-12",
+    "page_count": 12,
+    "contents": [
+      "Book Cover (p. 1 -> cover.png)",
+      "Editor's Note & Highlight Guide (pp. 2-3)",
+      "ISBN / Copyright & Foreword (pp. 4-6)",
+      "Rationalisation of Content & Fundamental Rights (pp. 7-8)",
+      "Textbook Development Committee & Acknowledgements (pp. 9-10)",
+      "Contents (pp. 11-12)"
+    ]
+  },
+  "glossary": {
+    "source_part": "Part2",
+    "source_pdf_pages": "21-26",
+    "book_pages": "100-105",
+    "page_count": 6
+  },
+  "back_cover": {
+    "source_part": "Part2",
+    "source_pdf_pages": "27-27",
+    "page_count": 1
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Introduction",
+      "output_pdf": "chapters/Chapter_01_Introduction.pdf",
+      "output_json": "chapters/Chapter_01_Introduction.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-9",
+      "book_page_range": "1–8",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Economy Class 12_NCERT_Part1.pdf",
+          "source_pdf_pages": "13-20",
+          "page_count": 8
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "National Income Accounting",
+      "output_pdf": "chapters/Chapter_02_National_Income_Accounting.pdf",
+      "output_json": "chapters/Chapter_02_National_Income_Accounting.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-30",
+      "book_page_range": "9–35",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Economy Class 12_NCERT_Part1.pdf",
+          "source_pdf_pages": "21-49",
+          "page_count": 29
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Money and Banking",
+      "output_pdf": "chapters/Chapter_03_Money_and_Banking.pdf",
+      "output_json": "chapters/Chapter_03_Money_and_Banking.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-21",
+      "book_page_range": "36–52",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Economy Class 12_NCERT_Part1.pdf",
+          "source_pdf_pages": "50-69",
+          "page_count": 20
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Determination of Income and Employment",
+      "output_pdf": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf",
+      "output_json": "chapters/Chapter_04_Determination_of_Income_and_Employment.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-14",
+      "book_page_range": "53–65",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Economy Class 12_NCERT_Part1.pdf",
+          "source_pdf_pages": "70-82",
+          "page_count": 13
+        }
+      ],
+      "stitched_across_parts": false
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Government Budget and the Economy",
+      "output_pdf": "chapters/Chapter_05_Government_Budget_and_the_Economy.pdf",
+      "output_json": "chapters/Chapter_05_Government_Budget_and_the_Economy.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-22",
+      "book_page_range": "66–84",
+      "source_segments": [
+        {
+          "source_part": "Part1",
+          "source_filename": "Economy Class 12_NCERT_Part1.pdf",
+          "source_pdf_pages": "83-101",
+          "page_count": 19
+        },
+        {
+          "source_part": "Part2",
+          "source_filename": "Economy Class 12_NCERT_Part2.pdf",
+          "source_pdf_pages": "1-2",
+          "page_count": 2
+        }
+      ],
+      "stitched_across_parts": true
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Open Economy Macroeconomics",
+      "output_pdf": "chapters/Chapter_06_Open_Economy_Macroeconomics.pdf",
+      "output_json": "chapters/Chapter_06_Open_Economy_Macroeconomics.json",
+      "cover_pdf_page": 1,
+      "content_pdf_pages": "2-19",
+      "book_page_range": "85–99",
+      "source_segments": [
+        {
+          "source_part": "Part2",
+          "source_filename": "Economy Class 12_NCERT_Part2.pdf",
+          "source_pdf_pages": "3-20",
+          "page_count": 18
+        }
+      ],
+      "stitched_across_parts": false
+    }
+  ]
+}

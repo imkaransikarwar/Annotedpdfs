@@ -1,0 +1,214 @@
+{
+  "book_metadata": {
+    "title": "Political Theory",
+    "subject": "Political Science (Political Theory)",
+    "class": "Class 11",
+    "board": "NCERT",
+    "edition": "2024-25 (Civilsdaily IAS Annotated NCERT Edition)",
+    "isbn": "81-7450-519-9",
+    "cover_image": "cover.png",
+    "highlight_guide": {
+      "Green": "Areas from where PYQs have been asked",
+      "Blue": "Other important areas from where questions are possible / extra attention",
+      "Pink": "Purely factual statements like year, site, or ruler",
+      "Peach": "Terms and their definitions given in NCERT",
+      "Yellow": "Statements which sound extreme but are true"
+    },
+    "total_chapters": 8,
+    "total_pdf_pages_with_covers": 141,
+    "total_content_pages": 133,
+    "total_reading_time_minutes": 259,
+    "pyq_summary": {
+      "chapters_with_dedicated_pyqs": [
+        2,
+        3,
+        5,
+        6,
+        8
+      ],
+      "total_inline_callouts": 7
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Political Theory: An Introduction",
+      "slug": "political_theory_introduction",
+      "pdf_file": "chapters/Chapter_01_Political_Theory_An_Introduction.pdf",
+      "json_file": "chapters/Chapter_01_Political_Theory_An_Introduction.json",
+      "total_pdf_pages": 17,
+      "book_page_range": "1–16",
+      "estimated_reading_time_minutes": 31,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_01_Political_Theory_An_Introduction.pdf#page=17"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Freedom",
+      "slug": "freedom",
+      "pdf_file": "chapters/Chapter_02_Freedom.pdf",
+      "json_file": "chapters/Chapter_02_Freedom.json",
+      "total_pdf_pages": 16,
+      "book_page_range": "17–30",
+      "estimated_reading_time_minutes": 30,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 16,
+            "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=16"
+          }
+        ],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=15"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Equality",
+      "slug": "equality",
+      "pdf_file": "chapters/Chapter_03_Equality.pdf",
+      "json_file": "chapters/Chapter_03_Equality.json",
+      "total_pdf_pages": 24,
+      "book_page_range": "31–52",
+      "estimated_reading_time_minutes": 45,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE",
+          "Mains"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 24,
+            "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=24"
+          }
+        ],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=22"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Social Justice",
+      "slug": "social_justice",
+      "pdf_file": "chapters/Chapter_04_Social_Justice.pdf",
+      "json_file": "chapters/Chapter_04_Social_Justice.json",
+      "total_pdf_pages": 15,
+      "book_page_range": "53–66",
+      "estimated_reading_time_minutes": 27,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_04_Social_Justice.pdf#page=15"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Rights",
+      "slug": "rights",
+      "pdf_file": "chapters/Chapter_05_Rights.pdf",
+      "json_file": "chapters/Chapter_05_Rights.json",
+      "total_pdf_pages": 14,
+      "book_page_range": "67–78",
+      "estimated_reading_time_minutes": 25,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 14,
+            "pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=14"
+          }
+        ],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_05_Rights.pdf#page=13"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Citizenship",
+      "slug": "citizenship",
+      "pdf_file": "chapters/Chapter_06_Citizenship.pdf",
+      "json_file": "chapters/Chapter_06_Citizenship.json",
+      "total_pdf_pages": 20,
+      "book_page_range": "79–96",
+      "estimated_reading_time_minutes": 37,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 20,
+            "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=20"
+          }
+        ],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=19"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "ch07",
+      "title": "Nationalism",
+      "slug": "nationalism",
+      "pdf_file": "chapters/Chapter_07_Nationalism.pdf",
+      "json_file": "chapters/Chapter_07_Nationalism.json",
+      "total_pdf_pages": 15,
+      "book_page_range": "97–110",
+      "estimated_reading_time_minutes": 27,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_07_Nationalism.pdf#page=15"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "ch08",
+      "title": "Secularism",
+      "slug": "secularism",
+      "pdf_file": "chapters/Chapter_08_Secularism.pdf",
+      "json_file": "chapters/Chapter_08_Secularism.json",
+      "total_pdf_pages": 20,
+      "book_page_range": "111–128",
+      "estimated_reading_time_minutes": 37,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE Mains"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 20,
+            "pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=20"
+          }
+        ],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_08_Secularism.pdf#page=18"
+    }
+  ]
+}

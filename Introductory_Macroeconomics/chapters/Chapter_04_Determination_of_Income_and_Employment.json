@@ -1,0 +1,165 @@
+{
+  "chapter_number": 4,
+  "chapter_id": "ch04",
+  "title": "Determination of Income and Employment",
+  "slug": "determination_of_income_and_employment",
+  "pdf_filename": "Chapter_04_Determination_of_Income_and_Employment.pdf",
+  "pdf_file": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 14,
+    "content_pages": 13,
+    "cover_pdf_page": 1,
+    "book_page_range": "53–65",
+    "exercises_pdf_page": 14,
+    "exercises_pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=14",
+    "exercises_book_pages": "65",
+    "word_count": 5584,
+    "estimated_reading_time_minutes": 31
+  },
+  "learning_objectives": [
+    "Distinction between ex-ante (planned) and ex-post (actual) measures of consumption, investment, and output;",
+    "Consumption function (autonomous vs. induced), MPC, MPS, APC, APS, and autonomous investment;",
+    "Determination of short-run macroeconomic equilibrium in a two-sector model (graphical 45-degree & algebraic methods); and",
+    "The investment multiplier mechanism, Paradox of Thrift, full employment, deficient demand, and excess demand."
+  ],
+  "sections": [
+    "Ex-ante vs. Ex-post Measures",
+    "Aggregate Demand: Consumption (MPC/MPS) & Investment",
+    "Two-Sector Income Determination Model",
+    "Short-Run Equilibrium (Graphical & Algebraic)",
+    "Autonomous Change & Multiplier Mechanism",
+    "Paradox of Thrift, Deficient & Excess Demand"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": []
+  },
+  "key_terms": [
+    "Ceteris Paribus",
+    "Ex-ante & Ex-post",
+    "Autonomous Consumption",
+    "MPC & MPS",
+    "APC & APS",
+    "Aggregate Demand",
+    "45-Degree Line",
+    "Investment Multiplier",
+    "Paradox of Thrift",
+    "Effective Demand Principle",
+    "Deficient & Excess Demand"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Box: Some Definitions (MPC, MPS, APC, APS)",
+      "pdf_page": 4,
+      "book_page": 55,
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=4"
+    },
+    {
+      "type": "Figures 4.1–4.6: Consumption, Investment & Equilibrium",
+      "pdf_page": 7,
+      "book_page": 58,
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=7"
+    },
+    {
+      "type": "Table 4.1 & Fig. 4.7: Multiplier Mechanism",
+      "pdf_page": 10,
+      "book_page": 61,
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=10"
+    },
+    {
+      "type": "Box & Fig. 4.8: Paradox of Thrift",
+      "pdf_page": 12,
+      "book_page": 63,
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=12"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 53,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 54,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 55,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 56,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 57,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 58,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 59,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 60,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 61,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 62,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 63,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 64,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 65,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Determination_of_Income_and_Employment.pdf#page=14"
+    }
+  ]
+}

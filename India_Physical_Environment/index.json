@@ -1,0 +1,134 @@
+{
+  "book_metadata": {
+    "title": "India: Physical Environment",
+    "subject": "Geography (Physical Geography of India)",
+    "class": "Class 11",
+    "board": "NCERT",
+    "edition": "2024-25 (NCERT Edition)",
+    "isbn": "81-7450-538-5",
+    "cover_image": "cover.png",
+    "highlight_guide": {
+      "Note": "Original NCERT textbook with selective inline highlights and UPSC PYQ annotations"
+    },
+    "total_chapters": 6,
+    "total_pdf_pages_with_covers": 76,
+    "total_content_pages": 70,
+    "total_reading_time_minutes": 150,
+    "pyq_summary": {
+      "chapters_with_dedicated_pyqs": [],
+      "total_inline_callouts": 1
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "India — Location",
+      "slug": "india_location",
+      "pdf_file": "chapters/Chapter_01_India_Location.pdf",
+      "json_file": "chapters/Chapter_01_India_Location.json",
+      "total_pdf_pages": 7,
+      "book_page_range": "1–6",
+      "estimated_reading_time_minutes": 12,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_01_India_Location.pdf#page=7"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Structure and Physiography",
+      "slug": "structure_and_physiography",
+      "pdf_file": "chapters/Chapter_02_Structure_and_Physiography.pdf",
+      "json_file": "chapters/Chapter_02_Structure_and_Physiography.json",
+      "total_pdf_pages": 11,
+      "book_page_range": "7–16",
+      "estimated_reading_time_minutes": 21,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_02_Structure_and_Physiography.pdf#page=11"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Drainage System",
+      "slug": "drainage_system",
+      "pdf_file": "chapters/Chapter_03_Drainage_System.pdf",
+      "json_file": "chapters/Chapter_03_Drainage_System.json",
+      "total_pdf_pages": 12,
+      "book_page_range": "17–26",
+      "estimated_reading_time_minutes": 27,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_03_Drainage_System.pdf#page=11"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Climate",
+      "slug": "climate",
+      "pdf_file": "chapters/Chapter_04_Climate.pdf",
+      "json_file": "chapters/Chapter_04_Climate.json",
+      "total_pdf_pages": 16,
+      "book_page_range": "27–41",
+      "estimated_reading_time_minutes": 32,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_04_Climate.pdf#page=15"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "ch05",
+      "title": "Natural Vegetation",
+      "slug": "natural_vegetation",
+      "pdf_file": "chapters/Chapter_05_Natural_Vegetation.pdf",
+      "json_file": "chapters/Chapter_05_Natural_Vegetation.json",
+      "total_pdf_pages": 11,
+      "book_page_range": "42–51",
+      "estimated_reading_time_minutes": 20,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 1
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_05_Natural_Vegetation.pdf#page=11"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "ch06",
+      "title": "Natural Hazards and Disasters",
+      "slug": "natural_hazards_and_disasters",
+      "pdf_file": "chapters/Chapter_06_Natural_Hazards_and_Disasters.pdf",
+      "json_file": "chapters/Chapter_06_Natural_Hazards_and_Disasters.json",
+      "total_pdf_pages": 19,
+      "book_page_range": "52–69",
+      "estimated_reading_time_minutes": 38,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_06_Natural_Hazards_and_Disasters.pdf#page=19"
+    }
+  ]
+}

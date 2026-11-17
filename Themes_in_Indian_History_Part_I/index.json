@@ -1,0 +1,135 @@
+{
+  "book_metadata": {
+    "title": "Themes in Indian History — Part I",
+    "subject": "History (Ancient India)",
+    "class": "Class 12",
+    "board": "NCERT",
+    "edition": "2024-25 (Civilsdaily IAS Annotated NCERT Edition)",
+    "isbn": "81-7450-651-9",
+    "cover_image": "cover.png",
+    "highlight_guide": {
+      "Green": "Areas from where PYQs have been asked",
+      "Blue": "Other important areas from where questions are possible / extra attention",
+      "Pink": "Purely factual statements like year, site, or ruler",
+      "Peach": "Terms and their definitions given in NCERT",
+      "Yellow": "Statements which sound extreme but are true"
+    },
+    "total_chapters": 4,
+    "total_pdf_pages_with_covers": 123,
+    "total_content_pages": 119,
+    "total_reading_time_minutes": 231,
+    "pyq_summary": {
+      "chapters_with_dedicated_pyqs": [
+        1
+      ],
+      "total_inline_callouts": 10
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "ch01",
+      "title": "Bricks, Beads and Bones: The Harappan Civilisation",
+      "slug": "bricks_beads_and_bones",
+      "pdf_file": "chapters/Chapter_01_Bricks_Beads_and_Bones.pdf",
+      "json_file": "chapters/Chapter_01_Bricks_Beads_and_Bones.json",
+      "total_pdf_pages": 34,
+      "book_page_range": "1–27",
+      "estimated_reading_time_minutes": 64,
+      "pyq_links": {
+        "has_pyq_section": true,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [
+          {
+            "pdf_page": 4,
+            "pdf_anchor": "chapters/Chapter_01_Bricks_Beads_and_Bones.pdf#page=4"
+          },
+          {
+            "pdf_page": 5,
+            "pdf_anchor": "chapters/Chapter_01_Bricks_Beads_and_Bones.pdf#page=5"
+          },
+          {
+            "pdf_page": 7,
+            "pdf_anchor": "chapters/Chapter_01_Bricks_Beads_and_Bones.pdf#page=7"
+          },
+          {
+            "pdf_page": 9,
+            "pdf_anchor": "chapters/Chapter_01_Bricks_Beads_and_Bones.pdf#page=9"
+          },
+          {
+            "pdf_page": 14,
+            "pdf_anchor": "chapters/Chapter_01_Bricks_Beads_and_Bones.pdf#page=14"
+          },
+          {
+            "pdf_page": 17,
+            "pdf_anchor": "chapters/Chapter_01_Bricks_Beads_and_Bones.pdf#page=17"
+          }
+        ],
+        "inline_callout_count": 0
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_01_Bricks_Beads_and_Bones.pdf#page=33"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "ch02",
+      "title": "Kings, Farmers and Towns: Early States and Economies",
+      "slug": "kings_farmers_and_towns",
+      "pdf_file": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf",
+      "json_file": "chapters/Chapter_02_Kings_Farmers_and_Towns.json",
+      "total_pdf_pages": 26,
+      "book_page_range": "28–52",
+      "estimated_reading_time_minutes": 49,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 4
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_02_Kings_Farmers_and_Towns.pdf#page=25"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "ch03",
+      "title": "Kinship, Caste and Class: Early Societies",
+      "slug": "kinship_caste_and_class",
+      "pdf_file": "chapters/Chapter_03_Kinship_Caste_and_Class.pdf",
+      "json_file": "chapters/Chapter_03_Kinship_Caste_and_Class.json",
+      "total_pdf_pages": 30,
+      "book_page_range": "53–81",
+      "estimated_reading_time_minutes": 56,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 2
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_03_Kinship_Caste_and_Class.pdf#page=29"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "ch04",
+      "title": "Thinkers, Beliefs and Buildings: Cultural Developments",
+      "slug": "thinkers_beliefs_and_buildings",
+      "pdf_file": "chapters/Chapter_04_Thinkers_Beliefs_and_Buildings.pdf",
+      "json_file": "chapters/Chapter_04_Thinkers_Beliefs_and_Buildings.json",
+      "total_pdf_pages": 33,
+      "book_page_range": "82–113",
+      "estimated_reading_time_minutes": 62,
+      "pyq_links": {
+        "has_pyq_section": false,
+        "exams_covered": [
+          "CSE"
+        ],
+        "dedicated_pyq_pages": [],
+        "inline_callout_count": 4
+      },
+      "exercises_pdf_anchor": "chapters/Chapter_04_Thinkers_Beliefs_and_Buildings.pdf#page=32"
+    }
+  ]
+}

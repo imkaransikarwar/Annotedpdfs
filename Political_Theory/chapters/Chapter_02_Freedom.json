@@ -1,0 +1,163 @@
+{
+  "chapter_number": 2,
+  "chapter_id": "ch02",
+  "title": "Freedom",
+  "slug": "freedom",
+  "pdf_filename": "Chapter_02_Freedom.pdf",
+  "pdf_file": "chapters/Chapter_02_Freedom.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 16,
+    "content_pages": 15,
+    "cover_pdf_page": 1,
+    "book_page_range": "17–30",
+    "exercises_pdf_page": 15,
+    "exercises_pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=15",
+    "exercises_book_pages": "30",
+    "word_count": 5475,
+    "estimated_reading_time_minutes": 30
+  },
+  "learning_objectives": [
+    "Ideal of freedom (Swaraj, Nelson Mandela's Long Walk to Freedom, Aung San Suu Kyi);",
+    "Negative liberty (absence of external constraints) vs. positive liberty (conditions for self-development);",
+    "J.S. Mill's Harm Principle: self-regarding vs. other-regarding actions and reasonable restrictions; and",
+    "Freedom of expression, censorship debates, and Mill's defence of free speech."
+  ],
+  "sections": [
+    "The Ideal of Freedom & Swaraj",
+    "What is Freedom? (Constraints & Sources)",
+    "Why Do We Need Constraints?",
+    "J.S. Mill's Harm Principle",
+    "Negative & Positive Liberty, Free Speech",
+    "Exercises & UPSC PYQ"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 16,
+        "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=16"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2019,
+        "topic": "Definition of Liberty",
+        "book_page": 27,
+        "pdf_page": 12,
+        "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=12"
+      }
+    ]
+  },
+  "key_terms": [
+    "Swaraj",
+    "Negative Liberty",
+    "Positive Liberty",
+    "Harm Principle (J.S. Mill)",
+    "Self-Regarding Actions",
+    "Reasonable Restrictions"
+  ],
+  "boxes_and_activities": [],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 17,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 18,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 19,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 20,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 21,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 22,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 23,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 24,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 25,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 26,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 27,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 28,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 29,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 30,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_02_Freedom.pdf#page=16"
+    }
+  ]
+}

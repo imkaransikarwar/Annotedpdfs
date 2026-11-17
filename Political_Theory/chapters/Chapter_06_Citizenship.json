@@ -1,0 +1,187 @@
+{
+  "chapter_number": 6,
+  "chapter_id": "ch06",
+  "title": "Citizenship",
+  "slug": "citizenship",
+  "pdf_filename": "Chapter_06_Citizenship.pdf",
+  "pdf_file": "chapters/Chapter_06_Citizenship.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 20,
+    "content_pages": 19,
+    "cover_pdf_page": 1,
+    "book_page_range": "79–96",
+    "exercises_pdf_page": 19,
+    "exercises_pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=19",
+    "exercises_book_pages": "96",
+    "word_count": 6065,
+    "estimated_reading_time_minutes": 37
+  },
+  "learning_objectives": [
+    "Full and equal membership of a political community and T.H. Marshall's civil, political, and social rights;",
+    "Equal rights vs. socioeconomic exclusion (migrants, slum dwellers, Olga Tellis v. Bombay Municipal Corporation);",
+    "Citizen and Nation: inclusive vs. ethnic models of national identity and Indian constitutional citizenship; and",
+    "Universal citizenship, statelessness/refugees, and the emerging ideal of global citizenship."
+  ],
+  "sections": [
+    "Full and Equal Membership (T.H. Marshall)",
+    "Equal Rights, Migrants & Slum Dwellers",
+    "Citizen and Nation",
+    "Universal Citizenship & Refugees",
+    "Global Citizenship",
+    "Exercises & UPSC PYQ"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=20"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Definition of State",
+        "book_page": 96,
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=19"
+      }
+    ]
+  },
+  "key_terms": [
+    "T.H. Marshall",
+    "Civil / Political / Social Rights",
+    "Olga Tellis Case",
+    "Jus Soli / Jus Sanguinis",
+    "Stateless People",
+    "Global Citizenship"
+  ],
+  "boxes_and_activities": [],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 79,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 80,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 81,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 82,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 83,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 84,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 85,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 86,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 87,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 88,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 89,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 90,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 91,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 92,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 93,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 94,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 95,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 96,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_06_Citizenship.pdf#page=20"
+    }
+  ]
+}

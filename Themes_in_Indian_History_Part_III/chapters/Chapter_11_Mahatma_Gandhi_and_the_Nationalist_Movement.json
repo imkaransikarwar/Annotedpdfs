@@ -1,0 +1,257 @@
+{
+  "chapter_number": 11,
+  "chapter_id": "ch11",
+  "title": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
+  "slug": "mahatma_gandhi_nationalist_movement",
+  "pdf_filename": "Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf",
+  "pdf_file": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 31,
+    "content_pages": 30,
+    "cover_pdf_page": 1,
+    "book_page_range": "286–315",
+    "exercises_pdf_page": 30,
+    "exercises_pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=30",
+    "exercises_book_pages": "314–315",
+    "word_count": 12622,
+    "estimated_reading_time_minutes": 70
+  },
+  "learning_objectives": [
+    "Gandhi's return (1915), BHU speech (1916), and early satyagrahas (Champaran, Kheda, Ahmedabad, Rowlatt);",
+    "Non-Cooperation Movement (1920–22), Khilafat alliance, Chauri Chaura, and transformation into a mass movement;",
+    "Salt Satyagraha (Dandi March 1930), Civil Disobedience, Gandhi-Irwin Pact, and Round Table Conferences; and",
+    "Quit India Movement (1942), Cabinet Mission, Direct Action Day, Partition, and historical sources on Gandhi."
+  ],
+  "sections": [
+    "Early Satyagrahas (Champaran, Kheda, Rowlatt)",
+    "Non-Cooperation & Khilafat (1920–22)",
+    "Salt Satyagraha & Civil Disobedience",
+    "Quit India & Towards Independence",
+    "The Last Heroic Days (1946–48)",
+    "Sources on Gandhi, Timeline & Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2000,
+        "topic": "Round Table Conferences & Gandhi-Irwin Pact",
+        "book_page": 304,
+        "pdf_page": 20,
+        "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=20"
+      }
+    ]
+  },
+  "key_terms": [
+    "Satyagraha",
+    "Rowlatt Act",
+    "Khilafat Movement",
+    "Chauri Chaura",
+    "Purna Swaraj",
+    "Dandi March",
+    "Gandhi-Irwin Pact",
+    "Quit India (1942)"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Timeline: Gandhian Era (1915–1948)",
+      "pdf_page": 30,
+      "book_page": 314,
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=30"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 286,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 287,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 288,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 289,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 290,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 291,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 292,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 293,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 294,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 295,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 296,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 297,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 298,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 299,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 300,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 301,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 302,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 303,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 304,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 305,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 306,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 307,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 308,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 309,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 310,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 311,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=27"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 312,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=28"
+    },
+    {
+      "pdf_page": 29,
+      "book_page": 313,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=29"
+    },
+    {
+      "pdf_page": 30,
+      "book_page": 314,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=30"
+    },
+    {
+      "pdf_page": 31,
+      "book_page": 315,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_11_Mahatma_Gandhi_and_the_Nationalist_Movement.pdf#page=31"
+    }
+  ]
+}

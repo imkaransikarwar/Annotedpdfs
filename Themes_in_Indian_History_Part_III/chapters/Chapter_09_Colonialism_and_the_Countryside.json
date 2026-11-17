@@ -1,0 +1,271 @@
+{
+  "chapter_number": 9,
+  "chapter_id": "ch09",
+  "title": "Colonialism and the Countryside: Exploring Official Archives",
+  "slug": "colonialism_and_the_countryside",
+  "pdf_filename": "Chapter_09_Colonialism_and_the_Countryside.pdf",
+  "pdf_file": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 32,
+    "content_pages": 31,
+    "cover_pdf_page": 1,
+    "book_page_range": "227–257",
+    "exercises_pdf_page": 32,
+    "exercises_pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=32",
+    "exercises_book_pages": "257",
+    "word_count": 11878,
+    "estimated_reading_time_minutes": 66
+  },
+  "learning_objectives": [
+    "Permanent Settlement of Bengal (1793), Sunset Law, zamindari auctions (Burdwan), and the rise of jotedars;",
+    "The Fifth Report (1813) and British parliamentary debates on Company administration;",
+    "Rajmahal Hills: Paharias (hoe) vs. Santhals (plough), Damin-i-Koh, and the Santhal Rebellion (1855–56); and",
+    "Ryotwari system in the Bombay Deccan, cotton boom, Limitation Law (1859), and the Deccan Riots (1875)."
+  ],
+  "sections": [
+    "Bengal, Zamindars & Permanent Settlement",
+    "Rise of the Jotedars & The Fifth Report",
+    "Paharias, Santhals & Damin-i-Koh",
+    "Francis Buchanan's Surveys",
+    "Bombay Deccan, Ryotwari & Deccan Riots",
+    "Timeline & Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2001,
+        "topic": "Permanent Settlement & Sunset Law",
+        "book_page": 228,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=3"
+      },
+      {
+        "exam": "CSE",
+        "year": 2000,
+        "topic": "Zamindari & Jotedars",
+        "book_page": 230,
+        "pdf_page": 5,
+        "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=5"
+      }
+    ]
+  },
+  "key_terms": [
+    "Permanent Settlement (1793)",
+    "Sunset Law",
+    "Jotedars",
+    "Fifth Report (1813)",
+    "Damin-i-Koh",
+    "Santhal Hul (1855)",
+    "Ryotwari",
+    "Deccan Riots Commission"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Timeline: Agrarian Colonial Landmarks",
+      "pdf_page": 31,
+      "book_page": 256,
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=31"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 227,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 228,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 229,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 230,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 231,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 232,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 233,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 234,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 235,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 236,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 237,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 238,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 239,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 240,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 241,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 242,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 243,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 244,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 245,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 246,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 247,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 248,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 249,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 250,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 251,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 252,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=27"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 253,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=28"
+    },
+    {
+      "pdf_page": 29,
+      "book_page": 254,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=29"
+    },
+    {
+      "pdf_page": 30,
+      "book_page": 255,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=30"
+    },
+    {
+      "pdf_page": 31,
+      "book_page": 256,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=31"
+    },
+    {
+      "pdf_page": 32,
+      "book_page": 257,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_09_Colonialism_and_the_Countryside.pdf#page=32"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "chapter_number": 6,
+  "chapter_id": "ch06",
+  "title": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+  "slug": "bhakti_sufi_traditions",
+  "pdf_filename": "Chapter_06_Bhakti_Sufi_Traditions.pdf",
+  "pdf_file": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 31,
+    "content_pages": 30,
+    "cover_pdf_page": 1,
+    "book_page_range": "140–169",
+    "exercises_pdf_page": 30,
+    "exercises_pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=30",
+    "exercises_book_pages": "168–169",
+    "word_count": 11592,
+    "estimated_reading_time_minutes": 64
+  },
+  "learning_objectives": [
+    "Integration of cults ('great' and 'little' traditions), Tantric worship, and early Bhakti in Tamil Nadu (Alvars and Nayanars);",
+    "Virashaiva (Lingayat) tradition in Karnataka (Basavanna) and religious ferment in North India;",
+    "Islamic traditions in India, Sufism (khanqah, silsila), Chishti practices (sama, ziyarat, langar), and state relations; and",
+    "Nirguna and Saguna Bhakti poets: Kabir, Guru Nanak, Mirabai, and Shankardev."
+  ],
+  "sections": [
+    "Mosaic of Religious Beliefs & Integration of Cults",
+    "Alvars, Nayanars & Virashaiva Tradition",
+    "Growth of Sufism & Chishti Silsila",
+    "Sufis, Languages & the State",
+    "Kabir, Guru Nanak & Mirabai",
+    "Timeline & Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2021,
+        "topic": "Chishti Silsila & Ajmer Dargah",
+        "book_page": 156,
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=18"
+      },
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Bhakti Saints & Sufis",
+        "book_page": 157,
+        "pdf_page": 19,
+        "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=19"
+      },
+      {
+        "exam": "CSE",
+        "year": 2014,
+        "topic": "Kabir, Nanak & Bhakti",
+        "book_page": 161,
+        "pdf_page": 23,
+        "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=23"
+      },
+      {
+        "exam": "CSE",
+        "year": 2019,
+        "topic": "Bhakti Traditions",
+        "book_page": 167,
+        "pdf_page": 29,
+        "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=29"
+      }
+    ]
+  },
+  "key_terms": [
+    "Alvars & Nayanars",
+    "Nalayira Divyaprabandham",
+    "Virashaiva / Lingayat",
+    "Vachana",
+    "Khanqah",
+    "Silsila",
+    "Ziyarat & Sama",
+    "Nirguna / Saguna",
+    "Shabad / Guru Granth Sahib"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Timeline: Major Religious Teachers",
+      "pdf_page": 28,
+      "book_page": 166,
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=28"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 140,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 141,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 142,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 143,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 144,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 145,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 146,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 147,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 148,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 149,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 150,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 151,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 152,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 153,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 154,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 155,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 156,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 157,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 158,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 159,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 160,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 161,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 162,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 163,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 164,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 165,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=27"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 166,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=28"
+    },
+    {
+      "pdf_page": 29,
+      "book_page": 167,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=29"
+    },
+    {
+      "pdf_page": 30,
+      "book_page": 168,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=30"
+    },
+    {
+      "pdf_page": 31,
+      "book_page": 169,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_06_Bhakti_Sufi_Traditions.pdf#page=31"
+    }
+  ]
+}

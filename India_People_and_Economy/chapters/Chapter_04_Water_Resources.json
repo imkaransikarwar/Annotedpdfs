@@ -1,0 +1,158 @@
+{
+  "chapter_number": 4,
+  "chapter_id": "ch04",
+  "title": "Water Resources",
+  "slug": "water_resources",
+  "pdf_filename": "Chapter_04_Water_Resources.pdf",
+  "pdf_file": "chapters/Chapter_04_Water_Resources.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 14,
+    "content_pages": 13,
+    "cover_pdf_page": 1,
+    "book_page_range": "41–52",
+    "exercises_pdf_page": 13,
+    "exercises_pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=13",
+    "exercises_book_pages": "51–52",
+    "word_count": 4276,
+    "estimated_reading_time_minutes": 25
+  },
+  "learning_objectives": [
+    "Surface water and replenishable groundwater potential across Indian river basins;",
+    "Sectoral water demand dominated by agriculture and emerging water scarcity/quality issues;",
+    "Watershed management (Haryali, Neeru-Meeru, Arvary Pani Sansad) and rainwater harvesting; and",
+    "Jal Kranti Abhiyan (2015–16) and legislative frameworks (Water Act 1974)."
+  ],
+  "sections": [
+    "Surface & Groundwater Resources",
+    "Sectoral Water Demand & Irrigation",
+    "Emerging Water Problems & Deterioration",
+    "Watershed Management & Rainwater Harvesting",
+    "Jal Kranti Abhiyan & Exercises",
+    "UPSC PYQs"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 14,
+        "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=14"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Water Resources & Lagoons",
+        "book_page": 42,
+        "pdf_page": 3,
+        "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=3"
+      }
+    ]
+  },
+  "key_terms": [
+    "Utilisable Water",
+    "Watershed Management",
+    "Haryali",
+    "Neeru-Meeru",
+    "Rainwater Harvesting",
+    "Jal Kranti Abhiyan"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Case Study: Ralegan Siddhi",
+      "pdf_page": 10,
+      "book_page": 49,
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=10"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 41,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 42,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 43,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 44,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 45,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 46,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 47,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 48,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 49,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 50,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 51,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 52,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_04_Water_Resources.pdf#page=14"
+    }
+  ]
+}

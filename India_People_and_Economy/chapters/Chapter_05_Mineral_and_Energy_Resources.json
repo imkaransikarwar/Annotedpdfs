@@ -1,0 +1,166 @@
+{
+  "chapter_number": 5,
+  "chapter_id": "ch05",
+  "title": "Mineral and Energy Resources",
+  "slug": "mineral_and_energy_resources",
+  "pdf_filename": "Chapter_05_Mineral_and_Energy_Resources.pdf",
+  "pdf_file": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 15,
+    "content_pages": 14,
+    "cover_pdf_page": 1,
+    "book_page_range": "53–65",
+    "exercises_pdf_page": 13,
+    "exercises_pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=13",
+    "exercises_book_pages": "64–65",
+    "word_count": 3783,
+    "estimated_reading_time_minutes": 27
+  },
+  "learning_objectives": [
+    "Major mineral belts of India (North-Eastern Plateau, South-Western Plateau, North-Western);",
+    "Distribution of ferrous (iron ore, manganese), non-ferrous (bauxite, copper), and non-metallic (mica) minerals;",
+    "Conventional energy sources: coal (Gondwana & Tertiary), petroleum, natural gas, and nuclear (uranium, thorium); and",
+    "Non-conventional energy potential: solar, wind, tidal/wave, geothermal (Manikaran), and bio-energy."
+  ],
+  "sections": [
+    "Mineral Belts of India",
+    "Ferrous & Non-Ferrous Minerals",
+    "Coal, Petroleum & Natural Gas",
+    "Nuclear Energy (Uranium & Thorium)",
+    "Renewable Energy & Conservation",
+    "Exercises & UPSC PYQs"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 15,
+        "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=15"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2023,
+        "topic": "Thorium & Nuclear Minerals",
+        "book_page": 61,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=10"
+      },
+      {
+        "exam": "CSE",
+        "year": 2022,
+        "topic": "Mineral Belts",
+        "book_page": 61,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=10"
+      }
+    ]
+  },
+  "key_terms": [
+    "Gondwana Coal",
+    "Iron Ore Belts",
+    "Manganese",
+    "Bauxite",
+    "Monazite (Thorium)",
+    "Manikaran Geothermal",
+    "HBJ Pipeline"
+  ],
+  "boxes_and_activities": [],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 53,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 54,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 55,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 56,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 57,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 58,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 59,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 60,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 61,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 62,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 63,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 64,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 65,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_05_Mineral_and_Energy_Resources.pdf#page=15"
+    }
+  ]
+}

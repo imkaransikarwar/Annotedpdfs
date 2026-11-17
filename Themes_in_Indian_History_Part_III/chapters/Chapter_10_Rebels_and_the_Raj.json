@@ -1,0 +1,260 @@
+{
+  "chapter_number": 10,
+  "chapter_id": "ch10",
+  "title": "Rebels and the Raj: The Revolt of 1857 and Its Representations",
+  "slug": "rebels_and_the_raj",
+  "pdf_filename": "Chapter_10_Rebels_and_the_Raj.pdf",
+  "pdf_file": "chapters/Chapter_10_Rebels_and_the_Raj.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 29,
+    "content_pages": 28,
+    "cover_pdf_page": 1,
+    "book_page_range": "258–285",
+    "exercises_pdf_page": 28,
+    "exercises_pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=28",
+    "exercises_book_pages": "284–285",
+    "word_count": 10906,
+    "estimated_reading_time_minutes": 61
+  },
+  "learning_objectives": [
+    "Pattern of the 1857 mutinies (Meerut, Delhi, Kanpur, Lucknow, Jhansi, Arrah) and popular leaders (Shah Mal, Maulvi Ahmadullah Shah);",
+    "Rumours, prophecies (greased cartridges, chapattis), and the annexation of Awadh (1856) + Summary Settlement;",
+    "Rebel vision of Hindu-Muslim unity (Azamgarh Proclamation) and alternative administrative structures; and",
+    "British repression, visual representations (Relief of Lucknow, In Memoriam), and nationalist imageries (Rani Lakshmibai)."
+  ],
+  "sections": [
+    "Pattern of the Mutinies & Leadership",
+    "Rumours, Prophecies & Popular Participation",
+    "Awadh in Revolt (Taluqdars & Sepoys)",
+    "What the Rebels Wanted (Azamgarh Proclamation)",
+    "Repression & Visual Images of 1857",
+    "Timeline & Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2005,
+        "topic": "Leaders of 1857 Revolt",
+        "book_page": 262,
+        "pdf_page": 6,
+        "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=6"
+      },
+      {
+        "exam": "CSE",
+        "year": 2000,
+        "topic": "Annexation of Awadh",
+        "book_page": 266,
+        "pdf_page": 10,
+        "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=10"
+      },
+      {
+        "exam": "CSE",
+        "year": 2006,
+        "topic": "1857 Repression & Memory",
+        "book_page": 282,
+        "pdf_page": 26,
+        "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=26"
+      }
+    ]
+  },
+  "key_terms": [
+    "Doctrine of Lapse",
+    "Summary Settlement (1856)",
+    "Azamgarh Proclamation",
+    "Shah Mal",
+    "Maulvi Ahmadullah Shah",
+    "Relief of Lucknow",
+    "In Memoriam"
+  ],
+  "boxes_and_activities": [
+    {
+      "type": "Timeline: 1857 Revolt Events",
+      "pdf_page": 28,
+      "book_page": 284,
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=28"
+    }
+  ],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 258,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 259,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 260,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 261,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 262,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 263,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 264,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 265,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 266,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 267,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 268,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 269,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 270,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 271,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 272,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 273,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 274,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 275,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 276,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 277,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 278,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 279,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 280,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=24"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 281,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=25"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 282,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=26"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 283,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=27"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 284,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=28"
+    },
+    {
+      "pdf_page": 29,
+      "book_page": 285,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_10_Rebels_and_the_Raj.pdf#page=29"
+    }
+  ]
+}

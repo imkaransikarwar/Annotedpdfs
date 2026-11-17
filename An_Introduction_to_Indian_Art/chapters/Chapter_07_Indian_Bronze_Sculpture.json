@@ -1,0 +1,116 @@
+{
+  "chapter_number": 7,
+  "chapter_id": "ch07",
+  "title": "Indian Bronze Sculpture",
+  "slug": "indian_bronze_sculpture",
+  "pdf_filename": "Chapter_07_Indian_Bronze_Sculpture.pdf",
+  "pdf_file": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 8,
+    "content_pages": 7,
+    "cover_pdf_page": 1,
+    "book_page_range": "103–108",
+    "exercises_pdf_page": 7,
+    "exercises_pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=7",
+    "exercises_book_pages": "108",
+    "word_count": 2321,
+    "estimated_reading_time_minutes": 14
+  },
+  "learning_objectives": [
+    "Cire-perdue (lost-wax) bronze casting techniques from the Indus Valley to the Chola period;",
+    "Buddhist and Jain bronzes from Nalanda, Kurkihar, Akota (Gujarat), and Vakataka-Gupta centres;",
+    "Pallava and Chola bronze masterpieces, especially Shiva Nataraja and Parvati (Sembiyan Mahadevi); and",
+    "Iconographic postures including Tribhanga, Abhaya Mudra, and Kalyanasundara."
+  ],
+  "sections": [
+    "Lost-Wax (Cire-Perdue) Casting Process",
+    "Gupta & Vakataka Bronzes (Phophnar)",
+    "Jain Bronzes (Akota, Chausa) & Pala Bronzes (Nalanda)",
+    "Pallava & Chola Bronzes (Nataraja)",
+    "Vijayanagara Bronzes & Exercises",
+    "UPSC PYQ (Tribhanga)"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=8"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2013,
+        "topic": "Tribhanga Pose",
+        "book_page": 108,
+        "pdf_page": 7,
+        "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=7"
+      }
+    ]
+  },
+  "key_terms": [
+    "Cire-perdue",
+    "Nataraja",
+    "Akota Hoard",
+    "Kurkihar",
+    "Sembiyan Mahadevi",
+    "Kalyanasundara",
+    "Tribhanga"
+  ],
+  "boxes_and_activities": [],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 103,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 104,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 105,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 106,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 107,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 108,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_07_Indian_Bronze_Sculpture.pdf#page=8"
+    }
+  ]
+}

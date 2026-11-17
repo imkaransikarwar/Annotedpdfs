@@ -1,0 +1,196 @@
+{
+  "chapter_number": 3,
+  "chapter_id": "ch03",
+  "title": "Land Resources and Agriculture",
+  "slug": "land_resources_and_agriculture",
+  "pdf_filename": "Chapter_03_Land_Resources_and_Agriculture.pdf",
+  "pdf_file": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 21,
+    "content_pages": 20,
+    "cover_pdf_page": 1,
+    "book_page_range": "21–40",
+    "exercises_pdf_page": 20,
+    "exercises_pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=20",
+    "exercises_book_pages": "39–40",
+    "word_count": 7142,
+    "estimated_reading_time_minutes": 40
+  },
+  "learning_objectives": [
+    "Nine-fold land-use classification in India and Common Property Resources (CPRs);",
+    "Cropping seasons (Kharif, Rabi, Zaid) and irrigated vs. rainfed (dryland/wetland) farming;",
+    "Major foodgrains, oilseeds, fibre crops (cotton, jute), and plantation crops (tea, coffee); and",
+    "Green Revolution impacts, National Mission for Sustainable Agriculture, and Indian agricultural challenges."
+  ],
+  "sections": [
+    "Land-Use Categories & Shifts",
+    "Common Property Resources (CPRs)",
+    "Cropping Seasons & Farming Types",
+    "Foodgrains, Cash Crops & Plantations",
+    "Agricultural Development & Challenges",
+    "Exercises"
+  ],
+  "pyq_links": {
+    "has_pyq_section": false,
+    "exams_covered": [
+      "CSE"
+    ],
+    "dedicated_pyq_pages": [],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "Rice Cultivation",
+        "book_page": 28,
+        "pdf_page": 9,
+        "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=9"
+      },
+      {
+        "exam": "CSE",
+        "year": 2018,
+        "topic": "Pulses & Dryland Crops",
+        "book_page": 30,
+        "pdf_page": 11,
+        "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=11"
+      }
+    ]
+  },
+  "key_terms": [
+    "Net Sown Area",
+    "Culturable Wasteland",
+    "Cropping Intensity",
+    "Common Property Resources",
+    "Kharif / Rabi / Zaid",
+    "Green Revolution"
+  ],
+  "boxes_and_activities": [],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 21,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 22,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 23,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 24,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 25,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 26,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 27,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 28,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 29,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 30,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 31,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 32,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 33,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 34,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 35,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 36,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 37,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 38,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 39,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 40,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Land_Resources_and_Agriculture.pdf#page=21"
+    }
+  ]
+}

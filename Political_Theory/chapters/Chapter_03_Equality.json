@@ -1,0 +1,221 @@
+{
+  "chapter_number": 3,
+  "chapter_id": "ch03",
+  "title": "Equality",
+  "slug": "equality",
+  "pdf_filename": "Chapter_03_Equality.pdf",
+  "pdf_file": "chapters/Chapter_03_Equality.pdf",
+  "reading_metadata": {
+    "total_pdf_pages": 24,
+    "content_pages": 23,
+    "cover_pdf_page": 1,
+    "book_page_range": "31–52",
+    "exercises_pdf_page": 22,
+    "exercises_pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=22",
+    "exercises_book_pages": "51–52",
+    "word_count": 6929,
+    "estimated_reading_time_minutes": 45
+  },
+  "learning_objectives": [
+    "Why equality matters: equal moral worth vs. natural and socially produced inequalities;",
+    "Three dimensions of equality: political, social, and economic equality;",
+    "Ideologies of equality: Feminism (patriarchy), Marxism (class), Liberalism, and Socialism (Lohia's Sapta Kranti); and",
+    "Promoting equality through formal equality, differential treatment, and affirmative action."
+  ],
+  "sections": [
+    "Why Does Equality Matter?",
+    "Natural vs. Social Inequalities",
+    "Three Dimensions of Equality",
+    "Feminism, Marxism, Liberalism & Socialism",
+    "Affirmative Action & Differential Treatment",
+    "Exercises & UPSC PYQs"
+  ],
+  "pyq_links": {
+    "has_pyq_section": true,
+    "exams_covered": [
+      "CSE",
+      "Mains"
+    ],
+    "dedicated_pyq_pages": [
+      {
+        "pdf_page": 24,
+        "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=24"
+      }
+    ],
+    "inline_pyq_callouts": [
+      {
+        "exam": "CSE",
+        "year": 2017,
+        "topic": "Equality & Democracy",
+        "book_page": 37,
+        "pdf_page": 8,
+        "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=8"
+      },
+      {
+        "exam": "CSE",
+        "year": 2024,
+        "topic": "Affirmative Action & Equality",
+        "book_page": 47,
+        "pdf_page": 18,
+        "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=18"
+      }
+    ]
+  },
+  "key_terms": [
+    "Equality of Opportunity",
+    "Natural vs. Social Inequality",
+    "Feminism",
+    "Patriarchy",
+    "Socialism",
+    "Sapta Kranti (Lohia)",
+    "Affirmative Action"
+  ],
+  "boxes_and_activities": [],
+  "external_links": [],
+  "page_map": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "page_type": "cover",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=1"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": 31,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=2"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": 32,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=3"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": 33,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=4"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 34,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=5"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 35,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=6"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 36,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=7"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 37,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=8"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 38,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=9"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 39,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=10"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 40,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=11"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 41,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=12"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 42,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=13"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 43,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=14"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 44,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=15"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 45,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=16"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 46,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=17"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 47,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=18"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 48,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=19"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 49,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=20"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 50,
+      "page_type": "content",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=21"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 51,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=22"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 52,
+      "page_type": "exercises",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=23"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": null,
+      "page_type": "pyq",
+      "pdf_anchor": "chapters/Chapter_03_Equality.pdf#page=24"
+    }
+  ]
+}
